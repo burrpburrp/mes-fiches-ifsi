@@ -8,9 +8,10 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import GithubSlugger from 'github-slugger';
+import { identifiant } from './identifiant.mjs';
 import { visit, SKIP } from 'unist-util-visit';
 
-const DOSSIER = 'src/content/fiches';
+const DOSSIER = 'fiches';
 const LIEN = /(!?)\[\[([^\]|#]*)(?:#([^\]|]*))?(?:\|([^\]]*))?\]\]/g;
 const BLOC = /\s\^([A-Za-z0-9-]+)\s*$/;
 
@@ -25,7 +26,7 @@ function indexDesFiches() {
       if (entree.isDirectory()) parcourir(chemin);
       else if (entree.name.endsWith('.md')) {
         const relatif = path.relative(DOSSIER, chemin).replace(/\.md$/, '');
-        const id = relatif.split(path.sep).map(slug).join('/');
+        const id = identifiant(relatif.split(path.sep).join('/'));
         const nom = path.basename(relatif);
         const titre = fs.readFileSync(chemin, 'utf8').match(/^titre:\s*["']?(.+?)["']?\s*$/m)?.[1];
         for (const cle of [nom, titre, id]) if (cle) index.set(cle.toLowerCase(), id);

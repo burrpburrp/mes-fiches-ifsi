@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import remarkLiens from './src/lib/remark-liens.mjs';
+import remarkQcm from './src/lib/remark-qcm.mjs';
 
 const base = '/mes-fiches-ifsi';
 
@@ -10,6 +11,6 @@ export default defineConfig({
   site: 'https://burrpburrp.github.io',
   base,
   markdown: {
-    remarkPlugins: [[remarkLiens, { base }]],
+    remarkPlugins: [remarkQcm, [remarkLiens, { base }]],
   },
 });

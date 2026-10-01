@@ -1,0 +1,20 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "fiches",
+  "attachmentFolderPath": "fiches/images",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "src/",
+    "public/",
+    "docs/",
+    "node_modules/",
+    "dist/",
+    "README.md",
+    "CLAUDE.md",
+    "package.json",
+    "package-lock.json",
+    "astro.config.mjs"
+  ]
+}

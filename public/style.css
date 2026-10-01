@@ -26,3 +26,4 @@ footer { max-width: 760px; margin: 2rem auto; padding: 1rem; color: var(--doux);
 .retroliens h2 { font-size: 1rem; color: var(--doux); }
 :target { background: color-mix(in srgb, var(--accent) 15%, transparent); border-radius: 6px; }
 del { color: var(--faux); }
+.indice { font-weight: 400; color: var(--doux); font-size: .9rem; }

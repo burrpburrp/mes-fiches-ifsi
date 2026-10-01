@@ -1,22 +1,16 @@
 ---
 titre: Bêta-2 mimétiques
 resume: Bronchodilatateurs utilisés dans l'asthme et la BPCO.
-ue: ["2.11"]
-semestres: [3]
-organes: [respiratoire]
+ue:
+  - "2.11"
+semestres:
+  - 3
+organes:
+  - respiratoire
 type: medicament
-tags: [asthme, exemple]
-qcm:
-  - question: "Quel est l'effet principal d'un bêta-2 mimétique ?"
-    choix: ["Bronchoconstriction", "Bronchodilatation", "Sédation"]
-    reponse: 1
-  - question: "Le salbutamol est un bêta-2 mimétique…"
-    choix: ["de courte durée d'action", "de longue durée d'action"]
-    reponse: 0
-  - question: "Quel effet indésirable surveiller ?"
-    choix: ["Une tachycardie", "Une hypothermie", "Une constipation"]
-    reponse: 0
-    explication: "Tremblements et tachycardie sont les effets indésirables les plus fréquents."
+tags:
+  - asthme
+  - exemple
 ---
 
 > ⚠️ **Fiche d'exemple**, écrite pour montrer le fonctionnement du site. Elle sera remplacée par les fiches d'Oksana.
@@ -37,3 +31,21 @@ Relâchent les muscles des bronches : **bronchodilatation**. Indiqués dans l'[[
 - Efficacité : FR, SpO₂, DEP, ressenti du patient
 - Effets indésirables : **tremblements, tachycardie**, palpitations
 - Vérifier la technique d'inhalation
+
+## QCM
+
+### Quel est l'effet principal d'un bêta-2 mimétique ?
+- [ ] Bronchoconstriction
+- [x] Bronchodilatation
+- [ ] Sédation
+
+### Le salbutamol est un bêta-2 mimétique…
+- [x] de courte durée d'action
+- [ ] de longue durée d'action
+
+### Quel effet indésirable surveiller ?
+- [x] Une tachycardie
+- [ ] Une hypothermie
+- [ ] Une constipation
+
+Explication : tremblements et tachycardie sont les effets indésirables les plus fréquents.

@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   return fiches.map((fiche) => ({ params: { id: fiche.id }, props: { fiche } }));
 }
 const { fiche } = Astro.props;
-const { Content } = await render(fiche);
+const { Content, remarkPluginFrontmatter } = await render(fiche);
 const d = fiche.data;
 const liesIci = retroliens(fiche, await fichesPubliees());
 ---
@@ -28,7 +28,7 @@ const liesIci = retroliens(fiche, await fichesPubliees());
       <span class="tag">Semestre{d.semestres.length > 1 ? 's' : ''} {d.semestres.join(', ')}</span>
     </p>
     <Content />
-    <Qcm questions={d.qcm} />
+    <Qcm questions={remarkPluginFrontmatter.qcm} />
     {liesIci.length > 0 && (
       <aside class="retroliens">
         <h2>Ces fiches renvoient ici</h2>

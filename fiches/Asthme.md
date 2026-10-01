@@ -1,22 +1,17 @@
 ---
 titre: Asthme
 resume: Maladie inflammatoire chronique des bronches.
-ue: ["2.8"]
-semestres: [3]
-organes: [respiratoire]
+ue:
+  - "2.8"
+semestres:
+  - 3
+organes:
+  - respiratoire
 type: pathologie
-tags: [chronique, urgence, exemple]
-qcm:
-  - question: "L'asthme est avant tout une maladie…"
-    choix: ["infectieuse", "inflammatoire chronique des bronches", "tumorale"]
-    reponse: 1
-  - question: "Quel bruit respiratoire est typique d'une crise d'asthme ?"
-    choix: ["Des sibilants", "Un souffle tubaire", "Des crépitants"]
-    reponse: 0
-    explication: "Les sibilants traduisent le rétrécissement des bronches."
-  - question: "Quel examen mesure l'obstruction bronchique au lit du patient ?"
-    choix: ["La glycémie capillaire", "Le débit expiratoire de pointe (DEP)", "La température"]
-    reponse: 1
+tags:
+  - chronique
+  - urgence
+  - exemple
 ---
 
 > ⚠️ **Fiche d'exemple**, écrite pour montrer le fonctionnement du site. Elle sera remplacée par les fiches d'Oksana.
@@ -42,3 +37,22 @@ Maladie **inflammatoire chronique** des bronches, avec une **obstruction révers
 - Installer en position assise, surveiller FR, SpO₂, **DEP**
 - Administrer le traitement prescrit (voir la fiche [[Bêta-2 mimétiques]])
 - Éducation : technique d'inhalation, facteurs déclenchants
+
+## QCM
+
+### L'asthme est avant tout une maladie…
+- [ ] infectieuse
+- [x] inflammatoire chronique des bronches
+- [ ] tumorale
+
+### Quel bruit respiratoire est typique d'une crise d'asthme ?
+- [x] Des sibilants
+- [ ] Un souffle tubaire
+- [ ] Des crépitants
+
+Explication : les sibilants traduisent le rétrécissement des bronches.
+
+### Quels éléments surveiller pendant une crise ?
+- [x] La SpO₂
+- [x] La fréquence respiratoire
+- [ ] La glycémie capillaire
