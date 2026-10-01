@@ -1,0 +1,29 @@
+---
+import { lien } from '../lib/site';
+interface Props { titre: string }
+const { titre } = Astro.props;
+---
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{titre} · Mes fiches IFSI</title>
+    <link rel="stylesheet" href={lien('style.css')} />
+  </head>
+  <body>
+    <header>
+      <a class="logo" href={lien('')}>Mes fiches IFSI</a>
+      <nav>
+        <a href={lien('')}>Par semestre</a>
+        <a href={lien('organes/')}>Par organe</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      Fiches rédigées par une étudiante. Elles ne sont pas validées par l'IFSI et ne remplacent pas les cours.
+    </footer>
+  </body>
+</html>

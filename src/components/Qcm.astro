@@ -1,0 +1,50 @@
+---
+import type { CollectionEntry } from 'astro:content';
+interface Props { questions: CollectionEntry<'fiches'>['data']['qcm'] }
+const { questions } = Astro.props;
+---
+{questions.length > 0 && (
+  <section class="qcm">
+    <h2>Teste-toi</h2>
+    {questions.map((q, i) => (
+      <fieldset class="question" data-reponse={q.reponse}>
+        <legend>{i + 1}. {q.question}</legend>
+        {q.choix.map((choix, j) => (
+          <label>
+            <input type="radio" name={`q${i}`} value={j} />
+            {choix}
+          </label>
+        ))}
+        <p class="correction" hidden>
+          <span class="verdict"></span>
+          {q.explication && <span> {q.explication}</span>}
+        </p>
+      </fieldset>
+    ))}
+    <button type="button" class="verifier">Vérifier mes réponses</button>
+    <p class="score" hidden></p>
+  </section>
+)}
+
+<script>
+  // Correction du QCM directement dans le navigateur : rien n'est enregistré.
+  document.querySelectorAll<HTMLElement>('.qcm').forEach((qcm) => {
+    qcm.querySelector('.verifier')?.addEventListener('click', () => {
+      let bonnes = 0;
+      const questions = qcm.querySelectorAll<HTMLElement>('.question');
+      questions.forEach((q) => {
+        const choisi = q.querySelector<HTMLInputElement>('input:checked');
+        const juste = choisi !== null && Number(choisi.value) === Number(q.dataset.reponse);
+        if (juste) bonnes++;
+        const correction = q.querySelector<HTMLElement>('.correction')!;
+        correction.hidden = false;
+        correction.className = `correction ${juste ? 'juste' : 'faux'}`;
+        const bonne = q.querySelectorAll('label')[Number(q.dataset.reponse)]?.textContent?.trim();
+        correction.querySelector('.verdict')!.textContent = juste ? '✅ Bonne réponse.' : `❌ La bonne réponse était : ${bonne}.`;
+      });
+      const score = qcm.querySelector<HTMLElement>('.score')!;
+      score.hidden = false;
+      score.textContent = `Score : ${bonnes} / ${questions.length}`;
+    });
+  });
+</script>

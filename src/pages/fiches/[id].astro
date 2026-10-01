@@ -1,0 +1,32 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Qcm from '../../components/Qcm.astro';
+import { ues, organes, fichesPubliees, lien, libellesType } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const fiches = await fichesPubliees();
+  return fiches.map((fiche) => ({ params: { id: fiche.id }, props: { fiche } }));
+}
+const { fiche } = Astro.props;
+const { Content } = await render(fiche);
+const d = fiche.data;
+---
+<Base titre={d.titre}>
+  <article>
+    <h1>{d.titre}</h1>
+    <p class="meta">
+      <span class="badge">{libellesType[d.type]}</span>
+      {d.ue.map((id) => {
+        const ue = ues.find((u) => u.id === id)!;
+        return <a class="tag" href={lien(`ue/${id}/`)}>UE {id} · {ue.intitule}</a>;
+      })}
+      {d.organes.map((id) => (
+        <a class="tag" href={lien(`organes/${id}/`)}>{organes.find((o) => o.id === id)!.nom}</a>
+      ))}
+      <span class="tag">Semestre{d.semestres.length > 1 ? 's' : ''} {d.semestres.join(', ')}</span>
+    </p>
+    <Content />
+    <Qcm questions={d.qcm} />
+  </article>
+</Base>
