@@ -1,0 +1,36 @@
+name: 🐞 Signaler un problème
+description: Quelque chose ne marche pas ou s'affiche mal sur le site.
+title: "[Problème] "
+labels: ["problème"]
+body:
+  - type: textarea
+    id: quoi
+    attributes:
+      label: Qu'est-ce qui ne va pas ?
+      placeholder: "Ex. : sur la fiche Asthme, le QCM ne s'affiche pas."
+    validations:
+      required: true
+  - type: input
+    id: ou
+    attributes:
+      label: Sur quelle page ?
+      description: Copie l'adresse de la page si tu peux.
+    validations:
+      required: false
+  - type: dropdown
+    id: appareil
+    attributes:
+      label: Sur quel appareil ?
+      options:
+        - Téléphone
+        - Ordinateur
+        - Tablette
+    validations:
+      required: false
+  - type: textarea
+    id: capture
+    attributes:
+      label: Une capture d'écran ?
+      description: Glisse l'image ici.
+    validations:
+      required: false

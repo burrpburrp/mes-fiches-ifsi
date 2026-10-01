@@ -1,0 +1,42 @@
+name: 💡 Nouveau besoin
+description: Une idée, une envie, quelque chose qui manque sur le site.
+title: "[Besoin] "
+labels: ["besoin"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Écris comme tu le dirais à l'oral, pas besoin d'être technique.
+        On reviendra vers toi dans les commentaires si quelque chose n'est pas clair.
+  - type: textarea
+    id: quoi
+    attributes:
+      label: Qu'est-ce que tu aimerais ?
+      placeholder: "Ex. : pouvoir afficher toutes les fiches qui parlent du cœur."
+    validations:
+      required: true
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi c'est utile ?
+      description: Pour qui, dans quelle situation ?
+      placeholder: "Ex. : les étudiants révisent souvent organe par organe avant les partiels."
+    validations:
+      required: false
+  - type: textarea
+    id: exemple
+    attributes:
+      label: Un exemple ou une image ?
+      description: Un site que tu aimes, un croquis, une capture d'écran… Tu peux glisser une image ici.
+    validations:
+      required: false
+  - type: dropdown
+    id: priorite
+    attributes:
+      label: C'est important pour toi ?
+      options:
+        - Indispensable pour lancer le site
+        - Important, mais ça peut attendre
+        - Ce serait un plus
+    validations:
+      required: true
