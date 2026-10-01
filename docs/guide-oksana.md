@@ -46,7 +46,7 @@ Tes fiches sont de simples fichiers dans le dossier `fiches` du projet. Tu les �
 
 1. Installe [Obsidian](https://obsidian.md) et [GitHub Desktop](https://desktop.github.com).
 2. Ouvre GitHub Desktop et connecte-toi avec ton compte GitHub (**Sign in to GitHub.com**).
-3. Dans GitHub Desktop : **File → Clone repository**, choisis `burrpburrp/mes-fiches-ifsi`, puis un dossier facile à retrouver (par exemple *Documents*, ce qui donne `C:\Users\<ton nom>\Documents\GitHub\mes-fiches-ifsi`). Clique sur **Clone**.
+3. Dans GitHub Desktop : **File → Clone repository**, choisis `burrpburrp/mes-fiches-ifsi`, et garde le dossier proposé (en général `C:\Users\<ton nom>\Documents\GitHub\mes-fiches-ifsi`). Clique sur **Clone**.
 4. Ouvre Obsidian : **Ouvrir un dossier comme coffre** (« Open folder as vault »), puis choisis le dossier `mes-fiches-ifsi` que tu viens de créer.
 
 Tu verras d'autres dossiers (le code du site) : ignore-les, tout se passe dans `fiches`.
