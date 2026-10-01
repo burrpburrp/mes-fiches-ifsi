@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Qcm from '../../components/Qcm.astro';
-import { ues, organes, fichesPubliees, lien, libellesType } from '../../lib/site';
+import { ues, organes, fichesPubliees, lien, libellesType, retroliens } from '../../lib/site';
 
 export async function getStaticPaths() {
   const fiches = await fichesPubliees();
@@ -11,6 +11,7 @@ export async function getStaticPaths() {
 const { fiche } = Astro.props;
 const { Content } = await render(fiche);
 const d = fiche.data;
+const liesIci = retroliens(fiche, await fichesPubliees());
 ---
 <Base titre={d.titre}>
   <article>
@@ -28,5 +29,11 @@ const d = fiche.data;
     </p>
     <Content />
     <Qcm questions={d.qcm} />
+    {liesIci.length > 0 && (
+      <aside class="retroliens">
+        <h2>Ces fiches renvoient ici</h2>
+        <ul>{liesIci.map((f) => <li><a href={lien(`fiches/${f.id}/`)}>{f.data.titre}</a></li>)}</ul>
+      </aside>
+    )}
   </article>
 </Base>

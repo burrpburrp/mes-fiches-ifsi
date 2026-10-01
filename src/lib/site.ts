@@ -24,3 +24,18 @@ export const libellesType: Record<string, string> = {
   soin: 'Soin',
   autre: 'Autre',
 };
+
+type Fiche = Awaited<ReturnType<typeof fichesPubliees>>[number];
+
+/** Les fiches qui contiennent un lien [[...]] vers la fiche donnée (« rétroliens »). */
+export function retroliens(fiche: Fiche, toutes: Fiche[]): Fiche[] {
+  const nomFichier = fiche.filePath?.split('/').pop()?.replace(/\.md$/, '') ?? '';
+  const noms = new Set([fiche.id, fiche.data.titre, nomFichier].map((n) => n.toLowerCase()));
+  return toutes.filter((autre) => {
+    if (autre.id === fiche.id) return false;
+    for (const m of (autre.body ?? '').matchAll(/\[\[([^\]|#]+)/g)) {
+      if (noms.has(m[1].trim().toLowerCase())) return true;
+    }
+    return false;
+  });
+}

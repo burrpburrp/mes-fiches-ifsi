@@ -23,7 +23,7 @@ qcm:
 
 ## Définition
 
-Maladie **inflammatoire chronique** des bronches, avec une **obstruction réversible** (spontanément ou sous traitement).
+Maladie **inflammatoire chronique** des bronches, avec une **obstruction réversible** (spontanément ou sous traitement). ^def
 
 ## Mécanisme
 
@@ -40,5 +40,5 @@ Maladie **inflammatoire chronique** des bronches, avec une **obstruction révers
 ## Rôle infirmier
 
 - Installer en position assise, surveiller FR, SpO₂, **DEP**
-- Administrer le traitement prescrit (voir la fiche [Bêta-2 mimétiques](../beta2-mimetiques/))
+- Administrer le traitement prescrit (voir la fiche [[Bêta-2 mimétiques]])
 - Éducation : technique d'inhalation, facteurs déclenchants

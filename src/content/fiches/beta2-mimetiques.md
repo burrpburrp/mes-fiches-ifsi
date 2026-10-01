@@ -23,7 +23,7 @@ qcm:
 
 ## Action
 
-Relâchent les muscles des bronches : **bronchodilatation**.
+Relâchent les muscles des bronches : **bronchodilatation**. Indiqués dans l'[[Asthme#^def|asthme]] et la BPCO, en particulier pendant une [[Asthme#Signes d'une crise|crise]].
 
 ## Deux familles
 
