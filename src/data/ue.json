@@ -1,0 +1,8 @@
+[
+  { "id": "2.4", "intitule": "Processus traumatiques", "semestres": [1] },
+  { "id": "2.5", "intitule": "Processus inflammatoires et infectieux", "semestres": [3] },
+  { "id": "2.7", "intitule": "Défaillances organiques et processus dégénératifs", "semestres": [4] },
+  { "id": "2.8", "intitule": "Processus obstructifs", "semestres": [3] },
+  { "id": "2.9", "intitule": "Processus tumoraux", "semestres": [5] },
+  { "id": "2.11", "intitule": "Pharmacologie et thérapeutiques", "semestres": [1, 3, 5] }
+]

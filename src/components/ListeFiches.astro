@@ -1,0 +1,18 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { lien, libellesType } from '../lib/site';
+interface Props { fiches: CollectionEntry<'fiches'>[] }
+const { fiches } = Astro.props;
+---
+{fiches.length === 0 ? (
+  <p class="vide">Pas encore de fiche ici.</p>
+) : (
+  <ul class="fiches">
+    {fiches.map((f) => (
+      <li>
+        <a href={lien(`fiches/${f.id}/`)}>{f.data.titre}</a>
+        <span class="badge">{libellesType[f.data.type]}</span>
+      </li>
+    ))}
+  </ul>
+)}

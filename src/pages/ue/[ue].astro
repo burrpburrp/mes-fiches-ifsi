@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import ListeFiches from '../../components/ListeFiches.astro';
+import { ues, fichesPubliees } from '../../lib/site';
+
+export function getStaticPaths() {
+  return ues.map((u) => ({ params: { ue: u.id }, props: { ue: u } }));
+}
+const { ue } = Astro.props;
+const fiches = (await fichesPubliees()).filter((f) => f.data.ue.includes(ue.id));
+---
+<Base titre={`UE ${ue.id}`}>
+  <h1>UE {ue.id} · {ue.intitule}</h1>
+  <p>Semestre{ue.semestres.length > 1 ? 's' : ''} {ue.semestres.join(', ')}</p>
+  <ListeFiches fiches={fiches} />
+</Base>

@@ -1,0 +1,26 @@
+---
+import Base from '../../layouts/Base.astro';
+import ListeFiches from '../../components/ListeFiches.astro';
+import { organes, fichesPubliees, libellesType } from '../../lib/site';
+
+export function getStaticPaths() {
+  return organes.map((o) => ({ params: { organe: o.id }, props: { organe: o } }));
+}
+const { organe } = Astro.props;
+const fiches = (await fichesPubliees()).filter((f) => f.data.organes.includes(organe.id));
+// Ordre prévu par la réforme : anatomie → pathologies → médicaments.
+const ordre = ['anatomie', 'physiologie', 'pathologie', 'medicament', 'soin', 'autre'] as const;
+---
+<Base titre={organe.nom}>
+  <h1>{organe.nom}</h1>
+  {ordre.map((type) => {
+    const duType = fiches.filter((f) => f.data.type === type);
+    return duType.length > 0 && (
+      <section>
+        <h2>{libellesType[type]}</h2>
+        <ListeFiches fiches={duType} />
+      </section>
+    );
+  })}
+  {fiches.length === 0 && <p class="vide">Pas encore de fiche ici.</p>}
+</Base>

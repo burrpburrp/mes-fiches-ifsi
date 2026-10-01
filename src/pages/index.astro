@@ -1,0 +1,26 @@
+---
+import Base from '../layouts/Base.astro';
+import ListeFiches from '../components/ListeFiches.astro';
+import { ues, fichesPubliees, lien } from '../lib/site';
+
+// Vue actuelle : semestre → UE → fiches.
+const fiches = await fichesPubliees();
+const semestres = [1, 2, 3, 4, 5, 6];
+---
+<Base titre="Par semestre">
+  <h1>Les fiches, par semestre</h1>
+  {semestres.map((s) => {
+    const uesDuSemestre = ues.filter((u) => u.semestres.includes(s));
+    return uesDuSemestre.length > 0 && (
+      <section>
+        <h2>Semestre {s}</h2>
+        {uesDuSemestre.map((u) => (
+          <div class="ue">
+            <h3><a href={lien(`ue/${u.id}/`)}>UE {u.id} · {u.intitule}</a></h3>
+            <ListeFiches fiches={fiches.filter((f) => f.data.ue.includes(u.id) && f.data.semestres.includes(s))} />
+          </div>
+        ))}
+      </section>
+    );
+  })}
+</Base>

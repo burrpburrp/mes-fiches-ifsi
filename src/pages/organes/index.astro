@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import { organes, fichesPubliees, lien } from '../../lib/site';
+
+// Vue « réforme » : organe → fiches, générée à partir des mêmes métadonnées.
+const fiches = await fichesPubliees();
+---
+<Base titre="Par organe">
+  <h1>Les fiches, par organe</h1>
+  <ul class="organes">
+    {organes.map((o) => {
+      const n = fiches.filter((f) => f.data.organes.includes(o.id)).length;
+      return <li><a href={lien(`organes/${o.id}/`)}>{o.nom}</a> <span class="compte">{n} fiche{n > 1 ? 's' : ''}</span></li>;
+    })}
+  </ul>
+</Base>
