@@ -7,3 +7,4 @@
 - Oksana rédige dans **Obsidian** (le dépôt est son coffre, config dans `.obsidian/`) et publie avec GitHub Desktop. Fiches dans `fiches/` (nom de fichier = titre), modèle dans `modèles/Fiche.md`. Liens Obsidian `[[...]]` (fiche, `#section`, `#^bloc`) convertis par `src/lib/remark-liens.mjs` ; QCM écrit dans la section `## QCM` en cases à cocher, lu par `src/lib/remark-qcm.mjs`. Ne jamais imposer à Oksana une syntaxe qu'Obsidian n'affiche pas naturellement.
 - Modèle de contenu : chaque fiche porte des propriétés (`titre`, `ue`, `semestres`, `organes`, `type`, `tags`, `brouillon`). La navigation est **générée** à partir de ces métadonnées pour pouvoir passer d'une organisation par UE/semestre à une organisation par organe (réforme) sans modifier les fiches.
 - Validation par Oksana : déplacer la carte dans « À valider par Oksana » et la mentionner dans un commentaire avec un lien ou une capture.
+- Oksana est sous **Windows**.

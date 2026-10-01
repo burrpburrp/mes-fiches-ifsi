@@ -42,19 +42,19 @@ Une réponse simple suffit : « OK pour moi », ou « Je préférerais que… »
 
 Tes fiches sont de simples fichiers dans le dossier `fiches` du projet. Tu les écris dans **Obsidian**, et tu les publies avec **GitHub Desktop**.
 
-### Installation (une seule fois)
+### Installation sur Windows (une seule fois)
 
 1. Installe [Obsidian](https://obsidian.md) et [GitHub Desktop](https://desktop.github.com).
 2. Ouvre GitHub Desktop et connecte-toi avec ton compte GitHub (**Sign in to GitHub.com**).
-3. Dans GitHub Desktop : **File → Clone repository**, choisis `burrpburrp/mes-fiches-ifsi`, puis un dossier facile à retrouver (par exemple *Documents*). Clique sur **Clone**.
+3. Dans GitHub Desktop : **File → Clone repository**, choisis `burrpburrp/mes-fiches-ifsi`, puis un dossier facile à retrouver (par exemple *Documents*, ce qui donne `C:\Users\<ton nom>\Documents\GitHub\mes-fiches-ifsi`). Clique sur **Clone**.
 4. Ouvre Obsidian : **Ouvrir un dossier comme coffre** (« Open folder as vault »), puis choisis le dossier `mes-fiches-ifsi` que tu viens de créer.
 
 Tu verras d'autres dossiers (le code du site) : ignore-les, tout se passe dans `fiches`.
 
 ### Écrire une fiche
 
-1. Crée une nouvelle note (**Ctrl+N**, ou **Cmd+N** sur Mac). Elle se range toute seule dans `fiches`. Le nom de la note est le titre de la fiche.
-2. Insère le modèle : **Ctrl/Cmd+P**, tape « modèle », choisis **Insérer un modèle**, puis **Fiche**.
+1. Crée une nouvelle note (**Ctrl+N**). Elle se range toute seule dans `fiches`. Le nom de la note est le titre de la fiche.
+2. Insère le modèle : **Ctrl+P**, tape « modèle », choisis **Insérer un modèle**, puis **Fiche**.
 3. Remplis les **propriétés** en haut :
    - `ue` : le ou les numéros d'UE, par exemple `2.8` ;
    - `semestres` : 1 à 6 ;
