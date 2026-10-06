@@ -72,6 +72,8 @@ Tu verras d'autres dossiers (le code du site) : ignore-les, tout se passe dans `
 | `[[Asthme#^def]]` | un paragraphe précis (Obsidian te propose la liste quand tu tapes `^`) |
 | `[[Asthme\|la fiche sur l'asthme]]` | la fiche, avec le texte de ton choix |
 
+Un lien vers une fiche encore en brouillon s'affiche barré sur le site ; il devient cliquable dès que tu publies cette fiche.
+
 Tape simplement `[[` : Obsidian te propose les fiches existantes. La **vue graphique** (icône en forme de réseau à gauche) te montre toutes les fiches et leurs liens.
 
 ### Écrire le QCM
@@ -98,7 +100,7 @@ S'il y a plusieurs bonnes réponses, coche-les toutes : le site s'adapte.
 3. En bas à gauche, écris un petit résumé (par exemple « Fiche Asthme »), puis clique sur **Commit to main**.
 4. Clique sur **Push origin** en haut.
 
-Le site se met à jour tout seul en 2 à 3 minutes. S'il y a une erreur (une UE mal écrite, par exemple), le site garde sa version précédente : préviens Manuel.
+Le site se met à jour tout seul en 2 à 3 minutes. S'il y a une erreur (une UE mal écrite, ou deux fiches dont les noms ne diffèrent que par les accents ou les majuscules, par exemple), le site garde sa version précédente : préviens Manuel.
 
 **Avant de commencer à écrire**, clique sur **Fetch origin** (puis **Pull origin** s'il apparaît) dans GitHub Desktop pour récupérer les dernières modifications.
 
