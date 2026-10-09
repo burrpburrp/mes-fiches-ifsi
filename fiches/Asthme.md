@@ -22,7 +22,7 @@ Maladie **inflammatoire chronique** des bronches, avec une **obstruction révers
 
 ## Mécanisme
 
-- Inflammation de la paroi bronchique
+- Inflammation de la paroi bronchique burrp
 - Contraction des muscles des bronches (bronchospasme)
 - Sécrétion de mucus
 

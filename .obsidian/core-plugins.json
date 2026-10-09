@@ -11,5 +11,22 @@
   "templates": true,
   "outline": true,
   "word-count": true,
-  "file-recovery": true
+  "file-recovery": true,
+  "canvas": true,
+  "footnotes": false,
+  "daily-notes": true,
+  "note-composer": true,
+  "command-palette": true,
+  "slash-command": false,
+  "editor-status": true,
+  "bookmarks": true,
+  "zk-prefixer": false,
+  "random-note": false,
+  "slides": false,
+  "audio-recorder": false,
+  "workspaces": false,
+  "publish": false,
+  "sync": true,
+  "bases": true,
+  "webviewer": false
 }
