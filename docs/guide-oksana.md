@@ -40,14 +40,34 @@ Une réponse simple suffit : « OK pour moi », ou « Je préférerais que… »
 
 ## 4. Écrire et publier tes fiches avec Obsidian
 
-Tes fiches sont de simples fichiers dans le dossier `fiches` du projet. Tu les écris dans **Obsidian**, et tu les publies avec **GitHub Desktop**.
+Tes fiches sont de simples fichiers dans le dossier `fiches` du projet. Tu les écris dans **Obsidian**, et tu les publies depuis Obsidian, avec l'extension **Git**.
 
-### Installation sur Windows (une seule fois)
+### Installation sous Linux (une seule fois, à faire avec Manuel)
 
-1. Installe [Obsidian](https://obsidian.md) et [GitHub Desktop](https://desktop.github.com).
-2. Ouvre GitHub Desktop et connecte-toi avec ton compte GitHub (**Sign in to GitHub.com**).
-3. Dans GitHub Desktop : **File → Clone repository**, choisis `burrpburrp/mes-fiches-ifsi`, et garde le dossier proposé (en général `C:\Users\<ton nom>\Documents\GitHub\mes-fiches-ifsi`). Clique sur **Clone**.
-4. Ouvre Obsidian : **Ouvrir un dossier comme coffre** (« Open folder as vault »), puis choisis le dossier `mes-fiches-ifsi` que tu viens de créer.
+Cette partie se fait dans un terminal. Manuel peut s'en charger ; ensuite tu n'en auras plus besoin. Les commandes sont pour Ubuntu, Linux Mint ou Debian.
+
+1. Installe Git et l'outil GitHub :
+   ```
+   sudo apt install git gh
+   ```
+2. Connecte-toi à GitHub (une page s'ouvre dans le navigateur, valide avec ton compte `Ici-Oksana`) :
+   ```
+   gh auth login --web --git-protocol https
+   gh auth setup-git
+   ```
+3. Indique ton nom pour signer tes publications :
+   ```
+   git config --global user.name "Oksana"
+   git config --global user.email "ADRESSE-EMAIL-DE-TON-COMPTE-GITHUB"
+   ```
+4. Récupère le projet dans ton dossier personnel :
+   ```
+   gh repo clone burrpburrp/mes-fiches-ifsi ~/mes-fiches-ifsi
+   ```
+5. Installe [Obsidian](https://obsidian.md/download) en prenant le paquet **.deb** ou l'**AppImage**. Évite la version Flatpak, qui ne voit pas Git.
+6. Ouvre Obsidian, choisis **Ouvrir un dossier comme coffre** (« Open folder as vault »), puis le dossier `mes-fiches-ifsi`.
+7. Installe l'extension Git : **Paramètres → Extensions de la communauté → Activer**, puis **Parcourir**. Cherche « **Git** » (auteur : Vinzent), clique sur **Installer**, puis sur **Activer**.
+8. Dans les réglages de l'extension Git, active **Pull on startup** : Obsidian récupérera les dernières modifications à chaque ouverture.
 
 Tu verras d'autres dossiers (le code du site) : ignore-les, tout se passe dans `fiches`.
 
@@ -96,13 +116,9 @@ S'il y a plusieurs bonnes réponses, coche-les toutes : le site s'adapte.
 ### Publier
 
 1. Passe `brouillon` à `false` dans les propriétés de la fiche.
-2. Ouvre GitHub Desktop. Tes modifications apparaissent à gauche.
-3. En bas à gauche, écris un petit résumé (par exemple « Fiche Asthme »), puis clique sur **Commit to main**.
-4. Clique sur **Push origin** en haut.
+2. **Ctrl+P**, tape « commit », puis choisis **Git: Commit-and-sync**. Tu peux aussi utiliser l'icône Git dans la barre de gauche.
 
-Le site se met à jour tout seul en 2 à 3 minutes. S'il y a une erreur (une UE mal écrite, ou deux fiches dont les noms ne diffèrent que par les accents ou les majuscules, par exemple), le site garde sa version précédente : préviens Manuel.
-
-**Avant de commencer à écrire**, clique sur **Fetch origin** (puis **Pull origin** s'il apparaît) dans GitHub Desktop pour récupérer les dernières modifications.
+C'est tout : la fiche part sur GitHub et le site se met à jour tout seul en 2 à 3 minutes. S'il y a une erreur (une UE mal écrite, par exemple), le site garde sa version précédente : préviens Manuel.
 
 ## Une question ?
 
