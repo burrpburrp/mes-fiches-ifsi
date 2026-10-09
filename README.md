@@ -14,4 +14,6 @@ Site de fiches de cours pour les étudiants en soins infirmiers (IFSI), rédigé
 
 ## État
 
-Le site n'est pas encore en ligne. Prochaine étape : squelette du site (Astro), hébergement GitHub Pages et espace d'écriture pour les fiches.
+Les fiches sont dans le dossier [`fiches`](fiches/), écrites avec Obsidian. Le site est publié sur GitHub Pages : https://burrpburrp.github.io/mes-fiches-ifsi/
+
+Pour travailler sur le code : `npm install`, puis `npm run dev`.

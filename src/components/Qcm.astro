@@ -1,0 +1,56 @@
+---
+export interface Question { question: string; choix: string[]; reponses: number[]; explication?: string }
+interface Props { questions: Question[] }
+const { questions = [] } = Astro.props;
+---
+{questions.length > 0 && (
+  <section class="qcm">
+    <h2>Teste-toi</h2>
+    {questions.map((q, i) => {
+      const plusieurs = q.reponses.length > 1;
+      return (
+        <fieldset class="question" data-reponses={q.reponses.join(',')}>
+          <legend>{i + 1}. {q.question}{plusieurs && <span class="indice"> (plusieurs réponses)</span>}</legend>
+          {q.choix.map((choix, j) => (
+            <label>
+              <input type={plusieurs ? 'checkbox' : 'radio'} name={`q${i}`} value={j} />
+              {choix}
+            </label>
+          ))}
+          <p class="correction" hidden>
+            <span class="verdict"></span>
+            {q.explication && <span> {q.explication}</span>}
+          </p>
+        </fieldset>
+      );
+    })}
+    <button type="button" class="verifier">Vérifier mes réponses</button>
+    <p class="score" hidden></p>
+  </section>
+)}
+
+<script>
+  // Correction du QCM directement dans le navigateur : rien n'est enregistré.
+  document.querySelectorAll<HTMLElement>('.qcm').forEach((qcm) => {
+    qcm.querySelector('.verifier')?.addEventListener('click', () => {
+      let bonnes = 0;
+      const questions = qcm.querySelectorAll<HTMLElement>('.question');
+      questions.forEach((q) => {
+        const attendues = (q.dataset.reponses ?? '').split(',').filter(Boolean).map(Number).sort();
+        const cochees = [...q.querySelectorAll<HTMLInputElement>('input:checked')].map((c) => Number(c.value)).sort();
+        const juste = attendues.length > 0 && attendues.join() === cochees.join();
+        if (juste) bonnes++;
+        const libelles = [...q.querySelectorAll('label')].map((l) => l.textContent?.trim());
+        const correction = q.querySelector<HTMLElement>('.correction')!;
+        correction.hidden = false;
+        correction.className = `correction ${juste ? 'juste' : 'faux'}`;
+        correction.querySelector('.verdict')!.textContent = juste
+          ? '✅ Bonne réponse.'
+          : `❌ ${attendues.length > 1 ? 'Les bonnes réponses étaient' : 'La bonne réponse était'} : ${attendues.map((a) => libelles[a]).join(' ; ')}.`;
+      });
+      const score = qcm.querySelector<HTMLElement>('.score')!;
+      score.hidden = false;
+      score.textContent = `Score : ${bonnes} / ${questions.length}`;
+    });
+  });
+</script>

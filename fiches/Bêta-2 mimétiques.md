@@ -1,0 +1,51 @@
+---
+titre: Bêta-2 mimétiques
+resume: Bronchodilatateurs utilisés dans l'asthme et la BPCO.
+ue:
+  - "2.11"
+semestres:
+  - 3
+organes:
+  - respiratoire
+type: medicament
+tags:
+  - asthme
+  - exemple
+---
+
+> ⚠️ **Fiche d'exemple**, écrite pour montrer le fonctionnement du site. Elle sera remplacée par les fiches d'Oksana.
+
+## Action
+
+Relâchent les muscles des bronches : **bronchodilatation**. Indiqués dans l'[[Asthme#^def|asthme]] et la BPCO, en particulier pendant une [[Asthme#Signes d'une crise|crise]].
+
+## Deux familles
+
+| Durée d'action | Exemple | Utilisation |
+|---|---|---|
+| Courte | Salbutamol | Traitement de la crise |
+| Longue | Salmétérol, formotérol | Traitement de fond |
+
+## Surveillance infirmière
+
+- Efficacité : FR, SpO₂, DEP, ressenti du patient
+- Effets indésirables : **tremblements, tachycardie**, palpitations
+- Vérifier la technique d'inhalation
+
+## QCM
+
+### Quel est l'effet principal d'un bêta-2 mimétique ?
+- [ ] Bronchoconstriction
+- [x] Bronchodilatation
+- [ ] Sédation
+
+### Le salbutamol est un bêta-2 mimétique…
+- [x] de courte durée d'action
+- [ ] de longue durée d'action
+
+### Quel effet indésirable surveiller ?
+- [x] Une tachycardie
+- [ ] Une hypothermie
+- [ ] Une constipation
+
+Explication : tremblements et tachycardie sont les effets indésirables les plus fréquents.

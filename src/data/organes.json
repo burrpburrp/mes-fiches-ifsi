@@ -1,0 +1,11 @@
+[
+  { "id": "cardiovasculaire", "nom": "Cœur et vaisseaux" },
+  { "id": "respiratoire", "nom": "Poumons et voies respiratoires" },
+  { "id": "neurologique", "nom": "Cerveau et système nerveux" },
+  { "id": "digestif", "nom": "Appareil digestif" },
+  { "id": "urinaire", "nom": "Reins et voies urinaires" },
+  { "id": "endocrinien", "nom": "Glandes et hormones" },
+  { "id": "locomoteur", "nom": "Os, muscles et articulations" },
+  { "id": "cutane", "nom": "Peau" },
+  { "id": "hematologique", "nom": "Sang et immunité" }
+]
