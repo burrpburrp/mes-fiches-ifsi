@@ -50,9 +50,18 @@ Cette partie se fait dans un terminal. Manuel peut s'en charger ; ensuite tu n'e
    ```
    sudo apt install git gh
    ```
-2. Connecte-toi à GitHub (une page s'ouvre dans le navigateur, valide avec ton compte `Ici-Oksana`) :
+2. Connecte-toi à GitHub :
    ```
-   gh auth login --web --git-protocol https
+   gh auth login
+   ```
+   L'outil pose quelques questions ; réponds avec les flèches et Entrée :
+   - *Where do you use GitHub?* → **GitHub.com**
+   - *Preferred protocol for Git operations?* → **HTTPS**
+   - *Authenticate Git with your GitHub credentials?* → **Yes**
+   - *How would you like to authenticate?* → **Login with a web browser** : copie le code affiché, puis valide dans le navigateur avec ton compte `Ici-Oksana`.
+
+   Puis termine avec :
+   ```
    gh auth setup-git
    ```
 3. Indique ton nom pour signer tes publications :
@@ -64,7 +73,13 @@ Cette partie se fait dans un terminal. Manuel peut s'en charger ; ensuite tu n'e
    ```
    gh repo clone burrpburrp/mes-fiches-ifsi ~/mes-fiches-ifsi
    ```
-5. Installe [Obsidian](https://obsidian.md/download) en prenant le paquet **.deb** ou l'**AppImage**. Évite la version Flatpak, qui ne voit pas Git.
+5. Installe [Obsidian](https://obsidian.md/download) en prenant le paquet **.deb**, puis :
+   ```
+   sudo apt install ~/Downloads/obsidian_*.deb
+   ```
+   (remplace `Downloads` par `Téléchargements` si ton Linux est en français). Les messages de fin sur *AppArmor* ou commençant par `N:` sont normaux. Pour mettre Obsidian à jour plus tard, refais la même chose avec le nouveau fichier.
+
+   Évite la version **Flatpak**, celle que propose la Logithèque de Mint : elle ne voit pas Git.
 6. Ouvre Obsidian, choisis **Ouvrir un dossier comme coffre** (« Open folder as vault »), puis le dossier `mes-fiches-ifsi`.
 7. Installe l'extension Git : **Paramètres → Extensions de la communauté → Activer**, puis **Parcourir**. Cherche « **Git** » (auteur : Vinzent), clique sur **Installer**, puis sur **Activer**.
 8. Dans les réglages de l'extension Git, active **Pull on startup** : Obsidian récupérera les dernières modifications à chaque ouverture.
