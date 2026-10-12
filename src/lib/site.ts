@@ -21,6 +21,7 @@ export const libellesType: Record<string, string> = {
   physiologie: 'Physiologie',
   pathologie: 'Pathologie',
   medicament: 'Médicament',
+  pharmacologie: 'Pharmacologie',
   soin: 'Soin',
   autre: 'Autre',
 };
