@@ -29,6 +29,12 @@ const liesIci = retroliens(fiche, await fichesPubliees());
     </p>
     <Content />
     <Qcm questions={remarkPluginFrontmatter.qcm} />
+    {d.sources.length > 0 && (
+      <aside class="sources">
+        <h2>Source{d.sources.length > 1 ? 's' : ''}</h2>
+        <ul>{d.sources.map((s) => <li>{/^https?:\/\//.test(s) ? <a href={s}>{s}</a> : s}</li>)}</ul>
+      </aside>
+    )}
     {liesIci.length > 0 && (
       <aside class="retroliens">
         <h2>Ces fiches renvoient ici</h2>

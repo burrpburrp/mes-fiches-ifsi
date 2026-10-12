@@ -39,3 +39,13 @@ test('refuse toujours une UE inconnue ou un semestre hors 1 à 6', () => {
   assert.throws(() => schema.parse({ ...base, semestres: 7 }));
   assert.throws(() => schema.parse({ ...base, semestres: null }));
 });
+
+test('regroupe les propriétés « source » et « sources » dans une liste', () => {
+  assert.deepEqual(schema.parse({ ...base, source: 'Cours du Pr X, 2024' }).sources, ['Cours du Pr X, 2024']);
+  assert.deepEqual(schema.parse({ ...base, sources: ['A', 'B'], source: 'C' }).sources, ['A', 'B', 'C']);
+  assert.deepEqual(schema.parse(base).sources, []);
+});
+
+test('accepte des propriétés ajoutées par Oksana sans bloquer la publication', () => {
+  assert.doesNotThrow(() => schema.parse({ ...base, aliases: ['Crise d\'asthme'], note_perso: 'à revoir' }));
+});

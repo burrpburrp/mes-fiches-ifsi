@@ -21,5 +21,9 @@ export function schemaFiche({ idsUe, idsOrganes }) {
     type: z.enum(TYPES),
     tags: liste(z.string()),
     brouillon: z.boolean().nullish().transform((v) => v ?? false),
-  });
+    // Oksana écrit « source » ou « sources » : les deux sont regroupés dans `sources`.
+    sources: liste(z.coerce.string()),
+    source: liste(z.coerce.string()),
+  }).transform(({ source, ...fiche }) => ({ ...fiche, sources: [...fiche.sources, ...source] }));
+  // Les autres propriétés ajoutées dans Obsidian sont ignorées : elles ne bloquent pas la publication.
 }

@@ -22,8 +22,8 @@ footer { max-width: 760px; margin: 2rem auto; padding: 1rem; color: var(--doux);
 .verifier { font: inherit; padding: .5rem 1rem; border: none; border-radius: 8px; background: var(--accent); color: var(--fond); cursor: pointer; }
 .score { font-weight: 700; }
 .lien-fiche { text-decoration-style: dotted; }
-.retroliens { margin-top: 2rem; padding-top: .5rem; border-top: 1px solid var(--bord); }
-.retroliens h2 { font-size: 1rem; color: var(--doux); }
+.retroliens, .sources { margin-top: 2rem; padding-top: .5rem; border-top: 1px solid var(--bord); }
+.retroliens h2, .sources h2 { font-size: 1rem; color: var(--doux); }
 :target { background: color-mix(in srgb, var(--accent) 15%, transparent); border-radius: 6px; }
 del { color: var(--faux); }
 .indice { font-weight: 400; color: var(--doux); font-size: .9rem; }
