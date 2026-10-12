@@ -111,16 +111,9 @@ Pour cannabis et cocaïne, on n'a pas de médicament.
 On n'a pas de médicament pour empêcher la consommation de LSD ou des amphétaminiques.  
 ## QCM
 
-### Ta première question ?
-- [ ] Mauvaise réponse
-- [x] Bonne réponse (coche-la avec un x)
-- [ ] Mauvaise réponse
-
-Explication : facultative, affichée après la correction.
-
 ### Pour les addictions, sur le plan pharmacologique, les traitements visent à :
-- [x] On réduit ou supprime la consommation
-- [ ] On traite la dépendance/l'addiction
+- [x] Réduire ou supprimer la consommation
+- [ ] Traiter la dépendance/l'addiction
 - [ ] Les deux réponses sont vraies
 
 ### Le facteur de risque de décès numéro 2 au monde, après l'hypertension : 
@@ -133,9 +126,9 @@ Explication : facultative, affichée après la correction.
 - [x] Oui
 
 ### Pour ne pas augmenter le risque lié à la consommation d'alcool, selon l'OMS, il ne faut pas dépasser quel quantité d'alcool par jour : 
-- [ ] 10 g
-- [x] 7 g
-- [ ] 15 g
+- [ ] 10 g (un verre)
+- [x] 7 g (moins d'un verre)
+- [ ] 20 g (deux verres)
 
 ### Le tabac est addictif parce que :
 - [x] Il contient de la nicotine
@@ -159,11 +152,6 @@ Explication : facultative, affichée après la correction.
 ### La cigarette électronique est un médicament de traitement de la dépendance au tabac :
 - [x] Faux
 - [ ] Vrai
-
-### La nicotine se lie aux récepteurs :
-- [x] Cholinergiques, dont le neurotransmetteur est l'acétylcholine
-- [ ] Opioïdes, dont les neurotransmetteurs sont les endorphines 
-- [ ] Dopaminergiques, dont le neurotransmetteur est la dopamine
 
 ### Les IDE peuvent préscrire le bupropion et la varénicline :
 - [x] Faux
@@ -210,4 +198,7 @@ Explication : facultative, affichée après la correction.
 - [x] Antagoniste des récepteurs opioïdes 
 - [ ] Agoniste des récepteurs opioïdes 
 
+### Il existe des traitements de la dépendance au cannabis :
+- [x] Faux
+- [ ] Vrai
 
