@@ -3,8 +3,7 @@ titre: Bêta-2 mimétiques
 resume: Bronchodilatateurs utilisés dans l'asthme et la BPCO.
 ue:
   - "2.11"
-semestres:
-  - 3
+semestres: 3
 organes:
   - respiratoire
 type: medicament

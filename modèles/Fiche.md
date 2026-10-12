@@ -1,10 +1,9 @@
 ---
 titre: "{{title}}"
-resume: 
+resume:
 ue:
   - "2.8"
-semestres:
-  - 1
+semestres: 1
 organes:
   - respiratoire
 type: pathologie
