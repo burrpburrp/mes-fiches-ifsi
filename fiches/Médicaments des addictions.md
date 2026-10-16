@@ -11,24 +11,23 @@ brouillon: false
 source: Ivan Berlin. Département de Pharmacologie médicale, hôpital Pitié-Salpêtrière. Septembre 2024.
 ---
 ## Définitions
-Il est toujours important de faire des définitions pour savoir de quoi on parle. 
 **Toute addiction est la perte de contrôle par rapport à un comportement malgré la connaissance que ce comportement est néfaste pour la santé de l’individu, pour la famille et pour la société.**
 Il faut distinguer deux types d'addictions : 
     1. Addiction à une ou plusieurs substances. Parmi les fumeurs, il y a peu d'alcooliques relativement au nombre de fumeurs. Par contre, parmi les alcooliques, il y a 60 à 90 % de fumeurs. Ça s'appelle des co-addictions.   
-    2. Addiction comportementale. Les joueurs pathologiques, les achats compulsifs. Les jeux d'ordinateur. 
-Pourquoi il faut connaître les addictions? Ces comportements ont un retentissement sur l'individu, sur la famille et il y a un retentissement social. Après, il y a les les maladies qui se développent par la suite de l'addiction de prise de substances. 
+    2. Addiction comportementale. Les joueurs pathologiques, les achats compulsifs, les jeux d'ordinateur. 
 Des différents types d'usages : 
     - Usage simple. Vous buvez du vin lors d'un repas repas en famille, c'est un usage simple.   
-    - Usage à risque. Si vous êtes enceinte et vous buvez de l'alcool même lors d'un repas de famille, c'est un usage déjà à risque. L'usage simple normalement il y a peu de risques.
-    - Abus, ça veut dire une consommation excessive. Ce sont des consommations non continues. Consommation en quelques heures et grande quantité : binge drinking.  
-Aujourd'hui, on parle plutôt une *maladie addictive* parce que la personne n'arrive pas à changer de comportement. Il y a un besoin impérieux de reprendre la substance une fois on l'a initié. Donc on peut parler de dépendance.
-Il est peu connu que l'addiction se développe très vite. En ce qui concerne le tabac, le cannabis, après quelques semaines d'utilisation régulière, on devient dépendant et on ne peut pas se passer de la substance.   
-Plus tôt *dans la vie* on rencontre une substance, c'est-à-dire plus tôt il y a une interaction cerveau-substance, plus c'est difficile d'arrêter et plus le risque de devenir malade des conséquences de l'addiction est élevé. Si vous commencez à fumer à 25 ans, le risque de devenir fumeur chronique et donc de mourir des maladies liées au tabac est plus faible que si vous commencez à fumer à 12 ans. Pas seulement parce que la durée d'exposition est plus longue, de 13 ans, mais aussi parce qu'à 12 ans, donc pendant l'adolescence, le cerveau est en développement et extrêmement sensible sur toute influence. L'interaction substance-cerveau fait que il reste des traces de cette interaction qu'on appelle priming. Donc **plus tôt on touche à une substance, plus le risque de devenir addict est élevé.**
-Pour toute substance légale ou illégale, (peut-être à l'exception du café ou du thé, on peut dire que à ce jour on n'a pas démontré une maladie liée à la consommation de caféine), pour toutes les autres substances, le développement des maladies liées est inévitable. Ça dépend de la durée d'exposition, mais aussi de la façon d'utilisation. 
-Si c'est une substance par voie injectable, intraveineuse, il y a le risque de transmission virale. Si c'est par voie d'inhalation comme pour le tabac, il y a un risque oropharyngé de cancer et un risque de cancer du poumon. Le cancer du poumon n'existait pas si les gens fumaient pas. Et il y a des conséquences cardiovasculaires et dans ce cas-là on parle plutôt comme facteur de risque. **Le cancer du poumon est tellement lié au tabagisme qu'on peut dire que c'est une relation causale.** Par contre, pour les maladies cardiovasculaires ou broncho-pulmonaires, on dit que c'est un facteur de risque majeur, il faut faire la différence entre cause et facteur de risque.   
-Pour la cocaïne, il y a un risque cardiovasculaire et en particulier cardiaque qui est très important, et bien sûr les risques d'accidents vasculaires cérébraux, et ce sont les gens relativement jeunes. 
-Pour l'alcool, la consommation en binge régulièrement ou la consommation continue tôt ou tard va entraîner de troubles au niveau du foie et puis secondairement plus tard au niveau du cerveau.   
-Bien entendu, quand il y a les maladies qui sont liées à la consommation, non seulement la morbidité est augmentée, mais aussi la mortalité.  Si vous avez une cirrhose hépatique, vous allez mourir plutôt que quelqu'un qui n'a pas de cirrhose hépatique. Si vous avez un cancer du poumon induit par le tabac, la probabilité de mourir est 36 fois plus élevée que chez quelqu'un qui n'a pas fumé. Donc **c'est la réduction d'espérance de vie qui est le problème majeur de toutes les addictions**. 
+    - Usage à risque. Si vous êtes enceinte et vous buvez de l'alcool lors d'un repas de famille, c'est un usage à risque. 
+    - Abus. Ce sont des consommations excessives non continues. Binge drinking.  
+Aujourd'hui, on parle plutôt d'une *maladie addictive* = la dépendance parce que la personne n'arrive pas à changer de comportement. Il y a un besoin impérieux de reprendre la substance une fois on l'a initié. 
+L'addiction se développe très vite. Le tabac, le cannabis : la dépendance après quelques semaines d'utilisation régulière.   
+Plus tôt (dans la vie) on touche à une substance, plus le risque de devenir addict est élevé. A adolescence le cerveau est extrêmement sensible sur toute influence. Les traces d'interaction substance-cerveau s'appellent *priming*.  
+**Pour toute substance légale ou illégale (à l'exception du café ou du thé - à ce jour on n'a pas démontré une maladie liée à la consommation de caféine) le développement des maladies liées est inévitable.**  
+Voie IV : le risque de transmission virale. 
+Voie d'inhalation (tabac) : le risque de cancer oropharyngé et de cancer du poumon. Et il y a des conséquences cardiovasculaires et broncho-pulmonaires, et dans ce cas-là on parle plutôt de facteur de risque. **Le cancer du poumon est tellement lié au tabagisme qu'on peut dire que c'est une relation causale.** Il faut faire la différence entre cause et facteur de risque.   
+La cocaïne : un risque cardiovasculaire et en particulier cardiaque, et bien sûr les risques d'accidents vasculaires cérébraux. 
+L'alcool : la consommation en binge régulièrement ou la consommation continue tôt ou tard va entraîner de troubles au niveau du foie et puis secondairement au niveau du cerveau.   
+**La réduction d'espérance de vie est le problème majeur de toutes les addictions**. Si vous avez un cancer du poumon induit par le tabac, la probabilité de mourir est 36 fois plus élevée que chez quelqu'un qui n'a pas fumé.  
 ## Tabac
 C'est le facteur de risque de décès numéro 2 au monde, après l'hypertension.
 En France, on a 12 millions de fumeurs, qui fument en moyenne 12-13 cigarettes par jour. 25 % des fumeurs sont des fumeurs quotidiens. 35 % de la population de 18 à 75 ans est fumeur. On fait la distinction entre les fumeurs qui fument pas tous les jours et d'autres qui fument tous les jours. L'intensité de la consommation contribue au risque pour la santé.

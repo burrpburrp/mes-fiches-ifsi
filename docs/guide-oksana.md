@@ -100,12 +100,12 @@ Tu verras d'autres dossiers (le code du site) : ignore-les, tout se passe dans `
 
 ### Faire des liens
 
-| Tu écris | Ça crée un lien vers… |
-|---|---|
-| `[[Asthme]]` | la fiche Asthme |
-| `[[Asthme#Signes d'une crise]]` | la partie « Signes d'une crise » de la fiche |
-| `[[Asthme#^def]]` | un paragraphe précis (Obsidian te propose la liste quand tu tapes `^`) |
-| `[[Asthme\|la fiche sur l'asthme]]` | la fiche, avec le texte de ton choix |
+| Tu écris                            | Ça crée un lien vers…                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------- |
+| `[[Asthme]]`                        | la fiche Asthme                                                        |
+| `[[Asthme#Signes d'une crise]]`     | la partie « Signes d'une crise » de la fiche                           |
+| `[[Asthme#^def]]`                   | un paragraphe précis (Obsidian te propose la liste quand tu tapes `^`) |
+| `[[Asthme\|la fiche sur l'asthme]]` | la fiche, avec le texte de ton choix                                   |
 
 Un lien vers une fiche encore en brouillon s'affiche barré sur le site ; il devient cliquable dès que tu publies cette fiche.
 
