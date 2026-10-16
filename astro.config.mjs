@@ -2,8 +2,8 @@
 import { defineConfig } from 'astro/config';
 import remarkLiens from './src/lib/remark-liens.mjs';
 import remarkQcm from './src/lib/remark-qcm.mjs';
-// Comme dans Obsidian, un simple retour à la ligne crée une nouvelle ligne.
-import remarkBreaks from 'remark-breaks';
+// Comme dans Obsidian : une ligne = un paragraphe, et les lignes en retrait « - » ou « 1. » forment des listes.
+import remarkLignes from './src/lib/remark-lignes.mjs';
 
 const base = '/mes-fiches-ifsi';
 
@@ -13,6 +13,6 @@ export default defineConfig({
   site: 'https://burrpburrp.github.io',
   base,
   markdown: {
-    remarkPlugins: [remarkQcm, [remarkLiens, { base }], remarkBreaks],
+    remarkPlugins: [remarkQcm, [remarkLiens, { base }], remarkLignes],
   },
 });

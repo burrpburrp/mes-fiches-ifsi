@@ -27,7 +27,7 @@ const liesIci = retroliens(fiche, await fichesPubliees());
       ))}
       <span class="tag">Semestre{d.semestres.length > 1 ? 's' : ''} {d.semestres.join(', ')}</span>
     </p>
-    <Content />
+    <div class="contenu"><Content /></div>
     <Qcm questions={remarkPluginFrontmatter.qcm} />
     {liesIci.length > 0 && (
       <aside class="retroliens">
