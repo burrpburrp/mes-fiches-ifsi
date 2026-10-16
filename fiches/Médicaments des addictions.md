@@ -44,11 +44,10 @@ Et puis en fonction des pays, il y a des substances considérées comme illicite
 Le cannabis, c'est le cas spécial. En France, c'est encore illicite. Le cannabis est le grand sujet aujourd'hui, est-ce qu'il doit devenir licite ou pas.  
 Une autre catégorie de substances, c'est les médicaments détournés d'usage : les benzodiazépines, les morphiniques. 
 ## Addictovigilance
-En France, on a mis en place un système qu'on appelle addictovigilance. C'est un système qui surveille, évalue et essaie de prévenir les risques liés à l'utilisation des substances psychoactives,  légales ou illégales. Les substances psychoactives, ça comprend les médicaments et d'autres substances. 
-Il y a plusieurs groupes de travail pour observer les produits psychotropes illicites ou les médicaments détournés d'usage. 
+En France, on a mis en place un système qu'on appelle addictovigilance. C'est un système qui surveille, évalue et essaie de prévenir les risques liés à l'utilisation des substances psychoactives,  légales ou illégales.  
 OPPIDUM - Observation des Produits Psychotropes Illicites ou Détournés de leur Utilisation Médicamenteuse.
 Il y a une surveillance des ordonnances des opioïdes. *ASOS - Antalgiques Stupéfiants et Ordonnances Sécurisées.*
-Il y a une surveillance des décès ( par overdose, surdosage) liés à l'utilisation des substances psychoactives et ça concerne essentiellement les opioïdes, dont l'héroïne. Après un certain niveau de dose, il y a une dépression respiratoire et la personne meurt, c'est  l'overdose. On touche au centre respiratoire dans le cerveau. En France, il y a +- 1000 cas par an. *DTA -    Décès Toxiques par Antalgiques.* 
+Il y a une surveillance des décès (par overdose, surdosage) liés à l'utilisation des substances psychoactives et ça concerne essentiellement les opioïdes, dont l'héroïne. Après un certain niveau de dose, il y a une dépression respiratoire et la personne meurt. En France, il y a +- 1000 cas par an. *DTA -    Décès Toxiques par Antalgiques.* 
 ## Soumission chimique
 Administration à des fins criminelles ou délictuelles d’un produit psychoactif à l’insu de la victime ou sous la menace. 
 Benzodiazépines et dérivés sont caractérisés par la suppression de mémoire   transitoirement.
