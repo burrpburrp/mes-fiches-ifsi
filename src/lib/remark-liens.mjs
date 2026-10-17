@@ -14,6 +14,9 @@ import { visit, SKIP } from 'unist-util-visit';
 const LIEN = /(!?)\[\[([^\]|#]*)(?:#([^\]|]*))?(?:\|([^\]]*))?\]\]/g;
 const BLOC = /\s\^([A-Za-z0-9-]+)\s*$/;
 
+// Vrai si le fichier commence par des propriétés non vides (entre deux lignes « --- »).
+const aDesProprietes = (contenu) => /^---\r?\n[\s\S]*?\S[\s\S]*?\r?\n---/.test(contenu);
+
 const slug = (texte) => new GithubSlugger().slug(texte);
 
 /**
@@ -41,7 +44,8 @@ function indexDesFiches(dossierFiches) {
         const nom = path.basename(relatif);
         const contenu = fs.readFileSync(chemin, 'utf8');
         const titre = contenu.match(/^titre:\s*["']?(.+?)["']?\s*$/m)?.[1];
-        const brouillon = /^brouillon:\s*true\s*$/m.test(contenu);
+        // Une note sans propriétés n'est pas publiée, comme un brouillon.
+        const brouillon = !aDesProprietes(contenu) || /^brouillon:\s*true\s*$/m.test(contenu);
         for (const cle of [nom, titre, id]) if (cle) index.set(cle.toLowerCase(), { id, brouillon });
       }
     }
