@@ -142,6 +142,10 @@ On n'a pas de médicament pour empêcher la consommation de LSD ou des amphétam
 - [x] Faux
 - [ ] Vrai
 
+### La varénicline est un antidépresseur atypique :
+- [x] Faux
+- [ ] Vrai
+
 ### Il existe des traitements de substitution de l'alcool :
 - [x] Faux
 - [ ] Vrai
@@ -150,23 +154,26 @@ On n'a pas de médicament pour empêcher la consommation de LSD ou des amphétam
 - [x] Acamprosate
 - [ ] Varénicline
 - [ ] Bupropion
+- [ ] Naloxone
 - [x] Naltrexone
 - [x] Disulfirame
 - [x] Nalméfène
 - [ ] Méthadone
 - [ ] Buprénorphine
-- [ ] Naloxone
 
+### L'acamprosate est un antagoniste des récepteurs morphiniques. :
+- [x] Faux
+- [ ] Vrai
 ### Quels sont les traitements de la dépendance aux opioïdes :
 - [ ] Acamprosate
+- [x] Buprénorphine
 - [ ] Varénicline
+- [x] Naloxone
 - [ ] Bupropion
 - [ ] Naltrexone
 - [ ] Disulfirame
 - [ ] Nalméfène
 - [x] Méthadone
-- [x] Buprénorphine
-- [x] Naloxone
 
 ### La méthadone et le buprénorphine sont des traitements de substitution des opioïdes :
 - [ ] Faux
