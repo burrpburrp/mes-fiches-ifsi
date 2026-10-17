@@ -49,6 +49,15 @@ test('un lien vers une fiche encore en brouillon est barré, car sa page n\'exis
   assert.deepEqual(liensEtBarres(arbre), { liens: [], barres: ['Pneumonie'] });
 });
 
+test('un lien vers une note sans propriétés est barré, car elle n\'est pas publiée', async () => {
+  const avecNote = dossierDeFiches({
+    'Asthme.md': entete('Asthme'),
+    'Liaisons.md': 'Notes personnelles, sans propriétés.\n',
+  });
+  const { arbre } = await transformer('Voir [[Liaisons]].', remarkLiens, { base: '/site', dossier: avecNote });
+  assert.deepEqual(liensEtBarres(arbre), { liens: [], barres: ['Liaisons'] });
+});
+
 test('deux fiches qui auraient la même adresse arrêtent la construction avec un message clair', async () => {
   const doublons = dossierDeFiches({
     'Bêta-2 mimétiques.md': entete('Bêta-2 mimétiques'),
