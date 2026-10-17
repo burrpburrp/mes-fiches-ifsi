@@ -39,3 +39,14 @@ test('refuse toujours une UE inconnue ou un semestre hors 1 à 6', () => {
   assert.throws(() => schema.parse({ ...base, semestres: 7 }));
   assert.throws(() => schema.parse({ ...base, semestres: null }));
 });
+
+// Une note personnelle rangée dans « fiches » sans aucune propriété
+// ne doit pas bloquer la publication des autres fiches : elle reste non publiée.
+test('une note sans aucune propriété est acceptée comme brouillon', () => {
+  assert.equal(schema.parse({}).brouillon, true);
+  assert.equal(schema.parse(undefined).brouillon, true);
+});
+
+test('une fiche avec des propriétés incomplètes reste refusée', () => {
+  assert.throws(() => schema.parse({ titre: 'Asthme' }));
+});
