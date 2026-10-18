@@ -23,25 +23,29 @@ C'est une allergie de type IV, l'allergie retardée, qui met en jeu des lymphocy
 ## Peau
 La peau, c'est un organe à part entière. Cet organe est extrêmement important : il protège l'organisme du milieu extérieur. Quand on perd cette fonction barrière, on meurt. Donc c'est un organe vital. 
 Cet organe représente 10 % du poids du corps, c'est beaucoup plus que certains autres organes. La зeau est richement vascularisé.
-La peau comprends trois étages différents. L'étage le plus extérieur et le plus fin, c'est l'épiderme. Cet épiderme repose sur le derme. Le derme repose sur l'hypoderme qui est essentiellement composé de lobules graisseux, plus ou moins important selon la localisation. Le tout reposant sur le muscle.
-L'épiderme est constitué de cellules qui sont très fortement jointes les unes entre les autres. Cette cohésion entre les cellules de l'épiderme donne cette solidité à la peau, à l'épiderme.
-Les cellules qui constituent l'épiderme s'appellent des kératinocytes. Ces kératinocytes son constitués de plusieurs couches. Il y a une couche basale en profondeur à partir de laquelle l'épiderme se renouvèle. Les dernières couches de l'épiderme sont les cellules sans noyau : les cellules mortes, les cornéocytes, c'est la couche cornée. Ces kératinocytes morts sont pleins d'une protéine "la kératine". C'est la barrière la plus importante, la plus efficace contre l'extérieur.
-Il y a d'autres cellules à l'intérieur de l'épiderme : des mélanocytes qui fabriquent la mélanine qui donne la couleur à la peau ; des cellules de l'immunité ("cellules immunocompétentes"), etc.
-Les peau contient "les annexes" : les cheveux, les poils, les sourcils... Les ongles. Elle contient des glandes sébacées qui fabriquent le sébum, une matière grasse recouvre la surface de la peau pour la protéger, des glandes sudoripares, des vaisseaux.
+La peau comprends trois étages différents :
+1. L'étage le plus extérieur et le plus fin, c'est **l'épiderme**. 
+2. Cet épiderme repose sur le **derme**. 
+3. Le derme repose sur **l'hypoderme** qui est essentiellement composé de lobules graisseux, plus ou moins important selon la localisation. 
+Le tout reposant sur le muscle.
+L'épiderme est constitué de cellules qui sont très fortement jointes les unes entre les autres. Cette cohésion donne cette solidité à l'épiderme.
+Les cellules qui constituent l'épiderme s'appellent des **kératinocytes**. Ces kératinocytes son constitués de plusieurs couches. 
+- Il y a une **couche basale** en profondeur à partir de laquelle l'épiderme se renouvèle. 
+- Les dernières couches de l'épiderme sont les cellules sans noyau : les cellules mortes, les **cornéocytes**, c'est la **couche cornée**. Ces kératinocytes morts sont pleins d'une protéine **"la kératine"**. C'est la barrière la plus importante, la plus efficace contre l'extérieur.
+- Il y a d'autres cellules à l'intérieur de l'épiderme : des mélanocytes qui fabriquent la mélanine qui donne la couleur à la peau ; des cellules de l'immunité ("cellules immunocompétentes"), etc.
+La peau contient "les annexes" : les cheveux, les poils, les sourcils, les ongles. Elle contient des glandes sébacées qui fabriquent le sébum, une matière grasse recouvre la surface de la peau pour la protéger, des glandes sudoripares, des vaisseaux.
 ## Examen dermatologique
 1) L'interrogatoire : les symptômes que ressent le patient (des douleurs cutanées, un prurit-des démangeaisons, des sensations de tension, de chaleur, etc.). 
 2) L'inspection de la peau, à l'œil nu/avec une loupe/avec un dermatoscope. Ça se fait si possible la plus proche de la lumière du jour pour avoir une bonne idée de la coloration. On regarde partout : dans les plies axillaires, les plies inguinaux, dans les espaces entre les orteils, entre les doigts. On regarde les fanères qui font partie des annexes : les ongles, les cheveux, tout ce qui est poils. On regarde les muqueuses qui font partie intégrante de la peau. Il y en a cinq : oculaire, nasale, buccale, génitale, anale.
 Il y a des localisations qui peuvent nous orienter sur tel ou tel type de toxidermie, notamment au niveau des paumes et des plantes.
 ## Lésions primitives
 ### Macule
-Une macule est une tache sur la peau sans relief, sans infiltration. Quand on passe la main sur la peau, on ne sent pas la macule, elle diffère de la peau normale que par sa couleur. La couleur peut être **du rose jusqu'au** **rouge** **foncé** **voire pourpre** ("**un érythème**"), blanche (une hypochromie jusqu'à une achromie - "le vitiligo", une perte complète de la mélanine), pigmentations marron jusqu'à noir, bleuté - en fonction du niveau où se situe cette pigmentation dans l'épaisseur de la peau.
+Une macule est une tache sur la peau sans relief, sans infiltration. Quand on passe la main sur la peau, on ne sent pas la macule, elle ne diffère de la peau normale que par sa couleur. La couleur peut être du rose jusqu'au rouge foncé, voire au pourpre ("**un érythème**"), blanche (une hypochromie jusqu'à une achromie - "le vitiligo", une perte complète de la mélanine), pigmentations marron jusqu'à noir, bleuté - en fonction du niveau où se situe cette pigmentation dans l'épaisseur de la peau.
 #### Érythrodermie
-L'érythrodermie est un syndrome qui associe **un érythème** **généralisé**, qui atteint > 90 % de la surface corporelle. C'est souvent **un rouge intense au départ**. L'évolution peut être **subaiguë voire chronique**. Le syndrome s'intègre souvent **un œdème de la peau**, **des desquamations**, et s'accompagne, puisque c'est chronique, de **retentissement** **sur l****es phanères** avec des anomalies des phanères, des chutes de cheveux, de sourcils, des anomalies des ongle, et souvent aussi, notamment au début, mais sur la longueur potentiellement, de **signes généraux comme la fièvre, des adénopathies**. Ces patients qui **se déshydratent** assez vite également.
-
+L'érythrodermie est un syndrome qui associe **un érythème** **généralisé**, qui atteint > 90 % de la surface corporelle. C'est souvent **un rouge intense au départ**. L'évolution peut être **subaiguë voire chronique**. Le syndrome s'intègre souvent **un œdème de la peau**, **des desquamations**, et s'accompagne, puisque c'est chronique, de **retentissement sur les phanères** avec des anomalies des phanères, des chutes de cheveux, de sourcils, des anomalies des ongle, et souvent aussi, notamment au début, mais sur la longueur potentiellement, de **signes généraux comme la fièvre, des adénopathies**. Ces patients qui **se déshydratent** assez vite également.
 C'est un syndrome que l'on peut retrouver dans certaines toxidermies, mais qui peut aussi se retrouver dans d'autres pathologies comme la gale, le psoriasis, l'eczéma, les lymphomes.
 ### Papules
-Les papules sont des lésions **en relief**. Vous passez la main sur la peau, vous sentez le relief. Elles sont théoriquement **non induré****es**. Les papules sont plutôt petites, < 1 cm de diamètre. Si > 1 cm, on peut appeler ça une plaque. S'il y a une espèce de chou-fleur par-dessus, on peut appeler ça des végétations ou des lésions exophytiques.
-
+Les papules sont des lésions **en relief**. Vous passez la main sur la peau, vous sentez le relief. Elles sont théoriquement **non indurées**. Les papules sont plutôt petites, < 1 cm de diamètre. Si > 1 cm, on peut appeler ça une plaque. S'il y a une espèce de chou-fleur par-dessus, on peut appeler ça des végétations ou des lésions exophytiques.
 Ce sont des verrues des mains, par exemple.
 ### Vésicules / bulles
 Les vésicules et les bulles sont des lésions en relief qui contiennent du liquide. Vous percez, il y a du liquide qui s'écoule. Ce liquide est clair et pas trouble. Les vésicules sont des lésions de petite taille, les bulles sont des lésions de grande taille, et on peut aller jusqu'au phlyctène. 
@@ -247,95 +251,93 @@ L'imputabilité : lien entre médicament et événement indésirable. Ça peut t
 Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tableaux de toxidermie, notamment sur les aspects de gravité, de sévérité.
 ## QCM
 
-### Pour les addictions, sur le plan pharmacologique, les traitements visent à :
-- [x] Réduire ou supprimer la consommation
-- [ ] Traiter la dépendance/l'addiction
-- [ ] Les deux réponses sont vraies
+### Selon la base mondiale de pharmacovigilance VigiBase® 2024, outre la peau, quels sont les organes ou systèmes les plus fréquemment touchés par les effets indésirables des médicaments :
+- [x]  Le système nerveux
+- [x] Le tube digestif
+- [ ] Les poumons
+- [ ] Les reins et les voies urinaires
 
-### Le facteur de risque de décès numéro 2 au monde, après l'hypertension : 
-- [ ] Alcool
-- [x] Tabac
-- [ ] Opioïdes
+### De la surface vers la profondeur, quel est l'ordre exact des couches cutanées : 
+- [ ] Epiderme, hypoderme, derme
+- [x] Epiderme, derme, hypoderme
+- [ ] Derme, hypoderme, épiderme
+- [ ] Hypoderme, derme, épiderme
 
-### Le risque de maladie liée au tabagisme est plus lié à la durée de fumer qu'à la quantité de cigarettes fumées : 
-- [ ] Non
+### Dans quelle couche de la peau se trouve la couche basale : 
+- [ ] Derme
+- [x] Epiderme
+- [ ] Hypoderme
+
+### Quel est le nom des cellules qui composent majoritairement l'épiderme : 
+- [x] Kératinocytes
+- [ ] Adipocytes
+- [ ] Fibroblastes
+
+### Quelle proposition décrit le mieux les cornéocytes :
+- [x] Des cellules anucléées qui forment la couche la plus externe de l'épiderme.
+- [ ] Des cellules de la couche basale de l'épiderme, remplies de kératine.
+- [ ] Des cellules situées dans le derme, responsables de la synthèse du collagène.
+
+### Une macule est une tache sur la peau sans relief :
 - [x] Oui
+- [ ] Non
 
-### Pour ne pas augmenter le risque lié à la consommation d'alcool, selon l'OMS, il ne faut pas dépasser quel quantité d'alcool par jour : 
-- [ ] 10 g (un verre)
-- [x] 7 g (moins d'un verre)
-- [ ] 20 g (deux verres)
+### Une macule de couleur rouge est appelée :
+- [x] Un érythème
+- [ ] Une hypochromie
+- [ ] Un vitiligo
 
-### Le tabac est addictif parce que :
-- [x] Il contient de la nicotine
-- [ ] Il sent bon
-- [ ] Il produit du monoxyde de carbone qui ralentit le rythme cardiaque
+### Quelle proposition définit le mieux l'érythrodermie :
+- [x] Un syndrome qui associe un érythème généralisé atteignant plus de 90 % de la surface corporelle.
+- [ ] Une éruption de plaques érythémato-œdémateuses fugaces, caractérisée par un prurit intense. 
+- [ ] Une éruption de papulo-pustules folliculaires prédominant sur le visage et le tronc, ressemblant à l'acné.
 
-### Le principe de la substitution nicotinique est :
-- [x] de subsituer la nicotine du tabac par la nicotine vendue en pharmacie
-- [ ] de bloquer les récepteurs nicotiniques cérébraux pour empêcher l'action de la nicotine
-- [ ] de remplacer la nicotine par des molécules de synthèse aux effets sédatifs
+### Quelle proposition définit le mieux les papules :
+- [x] Les papules sont des lésions en relief.
+- [ ] Les papules sont des lésions sans relief.
+- [ ] Les papules sont des lésions en relief qui contiennent du liquide.
+- [ ] Les papules sont des lésions en relief qui contiennent du pus.
 
-### Le bupropion et la varénicline sont les substituts nicotiniques :
-- [x] Faux
-- [ ] Vrai
+### Quelle proposition définit le mieux les vésicules / les bulles
+- [ ] Les vésicules / les bulles sont des lésions en relief non indurées.
+- [ ] Les vésicules / les bulles sont des lésions sans relief.
+- [x] Les vésicules / les bulles sont des lésions en relief qui contiennent du liquide clair, non purulent.
+- [ ] Les vésicules / les bulles sont des lésions en relief qui contiennent du pus.
 
-### La nicotine se lie aux récepteurs :
-- [x] Cholinergiques, dont le neurotransmetteur est l'acétylcholine
-- [ ] Opioïdes, dont les neurotransmetteurs sont les endorphines 
-- [ ] Dopaminergiques, dont le neurotransmetteur est la dopamine
-
-### La cigarette électronique est un médicament de traitement de la dépendance au tabac :
-- [x] Faux
-- [ ] Vrai
-
-### Les IDE peuvent préscrire le bupropion et la varénicline :
-- [x] Faux
-- [ ] Vrai
-
-### La varénicline est un antidépresseur atypique :
-- [x] Faux
-- [ ] Vrai
-
-### Il existe des traitements de substitution de l'alcool :
-- [x] Faux
-- [ ] Vrai
-
-### Quels sont les traitements de la dépendance à l'alcool :
-- [x] Acamprosate
-- [ ] Varénicline
-- [ ] Bupropion
-- [ ] Naloxone
-- [x] Naltrexone
-- [x] Disulfirame
-- [x] Nalméfène
-- [ ] Méthadone
-- [ ] Buprénorphine
-
-### L'acamprosate est un antagoniste des récepteurs morphiniques. :
-- [x] Faux
-- [ ] Vrai
-### Quels sont les traitements de la dépendance aux opioïdes :
-- [ ] Acamprosate
-- [x] Buprénorphine
-- [ ] Varénicline
-- [x] Naloxone
-- [ ] Bupropion
-- [ ] Naltrexone
-- [ ] Disulfirame
-- [ ] Nalméfène
-- [x] Méthadone
-
-### La méthadone et le buprénorphine sont des traitements de substitution des opioïdes :
+### Les pustules peuvent contenir du pus aseptique :
 - [ ] Faux
 - [x] Vrai
 
-### Les formes galéniques de la méthadone sont :
-- [ ] Injections sous-cutanées
-- [ ] Injections intraveineuses
-- [x] Sirop
-- [x] Comprimés
-- [ ] Gouttes
+### Quel est le délai d'apparition de l'exanthème maculo-papuleux : 
+- [ ] Entre 7 et 60 jours après le début du traitement dans la majorité des cas.
+- [x] Entre 5 et 21 jours après le début du traitement dans la majorité des cas.
+- [ ] Entre 1 et 3 jours après le début du traitement dans la majorité des cas.
+
+### L'exanthème maculo-papuleux fait partie des nécrolyses épidermiques  :
+- [x] Faux
+- [ ] Vrai
+
+### Quelle proposition définit le mieux la nécrolyse épidermique  :
+- [x] C'est une toxidermie caractérisée par un décollement bulleux cutanéo-muqueux induit par l'apoptose des kératinocytes.
+- [ ] C'est une diffusion de sang dans le derme.
+- [ ] C'est un œdème dermique profond voir hypodermique.
+
+### Quel est le délai d'apparition de la nécrolyse épidermique : 
+- [ ] De 7 à 60 jours entre l'introduction du médicament et les premiers signes cutanés.
+- [x] De 5 à 28 jours entre l'introduction du médicament et les premiers signes cutanés.
+- [ ] De 1 à 3 jours entre l'introduction du médicament et les premiers signes cutanés.
+
+### Dans le syndrome de Stevens-Johnson, la surface cutanée décollée ou décollable représente moins de 10 % de la surface corporelle totale  :
+- [ ] Faux
+- [x] Vrai
+
+### Dans le syndrome de Lyell, la surface cutanée décollée ou décollable représente moins de 30 % de la surface corporelle totale :
+- [x] Faux
+- [ ] Vrai
+
+### La nécrolyse épidermique commence par un syndrome grippal :
+- [ ] Faux
+- [x] Vrai
 
 ### La naloxone est :
 - [x] Antagoniste des récepteurs opioïdes 
