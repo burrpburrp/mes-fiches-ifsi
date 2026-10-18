@@ -339,11 +339,23 @@ Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tabl
 - [ ] Faux
 - [x] Vrai
 
-### La naloxone est :
-- [x] Antagoniste des récepteurs opioïdes 
-- [ ] Agoniste des récepteurs opioïdes 
+### Le syndrome DRESS est une atteinte multiviscérale dans laquelle l'atteinte cutanée, bien que très fréquente, est inconstante et peut passer au second plan  :
+- [x] Vrai
+- [ ] Faux
 
-### Il existe des traitements de la dépendance au cannabis :
-- [x] Faux
-- [ ] Vrai
+### Un signe clinique précoce fréquemment observé dans le syndrome DRESS est  :
+- [x] L'œdème du visage
+- [ ] L'œdème de la langue
+- [ ] Le décollement épidermique
+- [ ] Le signe de Nikolsky positif
+
+### Dans quel pourcentage des cas un médicament est-il à l'origine d'une urticaire aiguë :
+- [x] Moins de 10 %
+- [ ] Environ 90 %
+- [ ] Environ 50%
+
+### Quel est le délai d'apparition d'une urticaire médicamenteuse : 
+- [x] Entre 1 heure et 24 heures après l'administration du médicament.
+- [ ] Entre 1 et 3 jours après l'administration du médicament.
+- [ ] Entre 5 et 28 jours après l'administration du médicament.
 
