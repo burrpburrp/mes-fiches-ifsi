@@ -10,33 +10,38 @@ tags: []
 brouillon: false
 source: Dr. Bénédicte Lebrun-Vignes, responsable du Centre Régional de Pharmacovigilance Pitié-Saint Antoine, dermatologue, pharmacologue. Septembre 2024.
 ---
-Les effets indésirables médicamenteux expression cutanée s'appellent aussi "toxidermies".
-En France, les effets indésirables cutanés représentent 25 % des notifications spontanées en pharmacovigilance. 
-Les effets à expression cutanée des médicaments font 1 % des consultations de dermatologie et 5 % des hospitalisations en dermatologie.
-Au niveau mondial (VigiBase de l'OMS), en 2024 les effets indésirables cutanés ont fait 17 % (6,3 millions de cas) de tous les effets indésirables des médicaments (37 millions). Dont 21 % sont des cas graves. Les autres organes le plus concernés par les effets des médicaments sont le système nerveux (19,5 %) et le tube digestif (17,5 %).
-Les présentations cliniques de ces manifestations cutanées sont très nombreuses et elles ne sont pas spécifiques du médicament : derrière toute lésion, le médicament est suspecté, mais il faut aussi écarter d'autres causes ("diagnostics différentiels").
-Il faut faire un analyse chronologique (début des signes, évolution à l’arrêt du médicament). Il faut utiliser les termes corrects pour décrire le tableau. Le terme « bouton » n'existe pas en dermatologie, les termes « rash », « éruption » ne disent pas grand chose. L'analyse sémiologique : le diagnostic précis de la toxidermie et donc élimination des diagnostics différentiels.
-Les toxidermies qu'on regarde dans ce cours sont soit le plus graves soit le plus fréquents : exanthème maculo-papuleux 30%, urticaire/angioedème 20%, érythème pigmenté fixe 8%, rares mais très graves PEAG <1%, DRESS <1%, syndrome de Lyell < 1%.
-Tous ces tableaux cliniques n'ont pas de spécificité complète par rapport au médicament. Le médicament peut être une cause mais il y a d'autres causes possibles. Pour l'exanthème maculopapuleux, le médicament est à 50 à 80 % des cas, donc il y a 20 à 50 % des cas où il faut trouver autre chose. L'urticaire aigu : le médicament est la cause que dans 10 % des cas. L'érythème pigmenté fixe : c'est quasiment toujours le médicament, 100 %. Le syndrome de Stevens-Johnson ou de Lyell : on trouve le médicament suspect dans < 80 % des cas. DRESS : on trouve le médicament suspect dans 60-80 % des cas.
-Les mécanismes qui conduisent à l'apparition de ces toxidermies sont multiples, mais globalement c'est "l'hypersensibilité", et au sein de cette hypersensibilité, il y a une réaction de système immunitaire, et très souvent elle est retardée. Puis il y a des effets cutanés qui ne sont pas immunoallergiques, une toxicité directe comme pour les anticancéreux.
-C'est une allergie de type IV, l'allergie retardée, qui met en jeu des lymphocytes T. Cette allergie est déclenchée par les cellules du système immunitaire, et non par des anticorps (les immunoglobulines, comme les IgE). 
+Les effets indésirables cutanés d'origine médicamenteuse sont appelés « toxidermies ». En France, ils représentent 25 % des déclarations spontanées en pharmacovigilance. Ils motivent 1 % des consultations et 5 % des hospitalisations en dermatologie.
+Au niveau mondial (données VigiBase de l'OMS en 2024), les effets indésirables cutanés représentent 17 % de l'ensemble des cas recensés (soit 6,3 millions sur 37 millions), dont 21 % sont graves. Les autres systèmes les plus touchés sont le système nerveux (19,5 %) et le tube digestif (17,5 %).
+Les manifestations cliniques des toxidermies sont multiples et non spécifiques. Derrière toute lésion, le médicament est suspecté, mais il faut aussi écarter d'autres causes ("diagnostics différentiels").
+La démarche diagnostique repose sur deux piliers :
+* Une analyse chronologique : date d'apparition des signes et évolution à l'arrêt du médicament.
+* Une analyse sémiologique. Elle exige un vocabulaire dermatologique précis. Les termes vagues comme « bouton », « rash » ou « éruption » sont à proscrire au profit d'une description rigoureuse.
+Ce cours aborde les toxidermies les plus fréquentes ou les plus graves : 
+- Exanthème maculo-papuleux (30 %), 
+- Urticaire/angioedème (20 %) 
+- Erythème pigmenté fixe (8 %)
+- PEAG <1%
+- DRESS <1%, 
+- Syndrome de Lyell < 1%.
+Ces présentations cliniques ne sont pas exclusivement d'origine médicamenteuse. Le médicament peut être une cause mais il y a d'autres causes possibles. Le médicament  est responsable de 50 à 80 % des exanthèmes maculo-papuleux, donc il y a 20 à 50 % des cas où il faut trouver autre chose.. Dans l'urticaire aiguë, le médicament n'est en cause que dans 10 % des situations. L'érythème pigmenté fixe est presque toujours d'origine médicamenteuse (100 %). Le syndrome de Stevens-Johnson ou de Lyell : on trouve le médicament dans < 80 % des cas. DRESS : on trouve le médicament dans 60-80 % des cas.
+Les mécanismes de ces toxidermies reposent principalement sur une hypersensibilité. Il s'agit le plus souvent d'une réaction immunitaire retardée (allergie de type IV) déclenchée par les cellules du système immunitaire (lymphocytes T), et non par des anticorps comme les immunoglobulines IgE. Certaines toxidermies s'expliquent par une toxicité cutanée directe, sans mécanisme immuno-allergique, comme on l'observe avec les traitements anticancéreux.
 ## Peau
-La peau, c'est un organe à part entière. Cet organe est extrêmement important : il protège l'organisme du milieu extérieur. Quand on perd cette fonction barrière, on meurt. Donc c'est un organe vital. 
-Cet organe représente 10 % du poids du corps, c'est beaucoup plus que certains autres organes. La зeau est richement vascularisé.
-La peau comprends trois étages différents :
+La peau est un organe vital à part entière qui protège l'organisme du milieu extérieur. La perte de cette fonction barrière est incompatible avec la survie. 
+Cet organe représente 10 % du poids du corps, c'est beaucoup plus que certains autres organes. La peau est richement vascularisé.
+La peau comprends trois étages :
 1. L'étage le plus extérieur et le plus fin, c'est **l'épiderme**. 
 2. Cet épiderme repose sur le **derme**. 
-3. Le derme repose sur **l'hypoderme** qui est essentiellement composé de lobules graisseux, plus ou moins important selon la localisation. 
+3. Le derme repose sur **l'hypoderme** qui est essentiellement composé de lobules graisseux dont l'épaisseur varie selon les zones du corps. 
 Le tout reposant sur le muscle.
-L'épiderme est constitué de cellules qui sont très fortement jointes les unes entre les autres. Cette cohésion donne cette solidité à l'épiderme.
+L'épiderme est constitué de cellules étroitement liées entre elles. Cette forte cohésion lui assure sa solidité.
 Les cellules qui constituent l'épiderme s'appellent des **kératinocytes**. Ces kératinocytes son constitués de plusieurs couches. 
 - Il y a une **couche basale** en profondeur à partir de laquelle l'épiderme se renouvèle. 
-- Les dernières couches de l'épiderme sont les cellules sans noyau : les cellules mortes, les **cornéocytes**, c'est la **couche cornée**. Ces kératinocytes morts sont pleins d'une protéine **"la kératine"**. C'est la barrière la plus importante, la plus efficace contre l'extérieur.
-- Il y a d'autres cellules à l'intérieur de l'épiderme : des mélanocytes qui fabriquent la mélanine qui donne la couleur à la peau ; des cellules de l'immunité ("cellules immunocompétentes"), etc.
-La peau contient "les annexes" : les cheveux, les poils, les sourcils, les ongles. Elle contient des glandes sébacées qui fabriquent le sébum, une matière grasse recouvre la surface de la peau pour la protéger, des glandes sudoripares, des vaisseaux.
+- La couche superficielle de l'épiderme, appelée **couche cornée**, est constituée de **cornéocytes** (cellules mortes sans noyau). Remplis de **kératine** (une protéine), ces kératinocytes forment la barrière protectrice la plus efficace contre le milieu extérieur.
+- L'épiderme contient également d'autres types cellulaires : les mélanocytes, qui produisent la mélanine responsable de la couleur de la peau, et des cellules de l'immunité (immunocompétentes).
+La peau comprend des annexes (cheveux, poils, sourcils, ongles), des vaisseaux et des glandes sudoripares. Elle abrite aussi des glandes sébacées qui sécrètent le sébum, un film gras protégeant sa surface.
 ## Examen dermatologique
-1) L'interrogatoire : les symptômes que ressent le patient (des douleurs cutanées, un prurit-des démangeaisons, des sensations de tension, de chaleur, etc.). 
-2) L'inspection de la peau, à l'œil nu/avec une loupe/avec un dermatoscope. Ça se fait si possible la plus proche de la lumière du jour pour avoir une bonne idée de la coloration. On regarde partout : dans les plies axillaires, les plies inguinaux, dans les espaces entre les orteils, entre les doigts. On regarde les fanères qui font partie des annexes : les ongles, les cheveux, tout ce qui est poils. On regarde les muqueuses qui font partie intégrante de la peau. Il y en a cinq : oculaire, nasale, buccale, génitale, anale.
+1) L'interrogatoire : recenser les symptômes ressentis par le patient (douleurs cutanées, prurit, sensations de tension ou de chaleur, etc.).  
+2) L'inspection de la peau réalisée idéalement à la lumière du jour (à l'œil nu, à la loupe ou au dermatoscope) pour bien évaluer les couleurs. Cet examen doit être exhaustif et inclure les plis (axillaires, inguinaux, interdigitaux), les phanères (ongles, cheveux, poils) ainsi que les cinq muqueuses (oculaire, nasale, buccale, génitale et anale).
 Il y a des localisations qui peuvent nous orienter sur tel ou tel type de toxidermie, notamment au niveau des paumes et des plantes.
 ## Lésions primitives
 ### Macule
@@ -95,9 +100,6 @@ Chez l'enfant, l'atteinte des bourgeons dentaires avant l'apparition de la denti
 La nécrolyse épidermique est très rare, avec seulement 120 à 200 cas annuels en France. 
 Les principaux facteurs de risque incluent l'infection par le VIH, les maladies systémiques de type collagénose et la radiothérapie en cours.
  Il existe également des prédispositions génétiques liées au système HLA (Human Leukocyte Antigens). Celles-ci sont particulièrement marquées chez l'ethnie chinoise Han (Taïwan) concernant l'allopurinol et la carbamazépine, ce qui justifie un dépistage préventif dans cette population. En Europe, des marqueurs HLA à risque existent aussi pour l'allopurinol, le sulfaméthoxazole, la lamotrigine et les oxicams. Toutefois, leur rareté rend un dépistage systématique non pertinent dans les pays occidentaux.
-
-
-
 Les médicaments impliqués dans ces nécrolyses épidermiques : sulfamides antibactériens (Bactrim), allopurinol, carbamazépine (un antiépileptique mais aussi un thymorégulateur), phénobarbital, phénytoïne (qui sont des antiépileptiques), AINS de la famille des oxicams ; névirapine, lamotrigine ; sertraline, pantoprazole, tramadol (alors avec un niveau moins important), 2021 - nouveaux antiepileptiques (zonisamide, oxcarbazépine, lévétiracétam) et anticancéreux (mogamulizumab, vémurafenib, and cobimétinib).  
 En tout cas, on a des nouveaux médicaments qui arrivent sur le marché, on peut avoir de nouveaux médicaments à risque qui arrivent.   
 Les principaux médicaments impliqués dans les nécrolyses épidermiques sont : 
