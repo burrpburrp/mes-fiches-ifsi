@@ -205,7 +205,7 @@ Bien sûr, les anticancéreux peuvent aussi donner des réactions immuno-allergi
 Ça touche la peau mais ça touche aussi les annexes, comme les cheveux, les ongles. Il y a parfois des alopécies post-chimiothérapie définitives, ça existe. 
 Il y a des syndromes main-pied qui sont hyper classiques avec plein de chimiothérapies. Ils donnent un érythème des paumes, des plantes, qui peuvent aussi décoller, donner des petites bulles. 
 ### Lignes de Beau
-Une petite curiosité, c'est pas grave. Une ligne de Beau, c'est juste un un retentissement d'une cure de chimiothérapie sur les ongles. Quand vous donnez une chimiothérapie à un patient, son ongle va s'arrêter de pousser parce qu'il est stressé. Un ongle pousse d'à peu près 1 millimètre par semaine. Donc vous allez avoir un un arrêt de croissance de l'ongle qui ensuite va recommencer, va repousser et à chaque cure de chimiothérapie, vous allez avoir une nouvelle ligne de Beau qui correspond à cet arrêt de croissance. Donc vous avez cet aspect strié de l'ongle. 
+Une petite curiosité, c'est pas grave. Une ligne de Beau, c'est juste un retentissement d'une cure de chimiothérapie sur les ongles. Quand vous donnez une chimiothérapie à un patient, son ongle va s'arrêter de pousser parce qu'il est stressé. Un ongle pousse d'à peu près 1 millimètre par semaine. Donc vous allez avoir un un arrêt de croissance de l'ongle qui ensuite va recommencer, va repousser et à chaque cure de chimiothérapie, vous allez avoir une nouvelle ligne de Beau qui correspond à cet arrêt de croissance. Donc vous avez cet aspect strié de l'ongle. 
 Ça permet de répondre au patient quand ils se posent des questions.  
 Beaucoup d'anthracyclines ou de taxanes [les anticancereux] donnent ce genre de choses.
 ### Onychomadèse
@@ -246,8 +246,7 @@ Deuxième bon réflexe, est-ce qu'il y a des signes de gravité ?
 L'analyse chronologique. On fait attention au biais et cetera. Minimiser le biais de mémoire (attention à ce qui n’est pas considéré comme médicament). Biais protopathique : médicament administré pour les symptômes inauguraux de la réaction cutanée.
 Le travail de chronologie par rapport à la sémiologie de votre éruption. 
 L'imputabilité : lien entre médicament et événement indésirable. Ça peut très vite euh faire arrêter la commercialisation d'un médicament, l'identification d'un médicament qui est récemment introduit sur le marché à l'origine d'un DRESS ou d'un Stevens-Johnson ou d'un Lyell, c'est vraiment hyper important à faire remonter à la pharmacovigilance.
- 
- 
+
 Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tableaux de toxidermie, notamment sur les aspects de gravité, de sévérité.
 ## QCM
 
@@ -354,8 +353,73 @@ Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tabl
 - [ ] Environ 90 %
 - [ ] Environ 50%
 
-### Quel est le délai d'apparition d'une urticaire médicamenteuse : 
-- [x] Entre 1 heure et 24 heures après l'administration du médicament.
-- [ ] Entre 1 et 3 jours après l'administration du médicament.
-- [ ] Entre 5 et 28 jours après l'administration du médicament.
+### Dans la pustulose exanthématique aiguë généralisée (PEAG), les pustules sont : 
+- [x] Aseptiques.
+- [ ] Septiques.
+- [ ] Les deux sont possibles.
 
+### Quel est le délai d'apparition de la pustulose exanthématique aiguë généralisée : 
+- [ ] Entre 7 et 60 jours après le début du traitement dans la majorité des cas.
+- [ ] Entre 5 et 21 jours après le début du traitement dans la majorité des cas.
+- [x] Entre 1 et 3 jours après le début du traitement dans la majorité des cas.
+
+### Quel est le délai d'apparition de l'érythème pigmenté fixe : 
+- [ ] Entre 7 et 60 jours après le début du traitement dans la majorité des cas.
+- [ ] Entre 5 et 21 jours après le début du traitement dans la majorité des cas.
+- [x] Entre 1 et 3 jours après le début du traitement dans la majorité des cas.
+
+### Dans quel pourcentage des cas un médicament est-il à l'origine d'une érythème pigmenté fixe :
+- [ ] Moins de 10 %
+- [x] Environ100 %
+- [ ] Environ 50%
+
+### Parmi les médicaments suivants, lesquels présentent un potentiel photosensibilisant :
+- [ ] Le paracétamol
+- [x] Les cyclines
+- [ ] Les corticoïdes
+- [ ] Le naproxène et le piroxicam.
+- [ ] Tous ces médicaments
+
+### La phototoxicité s'explore à l'aide de photopatch tests :
+- [ ] Vrai
+- [x] Faux
+
+### Les cancers épidermiques sont favorisés par :
+- [x] Les médicaments immunosuppresseurs
+- [x]  Les médicaments photosensibilisants
+- [ ] Les dermocorticoïdes au long cours
+- [ ] Les antihistaminiques anti-H1
+- [ ] Tous ces médicaments
+
+### Les éruptions acnéiformes constituent une forme d'acné :
+- [ ] Vrai
+- [x] Faux
+
+### Les éruptions acnéiformes apparaissent fréquemment avec les inhibiteurs du récepteur à l'Epidermal Growth Factor (des anticancéreux):
+- [x] Vrai
+- [ ] Faux
+
+### Que sont les lignes de Beau :
+- [ ] Une coloration anormale de la plaque unguéale provoquée par la prise de cyclines.
+- [x] Des altérations de l'ongle (retentissement) secondaires à une chimiothérapie.
+- [ ] Une inflammation douloureuse du pourtour de l'ongle secondaire à un traitement par rétinoïdes.
+
+### Le décollement des ongles sous traitement anticancéreux s'appelle :
+- [x] L'onycholyse distale.
+- [ ] L'onychomadèse distale.
+- [ ] L'onychomycose.
+
+### Les signes de gravité d'une toxidermie :
+- [x] Fièvre supérieure à 38,5 °C.
+- [x] Atteinte des muqueuses.
+- [ ] Des arthralgies diffuses
+- [x]  Décollement bulleux ou signe de Nikolsky positif.
+- [x] Œdème du visage.
+- [ ] Une éruption urticarienne d'extension rapide
+- [x] Adénopathies périphériques.
+- [ ] Une desquamation furfuracée tardive.
+- [x] Atteintes viscérales (hépatique, rénale, pulmonaire, cardiaque, hématologique).
+- [ ] Un prurit féroce insoutenable.
+
+ 
+ 
