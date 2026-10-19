@@ -109,12 +109,9 @@ Les principaux médicaments impliqués dans les nécrolyses épidermiques sont :
 - les anticancéreux mogamulizumab, vémurafénib, cobimétinib depuis 2021.
 D'autres molécules, comme la sertraline, le pantoprazole et le tramadol, présentent un risque moindre. 
 L'introduction constante de nouvelles thérapies sur le marché impose une vigilance continue quant à ce risque.
-
-
-
-Ldes diagnostics différentiels : 
-    • "SSSS" ou Staphylococcal scaled skin syndrom. C'est un un foyer infectieux à staphylocoque doré qui sécrète une toxine, et cette toxine est à l'origine d'une éruption cutanée qui est en grande nappe érythémateuse et qui va desquamer mais de façon beaucoup plus superficielle. Là, l'urgence est de traiter le foyer infectieux bien évidemment.
-    • Érythème polymorphe. Elle est en cocarde typique avec plusieurs cercles concentriques, sur les paumes notamment, et il y a une atteinte de muqueuses qui peut ressembler tout à fait à Steven-Johnson, mais l'érythème polymorphe, le grand responsable sont les grands responsables sont des agents infectieux et pas des médicaments. Infectieux: mycoplasme; herpès. 
+Les diagnostics différentiels principaux sont :
+- Le syndrome d'épidermolyse staphylococcique (SSSS, staphylococcal scaled skin syndrom) : causé par une toxine sécrétée par un foyer infectieux à staphylocoque doré. Il provoque de vastes nappes érythémateuses suivies d'une desquamation superficielle. L'urgence thérapeutique consiste à traiter l'infection causale.
+- L'érythème polymorphe : caractérisé par des lésions typiques en cocarde, souvent situées sur les paumes. Bien que son atteinte muqueuse rappelle le syndrome de Stevens-Johnson, cette pathologie est déclenchée par des agents infectieux (herpès, mycoplasme) et non par des médicaments.
 ## Syndrome d’hypersensibilité (DRESS, Drug Reaction with Eosinophilia and Systemic Symptoms)
 La chronologie d'apparition du DRESS peut être longue avec un délai de survenue par rapport à l'introduction du médicament de l'ordre de 4 à 8 semaines, parfois même un peu plus. Mais ça peut être court aussin. 
 Sur le plan de la sémiologie, c'est une atteinte multiviscérale. L'atteinte de la peau est très souvent présente mais elle n'est pas obligatoire et elle peut être un peu au second plan. L'atteinte cutanée  peut ressembler à pas mal de choses, mais notamment à un exanthème maculo-papuleux. 
