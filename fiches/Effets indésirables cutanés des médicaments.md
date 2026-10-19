@@ -53,24 +53,24 @@ La pemphigoïde est une maladie auto-immune bulleuse.
 ### Pustules
 Une pustule est une lésion en relief, qui est un peu comme une vésicule mais qui contient une liquide purulent, du pus. En général, ce sont des polynucléaires neutrophiles. Ils peuvent être là pour une raison infectieuse (staphylocoque ou autre), donc on appelle ça du pus septique, ou bien aseptique, c'est-à-dire qu'il n'est pas lié à une infection.  
 ## Exanthème maculo-papuleux
-Une éruption qui est faite à la fois de lésions plates et de lésions un peu en relief, on dit qu'elle est maculo-papuleuse. 
-Exanthème, c'est ça veut juste dire une éruption sur la peau, alors que l'énanthème, c'est une éruption sur les muqueuses. 
-Un exanthème maculo-papuleux d'origine médicamenteuse est polymorphe, c'est-à-dire les lésions ne se ressemblent pas forcément sur toutes les régions du corps. Ce sont des macules et/ou des papules érythémateuses, plus ou moins confluentes, plus ou moins diffuses. Elles se trouvent souvent au niveau du tronc et de la racine des membres, et puis ça peut diffuser à l'ensemble du corps. 
-Important : le délai d'apparition de cet exanthème maculo-papuleux est entre 5 jours et 21 jours après le début du traitement dans la majorité des cas. En moyenne, 10 jours. Si le patient a déjà été sensibilisé, s'il a déjà été en contact avec ce médicament, le délai peut être plus court, < 5 jours.
-Cet exanthème peut y avoir un aspect purpurique. Le purpura est une diffusion de sang sous la peau, dans le derme, ça fait des plaques érythémateuses mais qui disparaissent pas quand on appuie dessus. Donc l'exanthème peut avoir un aspect purpurique des membres inférieurs. 
-Un prurit est possible mais il n'est pas du tout constant. La fièvre < 38,5. 
-L'atteinte muqueuse est exceptionnelle. 
-L'évolution à l'arrêt du médiament, le patient va guérir < un semaine / < 10 jours. Desquamation  superficielle éventuelle. 
-Le traitement est symptomatique, si prurit, on donne un peu d'antihistaminique anti-H1, éventuellement des dermocorticoïdes, c'est tout. 
-Un signe d'intensité supérieure / de gravité : la peau un peu gonflée, oedématiée. La réaction inflammatoire est plus intense. A prendre en compte.
-Tous les médicaments peuvent être à l'origine d'un exanthème maculo-papuleux - chez environ 1 % des patients. 
-Les médicaments avec le risque de l'exanthème > 3 % des patients : allopurinol (pour faire baisser l'uricémie / acide urique),  pénicillines,  céphalosporines,  sulfamides antibactériens,  antiépileptiques (par ex., barbituriques,  lamotrigine, carbamazépine).
+Une éruption associant des lésions plates et en relief est dite **maculo-papuleuse**. Le terme **exanthème** désigne une éruption sur la peau, tandis que **l'énanthème** correspond à une éruption sur les muqueuses.
+des membres inférieurs. 
+L'exanthème maculo-papuleux médicamenteux est polymorphe : l'aspect des lésions varie selon les zones du corps. Il associe des macules et/ou des papules érythémateuses, parfois confluentes, plus ou moins diffuses, qui débutent souvent **sur le tronc et la racine des membres** avant de s'étendre.
+Le délai d'apparition est généralement de 5 à 21 jours après l'introduction du traitement (10 jours en moyenne). Toutefois, en cas de sensibilisation préalable au médicament, ce délai tombe à moins de 5 jours.
+Cet exanthème peut également prendre un aspect purpurique, particulièrement aux membres inférieurs. Le purpura correspond à une diffusion de sang dans le derme, formant des taches rouges qui ne s'effacent pas à la pression.
+Le prurit est inconstant et la fièvre est inférieure à 38,5 °C. L'atteinte muqueuse est exceptionnelle. 
+À l'arrêt du médicament responsable, la guérison survient en moins de 10 jours, parfois suivie d'une desquamation superficielle. 
+Le traitement est symptomatique, limité aux antihistaminiques anti-H1 en cas de démangeaisons et éventuellement aux dermocorticoïdes. 
+Un œdème cutané indique une inflammation plus forte et représente un signe de gravité à surveiller.
 La biopsie cutanée n'apporte pas grand chose dans ce cas.
-Diagnostics différentiels: primo-infections/réactivations virales, causes bactériennes, parasitaires (toxoplasmose) et inflammatoires (la maladie de Still [une forme rare d'arthrite]). 
-Il y a des interactions entre médicaments et virus qui peuvent donner des éruptions cutanées. Par exemple, des patients qui ont une primo-infection à l'Epstein-Barr virus, si il reçoivent de la pénicilline A, dans 1/3 des cas ils font une éruption cutanée de type exanthème maculo-papuleux. Ils ne sont pas allergiques à la pénicilline, c'est une espèce de d'interaction entre le virus et le médicament qui va donner ça chez le patient. 
-Autre interaction : les patients séropositifs pour le VIH ont plus de risques de faire une une éruption cutanée avec le sulfaméthoxazole (Bactrim), c'est un antibiotique de la famille des sulfamides.
-Il y a des variantes des évolutions plus chroniques : les toxidermies eczématiformes (ça ressemble à de l'eczéma), les toxidermies liquénoïdes (ça ressemble à du lichen qui est une maladie inflammatoire de la peau).
-Donc l'exanthème maculo-papuleux est la toxidermie la plus fréquente. En général, c'est un tableau qui n'est pas grave, qui régresse, qui pose pas tellement de problèmes ou de risque de mise en jeu du pronostic vital pour le patient.  
+Tout médicament peut provoquer un exanthème maculo-papuleux, touchant environ 1 % des patients.
+Les médicaments avec le risque de l'exanthème > 3 % des patients : 
+- allopurinol (pour faire baisser l'uricémie / acide urique),  
+- pénicillines,  céphalosporines,  sulfamides antibactériens,  
+- antiépileptiques (par ex., barbituriques,  lamotrigine, carbamazépine).
+Les diagnostics différentiels incluent les causes virales, bactériennes, parasitaires (toxoplasmose) et inflammatoires, comme la maladie de Still (arthrite rare).
+Certaines éruptions cutanées proviennent d'une interaction spécifique entre un virus et un médicament. Par exemple, lors d'une primo-infection par le virus d'Epstein-Barr, l'administration de pénicilline A déclenche un exanthème maculo-papuleux dans 1/3 des cas. Il ne s'agit pas d'une allergie, mais d'une interaction viro-médicamenteuse. De même, les patients séropositifs au VIH présentent un risque accru d'éruption cutanée lorsqu'ils sont traités par le sulfaméthoxazole (Bactrim), un antibiotique de la famille des sulfamides.
+Il existe des formes à évolution chronique : les toxidermies eczématiformes (aspect d'eczéma) et lichénoïdes (rappelant le lichen, une inflammation cutanée). **L'exanthème maculo-papuleux est la toxidermie la plus fréquente**. Son évolution est généralement bénigne et régressive, sans engager le pronostic vital du patient.
 ## Syndrome de Lyell ou nécrolyse épidermique toxique (NET)
 Le signe de Nikolsky : sur les zones qui ne sont pas encore décollées, qui sont rouges mais pas encore décollées, si vous appuyez dessus avec votre doigt, vous allez décoller l'épiderme. Les kératinocytes ont perdu leur adhésion et laissent l'épiderme se défaire.
 Le syndrome de Lyell fait partie des nécrolyses épidermiques. C'est une toxidermie bulleuse, grave. Le patient doit être hospitalisée en milieu spécialisé et parfois même dans à peu près 1/4 des cas en réanimation, avec un arrêt urgent du médicament suspect, parce que plus vous arrêtez tard, plus le pronostic sera mauvais. 
