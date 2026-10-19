@@ -377,7 +377,7 @@ Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tabl
 - [ ] Le paracétamol
 - [x] Les cyclines
 - [ ] Les corticoïdes
-- [ ] Le naproxène et le piroxicam.
+- [x] Le naproxène et le piroxicam.
 - [ ] Tous ces médicaments
 
 ### La phototoxicité s'explore à l'aide de photopatch tests :
