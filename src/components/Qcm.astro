@@ -1,16 +1,21 @@
 ---
-export interface Question { question: string; choix: string[]; reponses: number[]; explication?: string }
-interface Props { questions: Question[] }
-const { questions = [] } = Astro.props;
+import { lien } from '../lib/site';
+export interface Question {
+  question: string; choix: string[]; reponses: number[]; explication?: string;
+  // Fiche d'origine, affichée dans le QCM général d'une UE.
+  fiche?: { id: string; titre: string };
+}
+interface Props { questions: Question[]; titre?: string; melanger?: boolean }
+const { questions = [], titre = 'Teste-toi', melanger = false } = Astro.props;
 ---
 {questions.length > 0 && (
-  <section class="qcm">
-    <h2>Teste-toi</h2>
+  <section class="qcm" data-melanger={melanger ? '' : undefined}>
+    <h2>{titre}</h2>
     {questions.map((q, i) => {
       const plusieurs = q.reponses.length > 1;
       return (
         <fieldset class="question" data-reponses={q.reponses.join(',')}>
-          <legend>{i + 1}. {q.question}{plusieurs && <span class="indice"> (plusieurs réponses)</span>}</legend>
+          <legend><span class="numero">{i + 1}</span>. {q.question}{plusieurs && <span class="indice"> (plusieurs réponses)</span>}</legend>
           {q.choix.map((choix, j) => (
             <label>
               <input type={plusieurs ? 'checkbox' : 'radio'} name={`q${i}`} value={j} />
@@ -20,6 +25,7 @@ const { questions = [] } = Astro.props;
           <p class="correction" hidden>
             <span class="verdict"></span>
             {q.explication && <span> {q.explication}</span>}
+            {q.fiche && <span class="origine">Pour réviser : <a href={lien(`fiches/${q.fiche.id}/`)}>{q.fiche.titre}</a></span>}
           </p>
         </fieldset>
       );
@@ -32,6 +38,19 @@ const { questions = [] } = Astro.props;
 <script>
   // Correction du QCM directement dans le navigateur : rien n'est enregistré.
   document.querySelectorAll<HTMLElement>('.qcm').forEach((qcm) => {
+    // QCM général : nouvel ordre des questions à chaque ouverture de la page.
+    if (qcm.hasAttribute('data-melanger')) {
+      const questions = [...qcm.querySelectorAll<HTMLElement>('.question')];
+      for (let i = questions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [questions[i], questions[j]] = [questions[j], questions[i]];
+      }
+      const bouton = qcm.querySelector('.verifier');
+      questions.forEach((q, i) => {
+        qcm.insertBefore(q, bouton);
+        q.querySelector('.numero')!.textContent = String(i + 1);
+      });
+    }
     qcm.querySelector('.verifier')?.addEventListener('click', () => {
       let bonnes = 0;
       const questions = qcm.querySelectorAll<HTMLElement>('.question');

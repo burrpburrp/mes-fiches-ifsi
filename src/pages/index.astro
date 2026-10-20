@@ -1,11 +1,15 @@
 ---
 import Base from '../layouts/Base.astro';
 import ListeFiches from '../components/ListeFiches.astro';
-import { ues, fichesPubliees, lien } from '../lib/site';
+import { ues, fichesPubliees, lien, qcmGenerauxDuSite, lienQcm } from '../lib/site';
 
 // Vue actuelle : semestre → UE → fiches.
 const fiches = await fichesPubliees();
 const semestres = [1, 2, 3, 4, 5, 6];
+const qcm = await qcmGenerauxDuSite();
+// Lien « QCM » en fin de liste si l'UE a des questions ce semestre.
+const lienQcmSi = (ue: string, s: number) =>
+  qcm.some((g) => g.ue === ue && g.semestre === s) ? [{ href: lienQcm(ue, s), libelle: 'QCM' }] : [];
 ---
 <Base titre="Par semestre">
   <h1>Les fiches, par semestre</h1>
@@ -17,7 +21,7 @@ const semestres = [1, 2, 3, 4, 5, 6];
         {uesDuSemestre.map((u) => (
           <div class="ue">
             <h3><a href={lien(`ue/${u.id}/`)}>UE {u.id} · {u.intitule}</a></h3>
-            <ListeFiches fiches={fiches.filter((f) => f.data.ue.includes(u.id) && f.data.semestres.includes(s))} />
+            <ListeFiches fiches={fiches.filter((f) => f.data.ue.includes(u.id) && f.data.semestres.includes(s))} qcm={lienQcmSi(u.id, s)} />
           </div>
         ))}
       </section>

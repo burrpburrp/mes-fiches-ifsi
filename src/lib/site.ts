@@ -1,4 +1,5 @@
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
+import { qcmGeneraux } from './qcm-general.mjs';
 import ues from '../data/ue.json';
 import organes from '../data/organes.json';
 
@@ -40,3 +41,17 @@ export function retroliens(fiche: Fiche, toutes: Fiche[]): Fiche[] {
     return false;
   });
 }
+
+/** Les QCM généraux (UE × semestre) calculés à partir des QCM des fiches publiées. */
+export async function qcmGenerauxDuSite() {
+  const fiches = await Promise.all(
+    (await fichesPubliees()).map(async (f) => {
+      const { remarkPluginFrontmatter } = await render(f);
+      return { id: f.id, titre: f.data.titre, ue: f.data.ue, semestres: f.data.semestres, qcm: remarkPluginFrontmatter.qcm };
+    }),
+  );
+  return qcmGeneraux(fiches, ues);
+}
+
+/** Lien vers le QCM général d'une UE pour un semestre. */
+export const lienQcm = (ue: string, semestre: number) => lien(`ue/${ue}/qcm-semestre-${semestre}/`);
