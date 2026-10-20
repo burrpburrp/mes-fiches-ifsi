@@ -147,109 +147,85 @@ L'urticaire aiguë est d'origine médicamenteuse dans moins de 10 % des cas. La 
 D'autres mécanismes pharmacologiques existent, comme l'accumulation de bradykinine induite par les inhibiteurs de l'enzyme de conversion, les sartans ou les gliptines. Les anti-inflammatoires non stéroïdiens (AINS) provoquent parfois un blocage des prostaglandines conduisant à une accumulation de leucotriènes. Les anticorps monoclonaux peuvent entraîner une libération de cytokines. 
 Dans environ 5 % des cas, l'urticaire et l'angio-œdème relèvent d'un véritable mécanisme immuno-allergique. Il s'agit d'une réaction immédiate médiée par des anticorps (IgE) dirigés spécifiquement contre le médicament, observée notamment avec les pénicillines, les curares ou certains produits de contraste iodés. Cette situation expose aux risques cliniques d'asphyxie et de choc anaphylactique. Par conséquent, toute suspicion de réaction immuno-allergique impose la réalisation de tests spécifiques avant d'envisager une quelconque réintroduction du traitement.
 ## Pustulose exanthématique aiguë généralisée (PEAG)
-C'est une éruption pustuleuse fébrile qui survient dans les 24 à 72 heures après l'introduction du médicament.
-Mais ça peut être aussi de l'ordre de 10 jours.
-Peut être grave et parfois mettre la vie en jeu.
-Ce sont des pustules non folliculaires (elles ne sont pas centrés par un poil), aseptiques (pas de germe), reposant sur la peau érythémateuse (nappe).
-Ça prédomine (en tout cas au début) au niveau du visage et des grands plis (pli axillaire, pli inguinaux), le cou.
-Après il y a une confluence de ces petites pustules qui donne un petit décollement superficiel, ça reste très superficiel, et très vite ça va sécher, en 48 heures. Donc si vous arrivez un tout petit peu après la bataille, vous ne voyez plus les pustules et vous pouvez ne plus penser à la PEAG.
-Sur le plan biologique, il y a une polynucléose neutrophile, un syndrome inflammatoire, parfois une hypercalcémie, très rarement une éosinophilie. 
-Parfois il y a des manifestations systémiques avec petite atteinte hépatique, petite atteinte rénale, médullaire, pulmonaire ou autre, mais qui sont finalement assez peu en avant, en tout cas n'est pas suffisant pour parler de DRESS par exemple.
-L'évolution est favorable en moins de 2 semaines avec une desquamation superficielle.
+Il s'agit d'une éruption pustuleuse fébrile apparaissant 24 à 72 heures, ou parfois jusqu'à 10 jours, après l'introduction du médicament. Cette affection peut être grave et engager le pronostic vital. Elle se caractérise par des **pustules non folliculaires** (non centrées par un poil) et **aseptiques**, reposant sur la peau érythémateuse (nappe). Au début de son évolution, l'éruption prédomine sur le visage, le cou et les grands plis (axillaires et inguinaux).
+Ces pustules confluent ensuite pour former un léger décollement **superficiel** qui s'assèche rapidement, en 48 heures. En cas d'examen clinique tardif, la disparition des pustules peut ainsi faire méconnaître le diagnostic de PEAG.
+Sur le plan biologique, on observe une polynucléose neutrophile, un syndrome inflammatoire, parfois une hypercalcémie et très rarement une éosinophilie.
+Des atteintes systémiques légères (hépatique, rénale, médullaire ou pulmonaire) sont possibles, mais elles restent trop discrètes pour retenir le diagnostic de DRESS.
+L'évolution est favorable en moins de 2 semaines, avec l'apparition d'une desquamation superficielle.
 Le principal diagnostic différentiel est le psoriasis pustuleux. 
 Les médicaments les plus souvent impliqués : pristinamycine, ampicilline, quinolones, hydroxychloroquine, sulfamides antibactériens, terbinafine, diltiazem.
 Il y a aussi des étiologies infectieuses, alimentaires, ça à la marge, ou les morsures d'araignées.
 ## Érythème pigmenté fixe (EPF)
-En anglais on appelle ça "fixed eruption", il y a pas la notion de pigmentation. Le terme de pigmenté existe que en français.
-L'érythème pigmenté fixe est plus rare en Occident qu'en Asie ou en Afrique.
-Le délai d'apparition est < 48-72 heures.
-Ce sont des lésions arrondies, ovales, très bien limitées, rouges, donc érythémateuses, parfois avec un petit décollement bulleux dans le centre.
-Quand ça devient moins inflammatoire, ça peut rester pigmenté, et plus la peau de départ est pigmentée, plus ça va se pigmenter. Sur une peau très claire, ça ne va pas forcément pigmenter, mais ça peut laisser une cicatrice pigmentée pendant longtemps.
-Il y a des diagnostics différentiels : un érythème pigmenté fixe bulleux étendu (NET), des formes muqueuses pures.
-Les médicaments : le paracétamol en tête de liste. AINS (oxicams), antibiotiques (bêtalactamines, quinolones, sulfamides, cyclines, macrolides), carbocystéine (dans les sirops antitussifs), antiépileptiques, benzodiazépines, IPP, antihistaminiques, antifongiques (terbinafine, fluconazole).
-C’est quasiment 100 % médicamenteux. C'est la seule toxidermie pour lequel le médicament est quasiment la seule cause. Donc on dit que c'est pathognomonique du médicament (= c'est forcément le médicament), mais en même temps on décrit des étiologies à la marge, par ex. des étiologies alimentaires.
+Contrairement à la terminologie anglaise (« fixed eruption »), l'appellation française précise la notion de pigmentation. 
+L'érythème pigmenté fixe est plus rare en Occident qu'en Asie ou en Afrique. 
+Son délai d'apparition est < 48-72 heures.
+Cliniquement, l'éruption se caractérise par des lésions érythémateuses - rouges - arrondies ou ovales, très bien délimitées, présentant parfois un léger décollement bulleux en leur centre.
+Lors de la phase de guérison, une pigmentation séquellaire s'installe. Son intensité est proportionnelle à la carnation initiale du patient : elle est très marquée sur les peaux foncées, tandis que sur les peaux claires, elle peut être absente ou laisser une cicatrice pigmentée durable.
+Les diagnostics différentiels : un érythème pigmenté fixe bulleux étendu (NET), des formes muqueuses pures.
+**Le paracétamol est le principal médicament impliqué**. D'autres classes sont fréquemment en cause : AINS (oxicams), antibiotiques (bêtalactamines, quinolones, sulfamides, cyclines, macrolides), carbocystéine (dans les sirops antitussifs), antiépileptiques, benzodiazépines, IPP, antihistaminiques et antifongiques (terbinafine, fluconazole). 
+**L'érythème pigmenté fixe est la seule toxidermie dont l'origine est presque exclusivement médicamenteuse (près de 100 % des cas)**. Bien que cette présentation clinique soit considérée comme pathognomonique d'une prise médicamenteuse, de très rares étiologies alimentaires sont décrites à la marge.
 ## Photosensibilité médicamenteuse
 Dans la photosensibilité médicamenteuse, il y a deux grands types différents.
 ### Photo-toxicité
-Le médicament baisse votre seuil de tolérance par rapport au soleil, donc le soleil peut donner des brûlures. Si vous prenez des coups de soleil en habituellement en une demi-heure, vous allez prendre des coups de soleil en un quart d'heure avec ce médicament-là.
-C'est un phénomène qui est toxique, ce n'est pas immunoallergique, donc ça va concerner tout le monde et c'est dose-dépendant.
-Ça se présente comme un gros coup de soleil qui peut aller jusqu'à la brûlure et qui va se cantonner aux zones exposées au soleil uniquement.
-On peut attraper des coups de soleil au niveau des ongles (parce que l'ongle peut faire loupe avec le soleil) et ça fait décoller les ongles, c'est ce qu'on appelle la photo-onycholyse.
-Les médicaments : Doxycycline. Acide nalidixique. Naproxène. Piroxicam. Voriconazole. Amiodarone. Hydrochlorothiazide. Chlorpromazine. Vemurafenib.
-Les cyclines en général sont des des médicaments avec un potentiel photosensibilisant avec une phototoxicité, d'où l'importance de ne les pas donner (notamment dans l'acné) pendant les mois d'été ou quand les patients partent en vacances pour des zones où il y a beaucoup de soleil.
-Les anticancéreux : la protection vestimentaire, les crèmes solaires de écran 50 à remettre toutes les 2 heures quand les patients sortent au soleil.
+Le médicament abaisse le seuil de tolérance au soleil, provoquant l'apparition de coups de soleil beaucoup plus rapidement qu'à l'habitude. Il s'agit d'un **phénomène toxique, et non immuno-allergique**. Par conséquent, il **peut toucher n'importe quel individu** et reste strictement **dose-dépendant**.
+L'atteinte se manifeste par un coup de soleil intense, pouvant aller jusqu'à la brûlure, strictement limité aux zones photo-exposées. Le rayonnement peut également atteindre les ongles (qui agissent comme une loupe) et provoquer leur décollement : c'est ce que l'on appelle la **photo-onycholyse**.
+Les principaux médicaments responsables sont : la doxycycline, l'acide nalidixique, le naproxène, le piroxicam, le voriconazole, l'amiodarone, l'hydrochlorothiazide, la chlorpromazine et le vémurafénib.
+Les cyclines (prescrites notamment dans l'acné) présentant un fort potentiel phototoxique, il est important d'éviter leur administration pendant l'été ou lors de séjours dans des régions très ensoleillées.
+Pour les traitements anticancéreux, une prévention stricte s'impose lors des sorties au soleil : protection vestimentaire et application d'une crème solaire d'indice 50 toutes les deux heures.
 ### Photo-allergie
-Ce sont d'authentiques réactions immuno-allergiques qui sont provoquées par l'exposition aux UV.  Ça ne va pas concerner tout le monde mais que certains sujets sensibilisés.
-C'est une éruption polymorphe (comme dans les exanthèmes maculo-papuleux) ; ça va déborder de la zone exposée mais ça prédomine sur les zones exposées.
-Evolution : parfois photosensibilité rémanente.
-Les médicaments le plus concernés que d'autres : AINS, médicaments topiques (kétoprofène), sulfamides antibactériens, pyréthamine, fluoroquinolone, phénothiazine, diurétiques thiazidiques.
-Ça s'explore par des photo-patch-tests.
+Ce sont de véritables **réactions immuno-allergiques déclenchées par les UV**. Contrairement à la phototoxicité, elles ne touchent que les sujets préalablement sensibilisés. 
+L'éruption est polymorphe (de type exanthème maculo-papuleux) : elle prédomine sur les zones photo-exposées, mais déborde au-delà de ces limites. 
+L'évolution peut parfois laisser une photosensibilité rémanente.
+Les médicaments les plus fréquemment incriminés sont les AINS (notamment le kétoprofène topique), les sulfamides antibactériens, la pyriméthamine, les fluoroquinolones, les phénothiazines et les diurétiques thiazidiques. L'exploration diagnostique repose sur la réalisation de photo-patch-tests.
 ### Cancer épidermique
-Le cancer épidermique peut avoir un lien étroit avec certains médicaments. 
-Ces cancers sont liés à l'exposition solaire chronique.  
-Ils sont également favorisés par les médicaments immunosuppresseurs, parce que ça va limiter la défense immunitaire y compris la défense contre les cellules cancéreuses.  Les patients greffés.
-Ils sont également favorisés par les médicaments photosensibilisants forts si le traitement est chronique. Par ex. voriconazole (un antifongique). 
-Les carcinomes basocellulaires sont beaucoup moins graves que les carcinomes spinocellulaires qui peuvent diffuser à distance avec des métastases.
+Les cancers épidermiques sont liés à l'exposition solaire chronique, mais aussi à certains médicaments. 
+Les immunosuppresseurs (notamment chez les patients greffés) les favorisent en réduisant les défenses immunitaires contre les cellules cancéreuses. 
+Les traitements photosensibilisants forts pris de façon chronique, comme l'antifongique voriconazole, augmentent également ce risque. 
+Parmi ces cancers, les carcinomes basocellulaires sont beaucoup moins graves que les carcinomes spinocellulaires, qui présentent un risque de dissémination par des métastases à distance.
 ## Éruptions acnéiformes
-Ça ressemble à de l'acné, mais n'est pas de l'acné. Dans l'acné il y a des boutons blancs, des boutons rouges, des boutons noirs. C'est un ensemble de choses, l'acné. 
-Alors que les éruptions acnéiformes induites par certains médicaments, il y a pas du tout de lésions de type rétentionnelle, il y a pas de comédons, pas de microkystes, il y a que des lésions papulo-pustuleuses qui touchent préférentiellement le visage et le haut du tronc.
-Ça représent 1 % des toxidermies. Donc c'est assez fréquent et notamment avec certains médicaments, notamment avec les inhibiteurs du récepteur à l'EGF (Epidermal Growth Factor, facteur de croissance épidermique) [des anticancéreux]. 
-Mais aussi : corticoïdes, androgènes, hydantoïne, dantrolène lithium, médicaments halogénés (halogénides), oestro-progestatifs.
+Les éruptions acnéiformes ressemblent à l'acné classique mais s'en distinguent par l'absence de lésions rétentionnelles. Contrairement à l'acné, il n'y a ni comédons ni microkystes : on n'observe que des lésions papulo-pustuleuses, localisées préférentiellement sur le visage et le haut du tronc.
+Ces éruptions représentent environ 1 % des toxidermies. Elles sont fréquemment déclenchées par les inhibiteurs du récepteur à l'EGF (Epidermal Growth Factor, facteur de croissance épidermique, traitement anticancéreux). 
+D'autres médicaments peuvent également être en cause : corticoïdes, androgènes, hydantoïne, dantrolène, lithium, médicaments halogénés et oestro-progestatifs.
 ## Psoriasis
-Le psoriasis est une maladie inflammatoire de la peau qui est indépendante du médicament. Ça donne des lésions érythémato-squameuses plus ou moins localisées, plus ou moins diffuses, qui peuvent atteindre les ongles, qui ont des présentations cliniques assez variées.
-Il y a certains médicaments qui peuvent soit induire le psoriasis, soit aggraver le psoriasis.
-Ce sont les anti-TNF (Tumor Necrosis Factor) [traitement des maladie auto-immunes]. Les anti-TNF sont aussi utilisés dans le psoriasis, mais ça peut aussi aggraver le psoriasis.
-Aussi : lithium, bêtabloqueurs, IEC, interféron alpha, antipaludéens de synthèse, AINS.
+Le psoriasis est une affection inflammatoire cutanée d'origine non médicamenteuse. Il se manifeste par des lésions érythémato-squameuses d'étendue et de présentation variables, pouvant toucher les ongles. 
+Toutefois, certains médicaments peuvent induire ou aggraver la maladie. C'est notamment le cas des anti-TNF (Tumor Necrosis Factor), paradoxalement utilisés pour traiter les maladies auto-immunes dont le psoriasis lui-même. 
+D'autres molécules sont également incriminées : le lithium, les bêtabloquants, les IEC, l'interféron alpha, les antipaludéens de synthèse et les AINS.
 ## Effets indésirables cutanés des chimiothérapies anticancéreuses
-Avec toutes ces molécules, on a des réactions cutanées très variées et souvent qui sont spécifiques de chaque famille d'anticancéreux, avec des mécanismes variables, qui sont souvent liés à une toxicité directe de ces anticancéreux sur les cellules saines, notamment sur les cellules de la peau.
-Ou bien il y a aussi des effets pharmacologiques, donc c'est les propriétés u médicament qui vont modifier l'aspect de la cellule cutanée.
-Bien sûr, les anticancéreux peuvent aussi donner des réactions immuno-allergiques, mais c'est probablement moins fréquent. 
-Ça touche la peau mais ça touche aussi les annexes, comme les cheveux, les ongles. Il y a parfois des alopécies post-chimiothérapie définitives, ça existe. 
-Il y a des syndromes main-pied qui sont hyper classiques avec plein de chimiothérapies. Ils donnent un érythème des paumes, des plantes, qui peuvent aussi décoller, donner des petites bulles. 
+Les anticancéreux provoquent des réactions cutanées variées, souvent spécifiques à chaque famille de molécules. Ces manifestations reposent sur différents mécanismes : il s'agit le plus souvent d'une toxicité directe sur les cellules saines de la peau, ou d'un effet pharmacologique modifiant les cellules cutanées. Des réactions immuno-allergiques sont également possibles, bien qu'elles soient moins fréquentes.
+Les anticancéreux affectent la peau ainsi que les phanères (cheveux et ongles), pouvant parfois causer une alopécie post-chimiothérapie définitive. Le **syndrome main-pied** est également **très fréquent** : il se manifeste par un érythème des paumes et des plantes, parfois accompagné de décollements cutanés et de petites bulles.
 ### Lignes de Beau
-Une petite curiosité, c'est pas grave. Une ligne de Beau, c'est juste un retentissement d'une cure de chimiothérapie sur les ongles. Quand vous donnez une chimiothérapie à un patient, son ongle va s'arrêter de pousser parce qu'il est stressé. Un ongle pousse d'à peu près 1 millimètre par semaine. Donc vous allez avoir un un arrêt de croissance de l'ongle qui ensuite va recommencer, va repousser et à chaque cure de chimiothérapie, vous allez avoir une nouvelle ligne de Beau qui correspond à cet arrêt de croissance. Donc vous avez cet aspect strié de l'ongle. 
-Ça permet de répondre au patient quand ils se posent des questions.  
-Beaucoup d'anthracyclines ou de taxanes [les anticancereux] donnent ce genre de choses.
+Les lignes de Beau sont une manifestation bénigne témoignant de l'impact de la chimiothérapie sur les ongles. Le stress induit par le traitement provoque un arrêt temporaire de la pousse de l'ongle (qui s'allonge d'environ 1 mm par semaine). Lorsque la croissance reprend, une dépression transversale se forme. Chaque cure génère ainsi une nouvelle ligne, **ce qui donne à l'ongle un aspect strié**. Ce phénomène est particulièrement fréquent avec les anthracyclines et les taxanes. Connaître ce mécanisme permet d'informer et de rassurer le patient.
 ### Onychomadèse
-Quand la chimiothérapie a été particulièrement costaud et ça a entraîné un arrêt prolongé de la croissance de l'ongle, plus d'une semaine, il peut y avoir un trou dans l'ongle. On appelle ça onychomadèse. 
-Parfois, si vous cumulez ça avec une atteinte du lit de l'ongle inflammatoire, il y a peut être une chute de l'ongle complète.
+Lors d'une chimiothérapie particulièrement intense provoquant un arrêt de la croissance de l'ongle de plus d'une semaine, une dépression profonde (ou rupture) peut se former : c'est l'onychomadèse. Si ce phénomène s'associe à une inflammation du lit de l'ongle, il peut aboutir à la chute complète de l'ongle.
 ### Onycholyse
-Les chimiothérapie ont beaucoup de toxicité sur les ongles, sur le lit de l'ongle. Ça va faire décoller l'ongle, on appelle ça une onycholyse.
-Comme l'ongle se décolle, il peut y avoir des hématomes en dessous, il peut y avoir de la  suppuration, des abcès sous les ongles. 
-Cela empoisonne la vie des patients et ça peut empêcher la poursuite de la chimiothérapie ou en tout cas la stopper ou diminuer les doses et cetera.
-Les taxanes sont assez fréquemment impliqués, dont le docétaxel ou le paclitaxel.
+Les chimiothérapies présentent une toxicité importante pour le lit unguéal, provoquant un **décollement de l'ongle appelé onycholyse**. 
+Cette atteinte favorise la formation d'hématomes, de suppurations ou d'abcès sous les ongles. Ces complications altèrent la qualité de vie des patients et peuvent contraindre à diminuer les doses, voire à suspendre ou arrêter le traitement. 
+Les taxanes, comme le docétaxel et le paclitaxel, sont fréquemment impliqués.
 ### Photosensibilité : photo-onycholyse
 La photo-onycholyse se retrouve avec certaines chimiothérapies. Phototoxicité (UVA) au travers de la tablette unguéale (loupe).
 ### Nouvelles molécules, nouveaux effets indésirables
 Nouvelle molécule = nouvelles cibles = nouveaux effets cutanés. 
-Inhibiteurs de l’EGFR (comme le céblosimab) bloquent l’EGFR (récepteur du facteur de croissance épidermique, Epidermal Growth Factor Receptor) et désorganisent les kératinocytes épidermiques/phanériens. L'effets sur la peau sont liés à la prise de ces médicaments-là, ils sont dose-dépendants et peuvent témoigner de l'efficacité du blocage et donc de l'efficacité du traitement. 
-Ça va donner des papulo-pustules, cette fameuse éruption acnéiforme, une atteinte autour des ongles (paronychie, cela peut être assez invalidant au quotidien), une anomalie de la régulation des poils et des cils (une pousse anormale des cils par ex.), un prurit, une sécheresse cutanée. 
+ILes inhibiteurs de l’EGFR (comme le céblosimab) bloquent le récepteur du facteur de croissance épidermique, désorganisant ainsi les kératinocytes de la peau et des phanères. Ces effets secondaires **sont dose-dépendants et leur apparition est souvent un indicateur clinique de l'efficacité du traitement**. 
+Ils se manifestent par une éruption acnéiforme (papulo-pustules), des atteintes autour des ongles (paronychie) souvent invalidantes au quotidien, des anomalies de croissance des poils et des cils, ainsi qu'un prurit et une sécheresse cutanée.
 ### Paronychies et granulomes pyogéniques (botryomycomes)
-Les paronychies sont des inflammations autour de l'ongle. Des granulomes pyogéniques inflammatoires [des amas de petits vaisseaux sanguins] autour de l'ongle. Cela peut être assez invalidant au quotidien. Qualité de vie +++. Ca fait mal.
-Fréquent avec les inhibiteurs du récepteur au facteur de croissance épidermique (anti-EGFR): cetuximab (Erbitux), gefitinib (Iressa), erlotinib (Tarceva), lapatinib (Tyverb).
+Les paronychies sont des inflammations douloureuses autour de l'ongl, se manifestant parfois par des granulomes pyogéniques (amas inflammatoires de petits vaisseaux sanguins). Très invalidantes au quotidien, elles altèrent fortement la qualité de vie. Ces lésions sont fréquentes avec les inhibiteurs de l'EGFR (cetuximab (Erbitux), gefitinib (Iressa), erlotinib (Tarceva), lapatinib (Tyverb)).
 ## Autres effets cutanés
 - Pigmentations cutanées (hydroxychloroquine, cyclines, amiodarone)
-    
 - Vascularites cutanées (purpura nécrotique)
-    
 - Halogénides
-    
 - Prurit...
 ## Conduite à tenir  devant une suspicion de toxidermie
-Un diagnostic précis, avec l'élimination des diagnostics différentiels, et pour cela, il faut se guider sur la clinique, et si c'est compliqué, si c'est difficile, il faut s'aider d'un dermatologue. Sur la biologie, sur l'histologie, enfin sur les examens complémentaires.  
+Un diagnostic précis impose d'éliminer les diagnostics différentiels. La démarche repose en premier lieu sur l'examen clinique, complété si nécessaire par des examens paracliniques tels que la biologie ou l'histologie. En cas de présentation complexe, le recours à un avis dermatologique est requis.
 Deuxième bon réflexe, est-ce qu'il y a des signes de gravité ? 
-    • Fièvre > 38°5. On est plutôt sur un DRESS ou sur un début de Stevens-Johnson-Lyell. Et puis, la fièvre elle-même peut aussi entraîner des conséquences de déshydratation.
-    • Atteinte muqueuse.  Ça va tout de suite vous orienter vers une toxidermie bulleuse.
-    • Décollement bulleux (Nikolsky).
-    • Érythrodermie. Le fait d'être rouge de la tête au pied. L'érythrodermie en elle-même a un retentissement sur la l'état général. C'est grave en soi. Ça va vous orienter plus facilement vers un DRESS.
-    • Œdème du visage. L'œdème du visage, ça c'est plutôt pour le DRESS.
-    • Adénopathies périphériques. DRESS. 
-    • D'autres atteintes sous-jacentes: sang, foie, rein, poumon, coeur.
-L'analyse chronologique. On fait attention au biais et cetera. Minimiser le biais de mémoire (attention à ce qui n’est pas considéré comme médicament). Biais protopathique : médicament administré pour les symptômes inauguraux de la réaction cutanée.
-Le travail de chronologie par rapport à la sémiologie de votre éruption. 
-L'imputabilité : lien entre médicament et événement indésirable. Ça peut très vite euh faire arrêter la commercialisation d'un médicament, l'identification d'un médicament qui est récemment introduit sur le marché à l'origine d'un DRESS ou d'un Stevens-Johnson ou d'un Lyell, c'est vraiment hyper important à faire remonter à la pharmacovigilance.
+- Une fièvre > 38,5 °C  oriente vers un syndrome DRESS ou le début d'un syndrome de Stevens-Johnson ou de Lyell. Et puis, la fièvre elle-même peut aussi entraîner une déshydratation.
+- Une atteinte muqueuse ou un décollement bulleux (signe de Nikolsky) pointent d'emblée vers une toxidermie bulleuse.
+- Érythrodermie. La présence d'une érythrodermie (rougeur généralisée) altère l'état général, c'est grave en soi, et ça oriente vers un DRESS.
+- Un œdème du visage et des adénopathies périphériques sont des éléments cliniques évocateurs du syndrome DRESS.
+- L'évaluation doit rechercher d'éventuelles atteintes systémiques sous-jacentes, notamment hématologiques, hépatiques, rénales, pulmonaires ou cardiaques.
+L'analyse chronologique confronte les prises médicamenteuses à la sémiologie de l'éruption. Lors de cet interrogatoire, il convient de limiter le biais de mémoire (oubli de produits qui ne sont pas perçus comme des médicaments) et d'écarter le biais protopathique. **Le biais protopathique** consiste à incriminer à tort un médicament pris pour soulager les premiers symptômes d'une toxidermie en réalité déjà amorcée par une autre molécule.
+L'imputabilité évalue le lien de causalité entre un médicament et un effet indésirable. Identifier une molécule récemment commercialisée comme responsable d'une toxidermie grave (DRESS, Stevens-Johnson ou Lyell) peut entraîner son retrait rapide du marché. La déclaration systématique de ces événements à la pharmacovigilance est donc primordiale.
 
-Dans les QCM  il peut y avoir des questions qui portent sur ces toxics, ces tableaux de toxidermie, notamment sur les aspects de gravité, de sévérité.
+Dans les QCM  il peut y avoir des questions qui portent sur ces tableaux de toxidermie, notamment sur les aspects de gravité, de sévérité.
 ## QCM
 
 ### Selon la base mondiale de pharmacovigilance VigiBase® 2024, outre la peau, quels sont les organes ou systèmes les plus fréquemment touchés par les effets indésirables des médicaments :
