@@ -35,3 +35,7 @@ del { color: var(--faux); }
 .contenu ul { list-style-type: "–  "; }
 .contenu li { margin: .35em 0; padding-left: .2rem; }
 .contenu li::marker { color: var(--accent); }
+/* QCM général d'une UE : dernier élément de la liste des fiches. */
+.qcm-general { list-style: none; margin: .4rem 0 0 -1.2rem; font-weight: 600; }
+.qcm-general a::before { content: "✎ "; }
+.origine { display: block; margin-top: .2rem; color: var(--doux); font-size: .9rem; }

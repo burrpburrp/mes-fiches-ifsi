@@ -1,0 +1,20 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Qcm from '../../../components/Qcm.astro';
+import { ues, lien, qcmGenerauxDuSite } from '../../../lib/site';
+
+// Une page par UE et par semestre, seulement s'il y a des questions.
+export async function getStaticPaths() {
+  return (await qcmGenerauxDuSite()).map(({ ue, semestre, questions }) => ({
+    params: { ue, semestre: String(semestre) },
+    props: { ue: ues.find((u) => u.id === ue)!, semestre, questions },
+  }));
+}
+const { ue, semestre, questions } = Astro.props;
+---
+<Base titre={`QCM · UE ${ue.id} · semestre ${semestre}`}>
+  <p><a href={lien(`ue/${ue.id}/`)}>UE {ue.id} · {ue.intitule}</a></p>
+  <h1>QCM · UE {ue.id}, semestre {semestre}</h1>
+  <p>{questions.length} question{questions.length > 1 ? 's' : ''} tirée{questions.length > 1 ? 's' : ''} des fiches de l'UE, dans un ordre différent à chaque fois.</p>
+  <Qcm questions={questions} titre="Questions" melanger />
+</Base>
