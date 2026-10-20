@@ -38,7 +38,7 @@ L'attitude du patient envers l'équipe soignante reflète généralement la rela
 ## QCM
 
 ### Face à une demande de médecine alternative, le soignant :
-- [x]  inviter le patient à détailler sa démarche, la saisir comme opportunité de dialogue.
+- [x]  inviter le patient à détailler sa démarche, la saisir comme opportunité de dialogue afin de comprendre ses besoins réels (psychologiques ou culturels) et d'évaluer l'intégration éventuelle de ces pratiques au plan de soins.
 - [ ] doit rejeter cette demande jugée inadaptée à la médecine conventionnelle et aux compétences du soignant.
 - [ ] peut appliquer une de ces deux approches en fonction de ses valeurs et ces croyances.
 

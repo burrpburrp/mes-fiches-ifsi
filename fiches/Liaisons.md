@@ -9,4 +9,5 @@ Effets indésirables cutanés des médicaments :
 - строение кожи - cycles de la vie + grands brulés
 - лекция по фарме семестр 5 про антираковые лекарства
 
-
+Comment répondre à une demande d’information des malades sur les thérapies alternatives
+- notions de santé, maladie, soins  dans la Sociologie, antropologie.
