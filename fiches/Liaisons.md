@@ -11,3 +11,6 @@ Effets indésirables cutanés des médicaments :
 
 Comment répondre à une demande d’information des malades sur les thérapies alternatives
 - notions de santé, maladie, soins  dans la Sociologie, antropologie.
+
+Iatrogénie médicamenteuse et pharmacovigilance :
+- Связь с фармой семестр 1 лекция про порядок клинических испытаний.

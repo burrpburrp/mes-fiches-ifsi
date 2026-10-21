@@ -110,8 +110,65 @@ Les données de pharmacovigilance ne reflètent qu'une fraction des événements
 
 ## QCM
 
-### Face à une demande de médecine alternative, le soignant :
-- [x]  inviter le patient à détailler sa démarche, la saisir comme opportunité de dialogue afin de comprendre ses besoins réels (psychologiques ou culturels) et d'évaluer l'intégration éventuelle de ces pratiques au plan de soins.
-- [ ] doit rejeter cette demande jugée inadaptée à la médecine conventionnelle et aux compétences du soignant.
-- [ ] peut appliquer une de ces deux approches en fonction de ses valeurs et ces croyances.
+### Quels médicaments ou situations thérapeutiques sont les plus susceptibles de provoquer des effets indésirables :
+- [x] Les médicaments à marge thérapeutique étroite.
+- [ ] Les médicaments ayant une demi-vie d'élimination très courte.
+- [x] Les médicaments récemment mis sur le marché.
+- [x] L'administration simultanée de plus de deux médicaments chez un même patient.
+- [x] Les traitements nécessitant une préparation manuelle.
 
+### Quelles sont **les** populations **les plus exposées au risque** d'effets indésirables des médicaments :
+- [x] Les enfants.
+- [x] Les patients âgés.
+- [ ] Les patients n'ayant jamais été exposés à des traitements pharmacologiques.
+- [x] Les patients souffrant d’insuffisance rénale ou hépatique.
+- [x] Les patients atteints de polypathologies.
+- [x] Les femmes enceintes.
+- [ ] Les patients présentant un indice de masse corporelle (IMC) élevé sans pathologie associée.
+
+### Quels mécanismes peuvent engendrer des effets indésirables médicamenteux :
+- [x] La toxicité des médicaments.
+- [x] Les réactions immuno-allergiques.
+- [x] L’idiosyncrasie.
+- [ ] La tachyphylaxie.
+- [x] L'effet nocebo.
+
+### Quel est l'ordre chronologique correct des phases des essais cliniques chez l'homme :
+- [x] 1) Les volontaires sains 2) un petit nombre de patients 3) un grand nombre de patients.
+- [ ] 1) Un petit nombre de patients 2) les volontaires sains 3) un grand nombre de volontaires sains.
+- [ ] 1) Un grand nombre de patients 2) un petit nombre de patients 3) un grand nombre de volontaires sains.
+
+### La pharmacovigilance intervient :
+- [x] En phase IV, après l'obtention de l’Autorisation de Mise sur le Marché (AMM).
+- [ ] A partir de phase I, c'est-à-'dire à partir des études cliniques sur des volontaires sains.
+- [ ] A partir des études pré-cliniques.
+
+### La Base nationale de pharmacovigilance est gérée par : 
+- [x] L’ANSM (l’Agence nationale de sécurité du médicament).
+- [ ] Les Centres Régionaux de Pharmacovigilance.
+- [ ] La HAS (Haute Autorité de Santé).
+- [ ] L'ANSES.
+- [ ] L’Agence européenne des médicaments (EMA).
+
+### Un effet indésirable est considéré comme grave : 
+- [x] S’il entraîne le décès du patient.
+- [x] S’il met la vie du patient en danger.
+- [x] S’il provoque une invalidité, une incapacité.
+- [x] S’il entraîne ou prolonge une hospitalisation.
+- [ ] S’il n'est pas mentionné dans le résumé des caractéristiques du produit (RCP) ou la notice.
+
+### Un effet indésirable est considéré comme inattendu : 
+- [ ] S'il survient avec une fréquence qualifiée de « très rare » (moins d'un patient sur 10 000).
+- [ ] S'il résulte d’une réaction idiosyncrasique ou immuno-allergique impossible à anticiper chez un patient donné.
+- [x] S’il n'est pas mentionné dans le résumé des caractéristiques du produit (RCP) ou la notice.
+
+### Les centres régionaux de pharmacovigilance sont coordonnés et financé  : 
+- [x] Par l'ARS à l’échelle régionale et par l’ANSM au niveau national.
+- [ ] Par l’ANSM à l’échelle régionale et par l'ARS au niveau national.
+- [ ] Pas la HAS.
+
+### Le recueil et l'analyse des effets indésirables en lien avec l’utilisation des dispositifs médicaux s'appelle :
+- [x] Metériovigilance.
+- [ ] Pharmacovigilance.
+- [ ] Réactovigilance.
+ 
