@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="130 230 1680 1680">
+  <!-- Mortier de diplômé, d'après l'image choisie par Oksana (ticket #19). -->
+  <rect x="130" y="230" width="1680" height="1680" rx="280" fill="#f1efea"/>
+  <path d="M544 1000 L966 1180 L966 1402 Q700 1400 544 1272 Z" fill="#40434a"/>
+  <path d="M966 1180 L1387 1000 L1387 1272 Q1230 1400 966 1402 Z" fill="#2d2e33"/>
+  <path d="M217 812 L966 493 L966 1133 Z" fill="#14233f"/>
+  <path d="M966 493 L1715 812 L966 1133 Z" fill="#0b1a2b"/>
+  <g fill="#e3b04b">
+    <rect x="1545" y="860" width="60" height="440"/>
+    <circle cx="1575" cy="1330" r="55"/>
+    <path d="M1540 1365 L1610 1365 L1645 1510 Q1575 1545 1505 1510 Z"/>
+  </g>
+</svg>

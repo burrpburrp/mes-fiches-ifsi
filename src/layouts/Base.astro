@@ -10,6 +10,10 @@ const { titre } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{titre} · Mes fiches IFSI</title>
     <link rel="stylesheet" href={lien('style.css')} />
+    <!-- Icône de l'onglet : SVG net à toutes les tailles, PNG pour les navigateurs plus anciens et l'écran d'accueil des téléphones. -->
+    <link rel="icon" href={lien('favicon.svg')} type="image/svg+xml" />
+    <link rel="icon" href={lien('favicon-32.png')} type="image/png" sizes="32x32" />
+    <link rel="apple-touch-icon" href={lien('apple-touch-icon.png')} />
   </head>
   <body>
     <header>
