@@ -10,6 +10,7 @@ main { max-width: 760px; margin: 0 auto; padding: 1rem; }
 footer { max-width: 760px; margin: 2rem auto; padding: 1rem; color: var(--doux); font-size: .85rem; border-top: 1px solid var(--bord); }
 .ue { background: var(--carte); border: 1px solid var(--bord); border-radius: 10px; padding: .25rem 1rem; margin: .75rem 0; }
 .ue h3 { font-size: 1.05rem; }
+.ue h2 { font-size: 1.15rem; }
 .fiches, .organes { padding-left: 1.2rem; }
 .badge, .tag { display: inline-block; font-size: .8rem; padding: .1rem .5rem; border-radius: 999px; border: 1px solid var(--bord); margin: 0 .25rem .25rem 0; color: var(--doux); text-decoration: none; }
 .compte, .vide { color: var(--doux); font-size: .9rem; }
