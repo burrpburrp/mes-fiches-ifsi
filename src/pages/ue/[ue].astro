@@ -8,13 +8,22 @@ export function getStaticPaths() {
 }
 const { ue } = Astro.props;
 const fiches = (await fichesPubliees()).filter((f) => f.data.ue.includes(ue.id));
-// Un QCM général par semestre qui a des questions.
-const qcm = (await qcmGenerauxDuSite())
-  .filter((g) => g.ue === ue.id)
-  .map((g) => ({ href: lienQcm(g.ue, g.semestre), libelle: ue.semestres.length > 1 ? `QCM · semestre ${g.semestre}` : 'QCM' }));
+const qcm = (await qcmGenerauxDuSite()).filter((g) => g.ue === ue.id);
+// Fiches regroupées par semestre, chaque groupe se termine par son QCM général.
+// On garde aussi un semestre écrit dans une fiche mais absent de src/data/ue.json.
+const semestres = [...new Set([...ue.semestres, ...fiches.flatMap((f) => f.data.semestres)])].sort((a, b) => a - b);
+const groupes = semestres.map((s) => ({
+  semestre: s,
+  fiches: fiches.filter((f) => f.data.semestres.includes(s)),
+  qcm: qcm.some((g) => g.semestre === s) ? [{ href: lienQcm(ue.id, s), libelle: 'QCM' }] : [],
+}));
 ---
 <Base titre={`UE ${ue.id}`}>
   <h1>UE {ue.id} · {ue.intitule}</h1>
-  <p>Semestre{ue.semestres.length > 1 ? 's' : ''} {ue.semestres.join(', ')}</p>
-  <ListeFiches fiches={fiches} qcm={qcm} />
+  {groupes.map((g) => (
+    <section class="ue">
+      <h2>Semestre {g.semestre}</h2>
+      <ListeFiches fiches={g.fiches} qcm={g.qcm} />
+    </section>
+  ))}
 </Base>
