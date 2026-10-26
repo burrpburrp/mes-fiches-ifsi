@@ -7,7 +7,7 @@ semestres: 5
 organes:
 type: pharmacologie
 tags: []
-brouillon: true
+brouillon: false
 source: Dr. Emmanuel Pardo. Réanimation Chirurgicale, Département d’Anesthésie-Réanimation, Hôpital Saint-Antoine. Septembre 2024.
 ---
 La dénutrition à l'hôpital est très fréquente. Entre 45 et 60 % des patients hospitalisés sont touchés. Ce problème s'aggrave toujours au cours du séjour. 
