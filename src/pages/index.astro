@@ -10,18 +10,21 @@ const qcm = await qcmGenerauxDuSite();
 // Lien « QCM » en fin de liste si l'UE a des questions ce semestre.
 const lienQcmSi = (ue: string, s: number) =>
   qcm.some((g) => g.ue === ue && g.semestre === s) ? [{ href: lienQcm(ue, s), libelle: 'QCM' }] : [];
+const fichesDe = (ue: string, s: number) => fiches.filter((f) => f.data.ue.includes(ue) && f.data.semestres.includes(s));
 ---
 <Base titre="Par semestre">
   <h1>Les fiches, par semestre</h1>
   {semestres.map((s) => {
-    const uesDuSemestre = ues.filter((u) => u.semestres.includes(s));
-    return uesDuSemestre.length > 0 && (
+    // Seules les UE qui ont déjà des fiches ce semestre sont affichées (33 UE au total).
+    const uesDuSemestre = ues.filter((u) => u.semestres.includes(s) && fichesDe(u.id, s).length > 0);
+    return (
       <section>
         <h2>Semestre {s}</h2>
+        {uesDuSemestre.length === 0 && <p class="vide">Pas encore de fiche pour ce semestre.</p>}
         {uesDuSemestre.map((u) => (
           <div class="ue">
             <h3><a href={lien(`ue/${u.id}/`)}>UE {u.id} · {u.intitule}</a></h3>
-            <ListeFiches fiches={fiches.filter((f) => f.data.ue.includes(u.id) && f.data.semestres.includes(s))} qcm={lienQcmSi(u.id, s)} />
+            <ListeFiches fiches={fichesDe(u.id, s)} qcm={lienQcmSi(u.id, s)} />
           </div>
         ))}
       </section>
