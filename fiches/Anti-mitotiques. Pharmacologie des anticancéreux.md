@@ -189,3 +189,13 @@ L'effet principal est la destruction de la cellule par les globules blancs, le b
 - [ ] Une toxicité chimique directe de la molécule sur les cellules saines à division rapide, provoquant la mort des tissus de la muqueuse digestive et des follicules pileux.
 - [x] Une réaction auto-immune causée par la levée des freins physiologiques des lymphocytes T, qui se mettent à attaquer par erreur les tissus sains de l'organisme.
 - [ ] Un rejet immunologique systématique du médicament lui-même par le foie, empêchant son absorption et provoquant une insuffisance hépatique aiguë.
+
+###  Les inhibiteurs de tyrosine kinase font partie des :
+- [ ] Cytotoxiques.
+- [ ] Hormonothérapies.
+- [x] Thérapies ciblées.
+
+###  Les alkylants et les intercalants font partie des :
+- [x] Cytotoxiques.
+- [ ] Hormonothérapies.
+- [ ] Thérapies ciblées.
