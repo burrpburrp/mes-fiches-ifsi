@@ -1,0 +1,22 @@
+# Chaque matin, relance Oksana sur les tickets qui attendent sa réponse
+# (règle détaillée dans scripts/relances.mjs).
+name: Relancer les tickets
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  relances:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { relancer } = await import(`${process.env.GITHUB_WORKSPACE}/scripts/relances.mjs`);
+            await relancer({ github, context, core });
