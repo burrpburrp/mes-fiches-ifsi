@@ -12,9 +12,9 @@ source: Dr. Laurence BERARD. Plateforme de Recherche Clinique Est Parisien AP-HP
 ---
 ## Définition de la recherche clinique
 La recherche médicale se déroule en plusieurs étapes. 
-La recherche **fondamentale** : objectif principal est de comprendre le fonctionnement des mécanismes naturels à un niveau fondamental. En laboratoire, les chercheurs étudient le fonctionnement du corps humain, le comportement des cellules et des molécules, ainsi que les causes du développement de diverses maladies. À ce stade, les scientifiques n'ont pas pour but de concevoir immédiatement un médicament fini ou un outil destiné aux médecins. Ils travaillent avec des tubes à essai, des cultures cellulaires ou des modèles animaux dans le simple but d'accumuler de nouvelles connaissances.
+La recherche **fondamentale** vise à comprendre les mécanismes biologiques et l'origine des maladies via des expériences en laboratoire dans le but d'accumuler de nouvelles connaissances, sans chercher dans l'immédiat à concevoir des traitements médicaux.
 La recherche **translationnelle** fait le pont entre le laboratoire et le soin. Lorsque la recherche fondamentale propose une nouvelle idée, la médecine translationnelle évalue son applicabilité clinique. Les spécialistes vérifient si les nouvelles données de laboratoire peuvent servir de base à la création d'un test diagnostique inédit, d'un dispositif médical innovant ou d'un traitement ciblé.
-La recherche **clinique** constitue l'étape finale, menée sur l'être humain, qu'il s'agisse de volontaires sains ou de patients présentant des pathologies spécifiques. À ce stade, les concepts ayant passé avec succès les vérifications en laboratoire sont évalués dans les conditions de la pratique médicale réelle. L'objectif principal des essais cliniques est de déterminer la méthode la plus sûre et la plus efficace pour la prise en charge des patients. Les chercheurs documentent minutieusement la sécurité, la faisabilité, l'efficacité et l'utilité pratique des nouveaux médicaments ou protocoles. C'est grâce à la recherche clinique que de nouvelles solutions obtiennent la confirmation officielle de leur fiabilité et s'intègrent dans le travail quotidien des médecins et du personnel infirmier.
+La recherche **clinique** constitue l'étape finale, menée sur l'être humain, qu'il s'agisse de volontaires sains ou de patients présentant des pathologies spécifiques. À ce stade, les concepts ayant passé avec succès les vérifications en laboratoire sont évalués dans les conditions de la pratique médicale réelle. Les chercheurs documentent la sécurité, la faisabilité, l'efficacité et l'utilité pratique des nouveaux médicaments ou protocoles. C'est grâce à la recherche clinique que de nouvelles solutions obtiennent la confirmation officielle de leur fiabilité et s'intègrent dans le travail quotidien des médecins et du personnel infirmier.
 ## Textes et lois
 Toutes ces pratiques sont très encadrées par la loi.
 19 août 1947 - Le code de Nuremberg = Les principes d’éthique médicale.
@@ -99,7 +99,7 @@ Deux services d'un même hôpital forment deux centres distincts. Le promoteur v
 - [ ] Elle implique des actes ajoutant de légères contraintes à la pratique de routine et nécessite un consentement exprès. 
 
 ### Quelle est la règle applicable en cas d'urgence vitale immédiate empêchant de recueillir le consentement préalable du patient ?
-- [x] L'équipe médicale peut déroger au consentement initial sous réserve de l'accord préalable du CPP, et doit recueillir un consentement de poursuite auprès du patient s'il survit. 
+- [x] L'équipe médicale peut déroger au consentement initial sous réserve de l'accord préalable du CPP, et doit recueillir un consentement retardé auprès du patient s'il survit. 
 - [ ] L'équipe doit obligatoirement obtenir l'accord de la personne de confiance, de la famille ou d'un proche avant d'agir, et doit recueillir un consentement de poursuite auprès du patient s'il survit.
 
 ### À quelle autorité compétente le promoteur d'une recherche clinique doit-il obligatoirement déclarer les effets indésirables graves liés à l'étude ?
