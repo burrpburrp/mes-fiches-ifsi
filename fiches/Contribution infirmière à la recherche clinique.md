@@ -1,5 +1,5 @@
 ---
-titre: ontribution infirmière à la recherche clinique
+titre: Contribution infirmière à la recherche clinique
 resume:
 ue:
   - "2.11"
