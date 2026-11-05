@@ -17,3 +17,9 @@ Iatrogénie médicamenteuse et pharmacovigilance :
 
 Cadre législatif des essais cliniques :
 - Связь с Рисками по Événement indésirable grave.
+
+Neuropsychopharmacologie - application infirmière :
+- связь с фармой первая лекция первый курс
+- связь с фармой про пожилых
+- связь с фармой про Паркинсон и леводопу
+- связь с фармой про литий
