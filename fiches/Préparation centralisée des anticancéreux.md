@@ -191,7 +191,7 @@ Précautions à prendre:
 ### Quelles substances l'abréviation CMR désigne-t-elle ?
 - [ ] Chimiques, métaboliques, réactifs.
 - [ ] Cytotoxiques, médicamenteux, résiduels.
-- [ ] Cancérogènes, mutagènes, reprotoxiques.
+- [x] Cancérogènes, mutagènes, reprotoxiques.
 
 ### À la réception de la poche de chimiothérapie avant l'administration, on vérifie :
 - [x] Le nom et le prénom du patient sur l'étiquette.
@@ -202,7 +202,7 @@ Précautions à prendre:
 - [x] La durée de stabilité de la préparation.
 - [x] Le respect du mode de conservation.
 - [x] Si la tubulure est bien clampée et si un filtre est présent.
-- [ ] Le numéro de lot et la date de péremption du flacon d'origine.
+- [ ] Le numéro de lot et la date de péremption du flacon d'origine.·
 
 
  
