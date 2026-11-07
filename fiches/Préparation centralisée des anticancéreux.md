@@ -202,7 +202,7 @@ Précautions à prendre:
 - [x] La durée de stabilité de la préparation.
 - [x] Le respect du mode de conservation.
 - [x] Si la tubulure est bien clampée et si un filtre est présent.
-- [ ] Le numéro de lot et la date de péremption du flacon d'origine.·
+- [ ] Le numéro de lot et la date de péremption du flacon d'origine.
 
 
  
