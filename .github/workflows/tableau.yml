@@ -1,0 +1,26 @@
+# Déplace les cartes du tableau quand une PR « Lié à #N » est ouverte ou fusionnée
+# (règle détaillée dans scripts/tableau.mjs).
+name: Ranger les cartes du tableau
+
+on:
+  pull_request:
+    types: [opened, reopened, closed]
+
+jobs:
+  tableau:
+    runs-on: ubuntu-latest
+    env:
+      # Clé d'accès de Manuel, droit « project » : le tableau appartient à son compte.
+      TABLEAU_TOKEN: ${{ secrets.TABLEAU_TOKEN }}
+    steps:
+      - if: env.TABLEAU_TOKEN == ''
+        run: echo "::notice::Secret TABLEAU_TOKEN absent, cartes non déplacées."
+      - if: env.TABLEAU_TOKEN != ''
+        uses: actions/checkout@v4
+      - if: env.TABLEAU_TOKEN != ''
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ env.TABLEAU_TOKEN }}
+          script: |
+            const { deplacerCartes } = await import(`${process.env.GITHUB_WORKSPACE}/scripts/tableau.mjs`);
+            await deplacerCartes({ github, context, core });
