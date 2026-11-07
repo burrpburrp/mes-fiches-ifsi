@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { lien, libellesType } from '../lib/site';
+import { lien } from '../lib/site';
+// Juste le titre de chaque fiche : son type (Pharmacologie…) reste affiché sur la fiche elle-même.
 // `qcm` : liens vers les QCM généraux de l'UE, affichés après les fiches.
 interface Props { fiches: CollectionEntry<'fiches'>[]; qcm?: { href: string; libelle: string }[] }
 const { fiches, qcm = [] } = Astro.props;
@@ -12,7 +13,6 @@ const { fiches, qcm = [] } = Astro.props;
     {fiches.map((f) => (
       <li>
         <a href={lien(`fiches/${f.id}/`)}>{f.data.titre}</a>
-        <span class="badge">{libellesType[f.data.type]}</span>
       </li>
     ))}
     {qcm.map((q) => (
