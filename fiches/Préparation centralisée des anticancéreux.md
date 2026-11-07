@@ -193,3 +193,16 @@ Précautions à prendre:
 - [ ] Cytotoxiques, médicamenteux, résiduels.
 - [ ] Cancérogènes, mutagènes, reprotoxiques.
 
+### À la réception de la poche de chimiothérapie avant l'administration, on vérifie :
+- [x] Le nom et le prénom du patient sur l'étiquette.
+- [x] La présence du bon principe actif.
+- [x] La dose en tenant compte des arrondis possibles selon les médicaments.
+- [ ] Le poids exact de la poche pour le contrôle gravimétrique
+- [x] La nature et le volume du solvant utilisé.
+- [x] La durée de stabilité de la préparation.
+- [x] Le respect du mode de conservation.
+- [x] Si la tubulure est bien clampée et si un filtre est présent.
+- [ ] Le numéro de lot et la date de péremption du flacon d'origine.
+
+
+ 
