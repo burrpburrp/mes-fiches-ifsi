@@ -19,6 +19,7 @@ Les conséquences cliniques du vieillissement sont la diminution des capacités 
 La fragilité est la perte de réserve fonctionnelle liée à l’âge. Elle est associée à un moins bon pronostic vital ou fonctionnel.
 Il existe des personnes âgées qui connaissent un vieillissement réussi. Ces personnes gardent leur autonomie. Elles restent actives socialement et continuent de faire de l'activité physique. Elles ne subissent pas les conséquences (graves) des maladies chroniques.
 La base du raisonnement gériatrique est la suivante. L'association du vieillissement et de la maladie diminue la fonction d'un organe. L'organe n'arrive plus à faire son travail correctement pour maintenir la santé de la personne. On appelle cela le seuil d'insuffisance. Quand la fonction de l'organe descend sous ce seuil, le patient présente des symptômes d'insuffisance organique. Le but de l'intervention médicale est d'empêcher ou de ralentir cette dégradation. Il faut faire remonter la fonction de l'organe au-dessus du seuil d'insuffisance.
+Le modèle 1+2+3 du gériatre Bouchon est le nom du schéma qui décrit la décompensation fonctionnelle en gériatrie.
 À 85 ans, plus de 80 % des personnes souffrent de 4 maladies chroniques ou plus. Chez les patients âgés avec plusieurs maladies chroniques, il faut soigner chaque pathologie, mais il est aussi nécessaire de prendre en compte leur influence mutuelle pour réduire les complications et améliorer la qualité de vie. Il faut également hiérarchiser les pathologies.
 Beaucoup d'études cliniques excluent les personnes âgées à cause de leur âge et du risque plus élevé de complications.  Cela limite la possibilité d'évaluer l'efficacité et la sécurité des médicaments pour ce groupe. Sans données sur les patients âgés, on utilise souvent les résultats obtenus sur des patients plus jeunes. Cette extrapolation peut être inexacte ou dangereuse.
 L'approche gériatrique va au-delà du simple traitement médical. Elle vise un soutien global de la personne âgée. Il faut prendre en compte son bien-être physique, psychologique et social. Il est important de maintenir l'autonomie du patient le plus possible. 
@@ -53,7 +54,82 @@ Certains médicaments présentent un risque plus important.
 - Les anti-inflammatoires non stéroïdiens augmentent le risque d'ulcère gastrique et d'insuffisance rénale.
 Il faut suspecter toute prescription récente de médicament si le patient commence à présenter de nouveaux symptômes.
 ## Pharmacocinétique et vieillissement
-
+#### Vieillissement et absorption
+- La sécrétion d'acide gastrique diminue. Cela entraîne une augmentation du pH. Cela peut modifier la dissolution et l'absorption de certains médicaments qui ont besoin d'un milieu acide. 
+- La vitesse de vidange de l'estomac et la motilité du tube digestif diminuent. La digestion ralentit. Les médicaments restent plus longtemps dans l'estomac et l'intestin. 
+- Le débit sanguin splanchnique baisse = l'irrigation sanguine du tube digestif diminue. Cela ralentit le passage des médicaments dans le sang.
+=> L'absorption est ralentie. 
+- Les médicaments sont absorbés plus lentement. Le pic de concentration du médicament dans le sang est atteint plus tard que chez les patients plus jeunes. 
+- La biodisponibilité de certains médicaments augmente. Dans certains cas, l'absorption ralentie et la modification du métabolisme font qu'une plus grande quantité de principe actif arrive dans la circulation sanguine. Le risque d'effets secondaires augmente.
+#### Vieillissement et distribution
+Avec l'âge, la surface totale du corps diminue. Cela peut modifier la distribution des médicaments. 
+La quantité d'eau dans le corps baisse de 10 à 15 %. C'est important pour la distribution des molécules hydrophiles, c'est-à-dire les molécules qui se dissolvent dans l'eau. 
+La masse musculaire diminue. La masse grasse augmente. 
+L'irrigation sanguine des tissus baisse souvent. Cela peut gêner le transport des médicaments vers les organes cibles.
+=> Par conséquent :
+- Les médicaments qui se dissolvent dans les graisses peuvent avoir un plus grand volume de distribution car la masse grasse augmente avec l'âge. L'élimination de ces médicaments lipophiles du corps peut être plus lente. 
+- Les médicaments qui se dissolvent dans l'eau auront un plus petit volume de distribution à cause de la baisse de la quantité d'eau dans l'organisme. Cela peut accélérer leur élimination. La demi-vie change. 
+- En cas de pathologies et surtout en cas de déshydratation, les modifications dans la distribution des médicaments peuvent être plus fortes. Il faut faire très attention à ces situations.
+La dénutrition est fréquente chez les personnes âgées. Elle peut entraîner une baisse du taux d'albumine dans le sang. La fraction libre du médicament augmente. Si le taux d'albumine diminue, une plus grande partie du médicament reste sous forme libre. La forme libre du médicament est active. Elle peut provoquer des effets plus forts ou des réactions indésirables. Les médicaments à marge thérapeutique étroite sont particulièrement exposés à cet effet. Une marge thérapeutique étroite signifie que la différence entre la dose efficace et la dose toxique est petite. Quand la liaison à l'albumine baisse, la partie active du médicament augmente. Le risque de toxicité augmente.
+#### Vieillissement et métabolisme
+La masse du foie diminue avec l'âge. La quantité de sang qui traverse le foie baisse. L'activité du CYP450 diminue. La destruction et l'élimination des médicaments sont plus lentes. 
+La conséquence est une altération de la clairance hépatique. Pour certains médicaments, la capacité du foie à les métaboliser diminue beaucoup. Pour d'autres, cette capacité reste presque la même. Le foie ne perd pas sa capacité à éliminer tous les médicaments de la même façon. Tout dépend du principe actif.
+#### Vieillissement et fonction rénale
+Le débit de filtration glomérulaire (DFG) diminue. Cela est dû à une réduction néphronique. Il y a moins de néphrons dans les reins. La perfusion rénale diminue. La clairance rénale baisse. Pour les médicaments solubles dans l'eau, la demi-vie augmente. Leur volume de distribution est plus petit. Malgré ce volume plus faible, la demi-vie est augmentée parce que la clairance rénale est diminuée.
+Les personnes âgées perdent la sensation de soif. Elles boivent peu. Elles  risquent plus souvent la déshydratation.
+## Vieillissement et pharmacodynamie
+La barrière hémato-encéphalique contient beaucoup de protéine PHP. Cette protéine empêche les substances de traverser la barrière. Les personnes âgées ont moins de protéine PHP. Les principes actifs pénètrent davantage dans le cerveau. Le risque d'effets centraux sur le cerveau augmente. Par exemple, les antihistaminiques endorment beaucoup les personnes âgées et causent des problèmes de mémoire. Chez les jeunes, il y a seulement une légère somnolence. Chez les personnes âgées, l'effet dépresseur des benzodiazépines augmente.
+La sensibilité à de nombreux médicaments change. 
+- Le système nerveux central, ou SNC, compense et s'adapte moins bien. Les personnes âgées sont plus sensibles aux médicaments qui agissent sur le système nerveux central. Ces traitements sont les psychotropes, comme les neuroleptiques, et les opiacés. 
+- Le tonus musculaire baisse. Le risque de chutes augmente avec l'utilisation de neuroleptiques, d'anxiolytiques et de somnifères.
+La sensibilité de certains récepteurs change avec l'âge. La sensibilité aux catécholamines diminue (L'adrénaline et la noradrénaline sont des catécholamines). 
+- Les médicaments agissant sur les récepteurs β2-adrénergiques (comme les bêta-mimétiques utilisés pour dilater les voies respiratoires) deviennent moins efficaces chez les personnes âgées, ce qui complique le traitement de pathologies telles que l'asthme ou la BPCO.
+- L'isoprénaline est un médicament qui stimule les récepteurs bêta du cœur. Il devient également moins efficace.
+La sensibilité des barorécepteurs diminue. Ces récepteurs régulent la tension artérielle lors des changements de position du corps. Avec l'âge, leur sensibilité baisse. Le risque d'hypotension orthostatique augmente. Il s'agit d'une chute de la tension artérielle lors du passage à la position debout. Ce risque est particulièrement élevé chez les personnes qui prennent des médicaments antihypertenseurs. Cela peut provoquer des vertiges, des évanouissements et des chutes.
+Chez les personnes âgées, la fonction rénale se dégrade. Cela augmente le risque d'insuffisance rénale aiguë, surtout lors de la prise d'AINS (anti-inflammatoires non stéroïdiens). Ces médicaments peuvent altérer le flux sanguin rénal.
+Les personnes âgées ont souvent des problèmes pour maintenir une température corporelle normale. Cela peut entraîner une hypothermie. Ce risque est important lors de la prise de certains médicaments comme les anesthésiques, les benzodiazépines et les neuroleptiques. Ces traitements perturbent la régulation de la température.
+Les médicaments anticholinergiques (bloquent l'action de l'acétylcholine) :
+- Provoquent des troubles cognitifs comme des hallucinations et une confusion. 
+- Ils causent une constipation pouvant aller jusqu'au risque d'occlusion intestinale. 
+- Ils entraînent une rétention aiguë d'urine avec un risque d'insuffisance rénale aiguë. 
+- Ils provoquent des troubles de l'accommodation avec mydriase. Cela augmente le risque de chutes. 
+- La xérostomie, ou sécheresse de la bouche, peut gêner la mastication et la déglutition. Elle augmente le risque d'infections buccales, comme la candidose, et de pneumopathies. 
+- La thermorégulation est perturbée. L'hyposudation augmente le risque d'hyperthermie par temps chaud. 
+Les neuroleptiques, les antihistaminiques de première génération, les antidépresseurs tricycliques, les antiparkinsoniens et les antispasmodiques urinaires pour le traitement de l'incontinence sont des exemples de médicaments anticholinergiques.
+## Particularités de la prescription médicamenteuse en gériatrie
+La définition de la polymédication varie. C'est généralement la prise de 5  médicaments ou plus en même temps. Il faut prendre en compte les traitements prescrits par le médecin. Il est nécessaire d'inclure l'automédication et les prescriptions cachées que les patients ne mentionnent pas toujours. Il s'agit par exemple des compléments, des plantes ou des médicaments pris sans l'avis du médecin.
+Il y a plusieurs facteurs de risque pour la polymédication. 
+- La polypathologie est le premier facteur. Les personnes âgées souffrent souvent de plusieurs maladies chroniques. Il faut prescrire beaucoup de médicaments différents. 
+- Les prescriptions multiples sont un autre risque. Les patients âgés consultent parfois plusieurs médecins spécialistes. Le risque de prescrire de nombreux traitements sans coordination médicale augmente. C'est le nomadisme médical. 
+- Les demandes des patients jouent un rôle. Les patients réclament parfois des médicaments supplémentaires. 
+- Le renouvellement automatique des ordonnances est un facteur important. Renouveler les prescriptions sans réévaluer l'état du patient amène le malade à continuer des traitements devenus inutiles.
+- L'automédication est un dernier facteur. Les personnes âgées prennent parfois des compléments ou des traitements toutes seules, sans consulter de médecin. Cela augmente aussi le risque de polymédication.
+La vision de la polymédication change. Avant, c'était considéré comme négatif à cause des risques d'effets indésirables et d'interactions. Aujourd'hui, la polymédication est parfois justifiée avec une bonne utilisation des traitements basés sur l'evidence-based medicine. Par exemple, pour une cardiopathie ischémique associée à une ostéoporose, on peut prescrire huit médicaments. Il y a un bêtabloquant, un inhibiteur de l'enzyme de conversion, de l'aspirine, un inhibiteur de la pompe à protons, une statine, du calcium, de la vitamine D et des bisphosphonates. Tous ces médicaments sont nécessaires pour bien traiter ces deux maladies.
+#### Underuse
+L'« underuse » est la non-prescription d'un médicament adapté. Le patient ne reçoit pas un traitement qui pourrait beaucoup l'aider. La maladie peut s'aggraver. La qualité de vie diminue.
+Voici des exemples de maladies et de traitements sous-utilisés. 
+- Pour l'insuffisance coronaire, on ne prescrit souvent pas de bêtabloquants ni d'aspirine. Ces médicaments évitent les complications. 
+- L'HTA systolique nécessite parfois un traitement plus intense. 
+- Dans l'insuffisance cardiaque, l'utilisation des inhibiteurs de l'enzyme de conversion et des bêtabloquants est sous-estimée. Ces traitements améliorent le pronostic et la qualité de vie. 
+- En cas de fibrillation atriale, on prescrit trop peu d'anticoagulants oraux. Ils préviennent les accidents vasculaires cérébraux. 
+- Pour la dépression, les patients avec des symptômes importants ne reçoivent parfois pas d'antidépresseurs. 
+- Lors d'une ostéoporose fracturaire, les malades n'ont pas toujours le traitement nécessaire par calcium, vitamine D et bisphosphonates pour renforcer les os. 
+- Pour les douleurs cancéreuses, certains patients ne reçoivent pas de morphine malgré le besoin d'une analgésie efficace.
+#### Misuse
+Le « misuse » est l'utilisation de médicaments dont les risques dépassent les bénéfices. L'efficacité et l'utilité médicale ne justifient pas le risque d'effets indésirables ou le coût du traitement. 
+Les veinotoniques pour renforcer les vaisseaux en sont un exemple. 
+Les vasodilatateurs pour dilater les vaisseaux, comme le Tanakan, sont un autre exemple.
+#### Overuse
+L'« overuse » est l'utilisation de médicaments prescrits sans indication ou sans efficacité prouvée. Les psychotropes et les inhibiteurs de la pompe à protons en sont des exemples.
+#### Interaction médicamenteuse
+Des interactions pharmacodynamiques :
+- La synergie hypotensive fait baisser la tension artérielle. Elle associe les antihypertenseurs de toutes les classes et les alphabloquants. 
+- La synergie néphrotoxique associe les anti-inflammatoires non stéroïdiens, ou AINS, et les aminosides. Les aminosides sont des antibiotiques. 
+- La synergie hémorragique augmente fortement le risque de saignement. Elle associe les AINS et les anticoagulants. 
+- La synergie de confusion mentale associe plusieurs médicaments psychotropes.
+Des interactions pharmacocinétiques : 
+- Les inhibiteurs du CYP3A4 augmentent le risque de faire monter la concentration du médicament. Il s'agit des inhibiteurs de la protéase utilisés pour le VIH, de la ciclosporine qui est un immunosuppresseur et des azolés qui sont des antifongiques. Il y a aussi l'amiodarone qui est un antiarythmique, ainsi que le diltiazem et le vérapamil pour traiter l'arythmie et l'hypertension. Le jus de pamplemousse est également un inhibiteur puissant du CYP3A4. 
+- Les inducteurs enzymatiques accélèrent le métabolisme des autres médicaments. Cela fait baisser leur concentration dans le sang et diminue leur effet. La rifampicine en est un exemple. Elle s'utilise pour traiter la tuberculose et d'autres infections. Elle peut réduire l'efficacité des autres médicaments métabolisés par le même système enzymatique.
 
 
 ## QCM
