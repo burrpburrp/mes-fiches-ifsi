@@ -8,7 +8,7 @@ organes:
 type: pharmacologie
 tags: []
 brouillon: false
-source: Dr Audrey ROUET, Service de gériatrie, Hôpital Tenon.  2024.
+source: Dr Audrey ROUET, Service de gériatrie, Hôpital Tenon.  2023-2024.
 ---
 ## Vieillissement et Gériatrie
 Le vieillissement est l'ensemble des processus physiologiques et psychologiques qui modifient la structure et les fonctions de l'organisme à l'âge mûr. Ce processus varie d'un individu à l'autre. Il varie aussi entre les organes d'une même personne. C'est lié à des facteurs génétiques et environnementaux. Le vieillissement est un processus lent et progressif. Il est nécessaire de distinguer le vieillissement normal des conséquences des pathologies. Par exemple, une perte de mémoire peut être l'effet d'une maladie et non pas simplement liée à l'âge.
@@ -162,6 +162,12 @@ Il y a plusieurs règles pour bien prescrire un traitement.
 - Il faut bien surveiller l'efficacité et la tolérance du traitement. 
 - Il est nécessaire de définir la durée du traitement.
 
+En pratique, il faut être attentif à :
+- La fonction rénale
+- L'albuminémie
+- L'éEtat pathologique sous jacent : par ex psychotropes et démence
+- L'état neurosensoriel et d’autonomie
+- Les modalités d’administration et surveillance des prises
 ## QCM
 
 ### Face à une demande de médecine alternative, le soignant :
