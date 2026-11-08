@@ -130,7 +130,37 @@ Des interactions pharmacodynamiques :
 Des interactions pharmacocinétiques : 
 - Les inhibiteurs du CYP3A4 augmentent le risque de faire monter la concentration du médicament. Il s'agit des inhibiteurs de la protéase utilisés pour le VIH, de la ciclosporine qui est un immunosuppresseur et des azolés qui sont des antifongiques. Il y a aussi l'amiodarone qui est un antiarythmique, ainsi que le diltiazem et le vérapamil pour traiter l'arythmie et l'hypertension. Le jus de pamplemousse est également un inhibiteur puissant du CYP3A4. 
 - Les inducteurs enzymatiques accélèrent le métabolisme des autres médicaments. Cela fait baisser leur concentration dans le sang et diminue leur effet. La rifampicine en est un exemple. Elle s'utilise pour traiter la tuberculose et d'autres infections. Elle peut réduire l'efficacité des autres médicaments métabolisés par le même système enzymatique.
-
+#### Observance médicamenteuse
+Seulement 50 % des patients suivent correctement leur traitement pour les maladies chroniques. La mauvaise observance augmente le risque d'hospitalisation et de mortalité. Plusieurs facteurs influencent l'observance. 
+Il y a les facteurs liés au traitement. 
+- Les patients ne comprennent pas toujours la nécessité de prendre les médicaments prescrits. 
+- Les règles de prise compliquent le suivi. Il faut parfois prendre le médicament 30 minutes avant le repas ou à une heure précise. La fréquence des prises et un schéma de traitement complexe rendent l'observance difficile. 
+- Les patients arrêtent parfois le traitement à cause des effets indésirables. 
+- Un prix élevé est un obstacle possible. 
+- Avoir plusieurs médecins et des ordonnances peu claires pose problème.
+Il y a aussi les facteurs liés au patient. 
+- L'isolement social, les troubles cognitifs et les troubles sensoriels jouent un rôle. 
+- Une mauvaise compréhension de la notice entraîne des erreurs de prise. 
+- La polymédication est importante. Prendre beaucoup de médicaments augmente le risque d'erreurs et diminue l'observance au traitement.
+#### Le choix de la bonne forme galénique
+Le choix de la bonne forme galénique est important. 
+- Les gouttes posent problème en cas de mauvaise vue ou de tremblement. Il est difficile pour ces personnes âgées de doser et d'utiliser les gouttes avec précision. 
+- Les troubles de la déglutition sont fréquents. Entre 11 et 40 % des personnes âgées souffrent de dysphagie. C'est une difficulté à avaler. Cela rend la prise de médicaments solides comme les comprimés ou les gélules très difficile. 
+- La démence complique la prise de plusieurs traitements. Les patients avec des troubles cognitifs comme la démence oublient parfois de prendre leurs médicaments. Ils se trompent dans les ordonnances, surtout en cas de polymédication. 
+- Prendre beaucoup de médicaments aggrave encore la situation si le patient souffre d'anorexie ou de problèmes pour s'alimenter.
+#### Comment bien prescrire un traitement
+Il y a plusieurs règles pour bien prescrire un traitement. 
+- Il faut avoir un bon diagnostic. 
+- Il est nécessaire d'éviter le misuse, l'underuse et l'overuse. 
+- Il faut prendre en compte les interactions médicamenteuses. 
+- Il est important de considérer les comorbidités comme l'insuffisance rénale ou les troubles cognitifs. 
+- Il faut tenir compte des spécificités gériatriques comme le risque de confusion ou de chutes. 
+- Il faut commencer avec de petites doses et augmenter doucement. C'est le principe du start low, go slow. 
+- Il ne faut pas hésiter à monter les doses si nécessaire. 
+- Il est indispensable de rédiger une ordonnance claire et de simplifier les schémas thérapeutiques. 
+- Il faut expliquer l'ordonnance au patient et à son entourage. 
+- Il faut bien surveiller l'efficacité et la tolérance du traitement. 
+- Il est nécessaire de définir la durée du traitement.
 
 ## QCM
 
