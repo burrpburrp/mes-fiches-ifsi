@@ -1,0 +1,24 @@
+# Quand Oksana répond sur un ticket, pose l'étiquette « réponse-oksana ».
+# Cette pose d'étiquette est un événement « ticket » que GitHub transmet à la tâche
+# Claude « Nouveau ticket d'Oksana (GitHub) » (les simples commentaires ne le sont pas).
+name: Signaler les réponses d'Oksana
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  issues: write
+
+jobs:
+  etiquette:
+    if: github.event.comment.user.login == 'Ici-Oksana' && !github.event.issue.pull_request
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const params = { ...context.repo, issue_number: context.issue.number, name: 'réponse-oksana' };
+            // On retire puis on remet l'étiquette, pour que chaque réponse produise un nouvel événement.
+            await github.rest.issues.removeLabel(params).catch(() => {});
+            await github.rest.issues.addLabels({ ...context.repo, issue_number: context.issue.number, labels: ['réponse-oksana'] });
