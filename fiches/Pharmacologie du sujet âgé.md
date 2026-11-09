@@ -73,7 +73,7 @@ L'irrigation sanguine des tissus baisse souvent. Cela peut gêner le transport d
 La dénutrition est fréquente chez les personnes âgées. Elle peut entraîner une baisse du taux d'albumine dans le sang. La fraction libre du médicament augmente. Si le taux d'albumine diminue, une plus grande partie du médicament reste sous forme libre. La forme libre du médicament est active. Elle peut provoquer des effets plus forts ou des réactions indésirables. Les médicaments à marge thérapeutique étroite sont particulièrement exposés à cet effet. Une marge thérapeutique étroite signifie que la différence entre la dose efficace et la dose toxique est petite. Quand la liaison à l'albumine baisse, la partie active du médicament augmente. Le risque de toxicité augmente.
 #### Vieillissement et métabolisme
 La masse du foie diminue avec l'âge. La quantité de sang qui traverse le foie baisse. L'activité du CYP450 diminue. La destruction et l'élimination des médicaments sont plus lentes. 
-La conséquence est une altération de la clairance hépatique. Pour certains médicaments, la capacité du foie à les métaboliser diminue beaucoup. Pour d'autres, cette capacité reste presque la même. Le foie ne perd pas sa capacité à éliminer tous les médicaments de la même façon. Tout dépend du principe actif.
+Il s'agit d'une altération de la clairance hépatique. Pour certains médicaments, la capacité du foie à les métaboliser diminue beaucoup. Pour d'autres, cette capacité reste presque la même. Le foie ne perd pas sa capacité à éliminer tous les médicaments de la même façon. Tout dépend du principe actif.
 #### Vieillissement et fonction rénale
 Le débit de filtration glomérulaire (DFG) diminue. Cela est dû à une réduction néphronique. Il y a moins de néphrons dans les reins. La perfusion rénale diminue. La clairance rénale baisse. Pour les médicaments solubles dans l'eau, la demi-vie augmente. Leur volume de distribution est plus petit. Malgré ce volume plus faible, la demi-vie est augmentée parce que la clairance rénale est diminuée.
 Les personnes âgées perdent la sensation de soif. Elles boivent peu. Elles  risquent plus souvent la déshydratation.
@@ -170,8 +170,59 @@ En pratique, il faut être attentif à :
 - Les modalités d’administration et surveillance des prises
 ## QCM
 
-### Face à une demande de médecine alternative, le soignant :
-- [x]  inviter le patient à détailler sa démarche, la saisir comme opportunité de dialogue afin de comprendre ses besoins réels (psychologiques ou culturels) et d'évaluer l'intégration éventuelle de ces pratiques au plan de soins.
-- [ ] doit rejeter cette demande jugée inadaptée à la médecine conventionnelle et aux compétences du soignant.
-- [ ] peut appliquer une de ces deux approches en fonction de ses valeurs et ces croyances.
+### Dans le cadre du modèle de décompensation gériatrique (1+2+3 de Bouchon), que signifie précisément le franchissement du « seuil d'insuffisance » par la fonction d'un organe ?
+- [x]  L'organe perd sa capacité de compensation, ce qui se manifeste directement par l'apparition de symptômes cliniques d'insuffisance organique.
+- [ ] La réserve fonctionnelle de l'organe s'épuise de manière définitive, rendant impossible pour l'équipe médicale de restaurer la fonction au-dessus de ce seuil.
+- [ ] L'organe subit les effets cumulés du vieillissement et de la pathologie chronique, mais le patient maintient son homéostasie et reste dans un état de fragilité asymptomatique.
+
+### Parmi les propositions suivantes concernant les facteurs de risque d'iatrogénie médicamenteuse liés au patient, lesquelles sont exactes ?
+- [x] L'âge, qui entraîne des modifications de la pharmacocinétique et de la pharmacodynamique.
+- [ ] L'augmentation physiologique de la filtration glomérulaire (clairance rénale) liée au vieillissement.
+- [x] La polymédication, souvent consécutive à la prise en charge de multiples maladies chroniques.
+- [x] La présence de certaines affections intercurrentes qui élèvent la sensibilité du patient à des médicaments précis.
+- [ ] L'hyperalbuminémie sénile, qui majore la fraction libre (et donc toxique) des médicaments dans le sang.
+- [x] Les antécédents personnels d'effets secondaires médicamenteux.
+- [x] Un faible poids corporel (dénutrition, sarcopénie), rendant les posologies standards inadaptées.
+- [ ] La substitution systématique des traitements princeps par leurs équivalents génériques.
+- [x] L'isolement, la dépendance et un environnement social précaire influençant la prise du traitement.
+- [x] L'automédication sans avis médical préalable.
+- [x] Une mauvaise utilisation des médicaments, comme un oubli de doses ou un non-respect global du traitement.
+
+### Parmi les propositions suivantes concernant les facteurs de risque d'iatrogénie médicamenteuse liés à la prescription, lesquelles sont exactes ?
+- [x] La prescription de traitements inadaptés à l'âge, au poids ou à l'état de santé global du patient âgé.
+- [x] L'utilisation de médicaments à marge thérapeutique étroite, nécessitant une surveillance très stricte.
+- [ ] La centralisation de toutes les prescriptions par un seul médecin traitant référent pour l'ensemble des pathologies.
+- [x] La méconnaissance ou l'ignorance des interactions médicamenteuses, des comorbidités et de la fonction rénale lors de la prescription.
+- [ ] Le choix privilégié de médicaments à large marge thérapeutique.
+- [x] Une information insuffisante donnée au patient concernant la prise, le but et les risques de son traitement.
+- [x] L'absence de réévaluation régulière du traitement, conduisant à la poursuite de médicaments devenus inutiles ou dangereux.
+- [ ] L'adaptation systématique des doses en se basant uniquement sur la fonction hépatique du patient, en ignorant sa fonction rénale.
+- [x] L'intervention de plusieurs médecins (spécialistes, médecins de garde, urgences) sans coordination ni transmission.
+- [x] La rédaction d'ordonnances complexes, trop chargées ou floues, qui embrouillent le patient.
+
+### Chez la personne âgée, certaines classes de médicaments présentent un risque d'iatrogénie beaucoup plus important que d'autres. Parmi les propositions suivantes, lesquelles identifient correctement ces médicaments et leurs risques principaux ?
+- [x] Les anticoagulants et les antiagrégants.
+- [ ] Les inhibiteurs de la pompe à protons.
+- [x] Les antihypertenseurs et les diurétiques.
+- [x] Les antidiabétiques.
+- [ ] Les antibiotiques de la famille des pénicillines.
+- [x] Les psychotropes.
+- [x] Les antalgiques de palier 2 et 3.
+- [ ] Les statines.
+- [x] Les anti-inflammatoires non stéroïdiens.
+- [ ] Les laxatifs osmotiques.
+
+### Parmi les propositions suivantes concernant les modifications de l'absorption médicamenteuse liées au vieillissement, lesquelles sont exactes ?
+- [x] La diminution de la sécrétion d'acide gastrique entraîne une augmentation du pH, ce qui modifie la dissolution et l'absorption de certains médicaments nécessitant un milieu acide.
+- [x] La diminution de la vitesse de vidange de l'estomac et de la motilité du tube digestif ralentit la digestion, prolongeant la présence des médicaments dans le tractus gastro-intestinal.
+- [x] La baisse du débit sanguin splanchnique réduit l'irrigation sanguine du tube digestif, ce qui ralentit le passage des médicaments dans la circulation sanguine.
+- [ ] L'augmentation du pH gastrique facilite l'absorption des principes actifs faiblement acides, augmentant ainsi leur biodisponibilité et le risque d'effets secondaires.
+- [ ] La diminution du débit sanguin splanchnique augmente l'effet de premier passage hépatique, ce qui détruit une plus grande partie du médicament.
+
+### Parmi les propositions suivantes concernant les modifications de la distribution médicamenteuse liées au vieillissement, lesquelles sont exactes ?
+- [x] L'augmentation de la masse grasse avec l'âge accroît le volume de distribution des médicaments lipophiles, ce qui peut ralentir leur élimination.
+- [x] La diminution de la quantité d'eau dans l'organisme réduit le volume de distribution des médicaments hydrophiles, ce qui modifie leur demi-vie et peut accélérer leur élimination.
+- [x] La baisse fréquente du taux d'albumine plasmatique chez la personne âgée entraîne une augmentation de la fraction libre des médicaments dans le sang, c'est-à-dire leur forme active. Cela peut provoquer des effets plus forts ou des réactions indésirables. 
+- [ ] La diminution de l'albumine sérique réduit la capacité de transport des médicaments vers les organes, ce qui diminue leur efficacité globale.
+- [ ] La perte de masse musculaire (sarcopénie) augmente l'espace de diffusion disponible pour les médicaments hydrophiles, ce qui protège le patient contre les pics de concentration plasmatique.
 
