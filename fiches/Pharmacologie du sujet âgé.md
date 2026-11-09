@@ -165,7 +165,7 @@ Il y a plusieurs règles pour bien prescrire un traitement.
 En pratique, il faut être attentif à :
 - La fonction rénale
 - L'albuminémie
-- L'éEtat pathologique sous jacent : par ex psychotropes et démence
+- L'état pathologique sous jacent : par ex psychotropes et démence
 - L'état neurosensoriel et d’autonomie
 - Les modalités d’administration et surveillance des prises
 ## QCM
@@ -226,3 +226,77 @@ En pratique, il faut être attentif à :
 - [ ] La diminution de l'albumine sérique réduit la capacité de transport des médicaments vers les organes, ce qui diminue leur efficacité globale.
 - [ ] La perte de masse musculaire (sarcopénie) augmente l'espace de diffusion disponible pour les médicaments hydrophiles, ce qui protège le patient contre les pics de concentration plasmatique.
 
+### Avec le vieillissement, la masse hépatique, le débit sanguin hépatique et l'activité des cytochromes P450 (CYP450) diminuent, ce qui altère la clairance hépatique. Est-ce que cela signifie que l'élimination de l'ensemble des médicaments est ralentie ?
+- [x] Non. L'altération du métabolisme hépatique n'est pas uniforme. La capacité d'élimination diminue fortement pour certains principes actifs, mais reste presque inchangée pour d'autres.
+- [ ] Oui. La baisse physiologique du débit sanguin et de la masse du foie entraîne un ralentissement proportionnel et inévitable de l'élimination de toutes les molécules médicamenteuses.
+
+### Chez la personne âgée, quel est l'effet de la diminution de la clairance rénale sur la demi-vie d'élimination des médicaments hydrophiles (solubles dans l'eau), sachant que leur volume de distribution y est par ailleurs réduit ?
+- [x] La demi-vie augmente, car la diminution de la clairance rénale (liée à la baisse du débit de filtration et du nombre de néphrons) prédomine sur la baisse du volume de distribution, ce qui ralentit l'élimination globale.
+- [ ] La demi-vie diminue, car la baisse de la quantité d'eau corporelle réduit le volume de distribution du médicament, ce qui accélère mécaniquement son passage et son excrétion par les reins.
+
+### Que se passe-t-il au niveau de la barrière hémato-encéphalique (BHE) chez la personne âgée et quelle en est la conséquence sur l'action des médicaments ?
+- [x] La quantité de protéine PHP diminue, ce qui permet aux principes actifs de pénétrer davantage dans le cerveau et majore le risque d'effets centraux, comme une forte somnolence avec les antihistaminiques.
+- [ ] La perméabilité de la barrière diminue en raison de l'accumulation de protéine PHP, ce qui bloque le passage des molécules et oblige souvent à prescrire des doses plus importantes de psychotropes.
+
+### Comment évolue la sensibilité des récepteurs β2-adrénergiques au cours du vieillissement et quelle en est la conséquence clinique lors de l'utilisation de médicaments bêta-mimétiques ?
+- [x] La sensibilité de ces récepteurs diminue, ce qui entraîne une baisse d'efficacité des traitements bêta-mimétiques prescrits, par exemple, pour obtenir une bronchodilatation.
+- [ ] La sensibilité des récepteurs augmente pour pallier le déclin physiologique de la capacité respiratoire, ce qui expose le patient à un effet pharmacologique excessif avec les posologies habituelles.
+
+### Comment l'évolution physiologique des barorécepteurs liée au vieillissement influence-t-elle la régulation de la tension artérielle, notamment lors d'un changement de position chez le patient âgé ?
+- [x] La sensibilité des barorécepteurs diminue, ce qui altère l'adaptation de la tension artérielle lors du passage à la position debout et majore le risque d'hypotension orthostatique, risque particulièrement élevé en cas de prise de traitements antihypertenseurs.
+- [ ] La sensibilité des barorécepteurs augmente afin de compenser la rigidité artérielle physiologique, ce qui provoque des épisodes d'hypertension artérielle lors du lever et nécessite fréquemment l'augmentation des doses d'antihypertenseurs.
+- [ ] Les barorécepteurs conservent une sensibilité intacte, mais le volume sanguin corporel diminue, ce qui explique les étourdissements au lever, un phénomène purement mécanique et indépendant de la prescription de médicaments antihypertenseurs.
+
+### Sachant que les modifications physiologiques liées au vieillissement majorent le risque d'effets indésirables des médicaments anticholinergiques, comment se manifeste cliniquement cette vulnérabilité accrue chez la personne âgée ?
+- [x] Des troubles cognitifs.
+- [x] Une rétention aiguë d'urine avec un risque d'insuffisance rénale aiguë
+- [ ] Une hyperactivité motrice du tube digestif.
+- [x] Une constipation.
+- [x] Une xérostomie.
+- [ ] Une polyurie osmotique.
+- [x] Des troubles de l'accommodation avec mydriase.
+- [x] Une hyposudation.
+- [ ] Une hypersalivation.
+
+### Quelles sont les classes médicamenteuses qui possèdent des propriétés anticholinergiques significatives ?
+- [x] Les neuroleptiques.
+- [x] Les antihistaminiques de première génération.
+- [ ] Les bêta-bloquants.
+- [x] Les antidépresseurs tricycliques.
+- [x] Les antiparkinsoniens.
+- [x] Les antispasmodiques urinaires pour le traitement de l'incontinence.
+- [ ] Les diurétiques de l'anse.
+
+### Сomment définit-on précisément le concept d'« underuse » et quelle en est la principale conséquence pour le patient ?
+- [x] Il s'agit de la non-prescription d'un médicament cliniquement adapté et indiqué pour l'état de santé du patient, ce qui le prive d'un bénéfice thérapeutique avéré et expose sa pathologie à une aggravation.
+- [ ] Il s'agit de la prescription d'un médicament approprié mais à une posologie infra-thérapeutique (sous-dosage) par crainte des effets secondaires, ce qui empêche le principe actif d'atteindre son seuil d'efficacité clinique.
+- [ ] Il s'agit d'un défaut d'observance thérapeutique de la part du patient qui, par oubli, incompréhension ou choix personnel, ne prend pas la totalité du traitement prescrit par le médecin.
+
+### Сomment définit-on le concept de « misuse » et quelle est sa caractéristique principale ?
+- [x]  Il s'agit de l'utilisation d'un médicament dont les risques d'effets indésirables dépassent les bénéfices cliniques attendus, l'efficacité médicale ne justifiant pas la prise de risque ou le coût du traitement.
+- [ ] Il s'agit de la prescription simultanée d'un nombre élevé de médicaments, généralement plus de cinq, ce qui surcharge de manière mathématique les capacités d'élimination hépatique et rénale du patient.
+- [ ] Il s'agit d'une erreur technique lors de la phase d'administration, lorsque le soignant ou le patient ne respecte pas la voie d'administration, le dosage exact ou l'horaire de prise prescrits.
+### Сomment définit-on le concept d'« overuse »  et quels médicaments en constituent des exemples fréquents ?
+- [x] Il s'agit de l'utilisation de médicaments prescrits sans indication clinique actuelle ou sans efficacité prouvée, comme on l'observe souvent avec la prescription de psychotropes ou d'inhibiteurs de la pompe à protons.
+- [ ] Il s'agit de l'administration d'un médicament à une posologie qui dépasse les capacités d'élimination hépatique et rénale du patient âgé, provoquant une accumulation toxique du principe actif dans l'organisme.
+- [ ] Il s'agit de la prescription d'un nouveau traitement médicamenteux dans le seul but de traiter un symptôme qui est en réalité l'effet indésirable d'un autre médicament, ce qui surcharge inutilement l'ordonnance.
+
+### Parmi les propositions suivantes, quels sont les exemples exacts d'interactions médicamenteuses par synergie pharmacodynamique ?
+- [x] La synergie hypotensive associant les antihypertenseurs et les alphabloquants.
+- [ ] La synergie respiratoire associant les anti-inflammatoires non stéroïdiens (AINS) et les alphabloquants.
+- [x] La synergie néphrotoxique associant les anti-inflammatoires non stéroïdiens et les aminosides.
+- [ ] La synergie néphrotoxique associant les anticoagulants et les médicaments psychotropes.
+- [x] La synergie hémorragique associant les AINS et les anticoagulants.
+- [x] La synergie de confusion mentale associant plusieurs psychotropes.
+
+### En pharmacocinétique, certaines substances agissent comme des inhibiteurs du cytochrome P450 3A4 (CYP3A4), ce qui ralentit l'élimination hépatique d'autres traitements et augmente leurs concentrations sanguines. Parmi les propositions suivantes, quelles sont les substances qui illustrent cette inhibition enzymatique ?
+- [x] Les inhibiteurs de la protéase utilisés pour le VIH.
+- [ ] La carbamazépine, un antiépileptique.
+- [x] La ciclosporine, un médicament immunosuppresseur.
+- [x] Les antifongiques azolés.
+- [x] L'amiodarone, un traitement antiarythmique.
+- [ ] Le millepertuis.
+- [x] Le diltiazem et le vérapamil, des inhibiteurs calciques prescrits pour traiter l'hypertension artérielle et l'angine de poitrine.
+- [x] Le jus de pamplemousse.
+- [ ] La rifampicine, un antibiotique principalement utilisé pour traiter la tuberculose.
+- [ ] La phénytoïne, un traitement antiépileptique.
