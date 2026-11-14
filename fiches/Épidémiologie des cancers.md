@@ -7,44 +7,13 @@ semestres: 5
 organes:
 type: processus tumoraux
 tags: []
-brouillon: false
+brouillon: true
 source: Dr. Mathieu JAMELOT, Service d’Oncologie médicale et Thérapie cellulaire, Hôpital TENON. 2025-2026
 ---
-Bonjour. Oui, bonjour.
 
-Bien, avant l'arrivée de l'appariteur pour essayer d'augmenter un peu le volume, juste une petite présentation : je me présente, Matthieu Jamelot, je suis oncologue à l'hôpital Tenon et je suis le directeur d'enseignement de l'unité d'enseignement de l'oncologie là pour cette année pour l'ensemble des IFSI.
-
-J'attire votre attention sur le programme d'oncologie là qui est prévu durant tout le mois de septembre. C'est un programme assez dense. L'année dernière, l'examen d'oncologie, c'est pas celui qui a été le plus réussi par les étudiants l'année dernière. Donc je demande vraiment attention de pas faire de bachotage, de bien travailler régulièrement. Je serai un peu plus attentif cette année sur le sujet de l'examen, pour peut-être qu'il soit peut-être un petit peu moins pénalisant que l'année dernière, mais voilà, sachez que c'est quand même un gros programme l'oncologie qui est pas forcément toujours très évident à aborder avec des questions un petit peu compliquées.
-
-Du coup, durant les deux cours que je vous ferai ce matin... Alors attendez. Au niveau du son, c'est bon ou pas ? Un petit peu plus élevé, ce serait mieux. Un petit peu plus élevé, s'il vous plaît. Et là ? Et là, c'est comment ? C'est mieux ? C'est bien. C'est tout bon. Ouais, merci beaucoup.
-
-Bien, donc je disais donc : durant les cours, n'hésitez pas à poser des questions, à m'interrompre, hein, je suis là pour ça, on n'est pas un grand, grand, grand comité. On aura le temps pour la matinée de voir les deux cours et donc poser toutes ces questions-là. Et du coup, j'ai demandé à vos collègues parce que j'avais encore quatre intervenants qui ont pas confirmé, donc il faut que je leur renvoie un mail cet après-midi pour la suite du mois de septembre, mais normalement cet après-midi il y a pas de souci par rapport au programme. Voilà.
-
-Bien, on va commencer donc avec ce premier cours : donc, épidémiologie du cancer et modalités de prise en charge en cancérologie.
-
-Alors, concernant les chiffres du cancer. Il y a plusieurs origines, plusieurs données qui nous parviennent. Mais il faut savoir qu'à ce jour, ou en tout cas il y a encore quelques mois, je l'expliquerai juste après, qu'il n'y avait pas de registre national du cancer. Donc en fait toutes les données épidémiologiques qu'on a sur le cancer en France, étonnant soit peu, c'est toutes des extrapolations.
-
-Il y a déjà le réseau Francim avec quelques registres du cancer, avec 28 registres : 16 registres généraux et 12 registres spécialisés par organe, qui couvrent environ un quart de la population française. Et à partir de ce quart de la population française, on arrive à faire des extrapolations des chiffres.
-
-Il y a également le Centre d'épidémiologie sur les causes médicales de décès, qu'on appelle le CépiDc, c'est-à-dire qu'il y a un patient qui est décédé donc le médecin remplit un certificat médical sur le site, et ensuite alors il y a une partie anonyme et une partie où on explique la cause de la mortalité, les facteurs de risque, et c'est comme ça qu'ils arrivent à faire également des données et des statistiques par rapport aux décès.
-
-Et il y a aussi d'autres acteurs comme Santé publique France, ATIH et le service de biostatistique des Hospices Civils de Lyon.
-
-Mais jusqu'à ce jour, il n'y avait pas de registre national des cancers. Ce qui est assez étonnant pour un pays comme la France quand on sait qu'il y a d'autres pays qui possèdent des registres nationaux et qui nous permettraient après de mieux définir la politique de santé, la prévention, dans quelle aire thérapeutique il faut augmenter peut-être les moyens, notamment au niveau de la recherche.
-
-Mais ça a changé cette année à l'Assemblée nationale où le Parlement a enfin voté une loi, la loi du 30 juin 2025, qui vise à mettre en place un registre national des cancers. Donc voilà, donc ça fait plusieurs années qu'on attendait ça, et c'est enfin cet été que cette loi a été promulguée et donc dans quelques mois va apparaître enfin un registre national des cancers.
-
-Alors l'épidémiologie, quelques définitions toujours importantes : on étudie notamment la fréquence des maladies dans la population avec le nombre de nouveaux cas, le nombre de cas et le nombre de morts. On va étudier cette variation de fréquence en fonction des différents facteurs de risque, mode de vie, facteurs génétiques et les conditions environnementales.
-
-Et vous savez tous que depuis une quinzaine, vingtaine d'années désormais le cancer est la première cause de décès, devant les maladies cardiovasculaires. Jusqu'au début des années 2000, c'était les maladies cardiovasculaires qui primaient et désormais grâce à l'augmentation des traitements en cardiologie, des interventions en cardiologie et l'augmentation de l'espérance de vie, désormais c'est le cancer qui est devenu la première cause de mortalité en France depuis 1988 chez l'homme et depuis 2002 chez la femme.
-
-On voit bien sur ces courbes la différence de mortalité entre chez les femmes et les hommes. Et on voit bien vraiment cette diminution très notable, très importante de la maladie cardiovasculaire aussi bien chez les hommes que chez les femmes.
-
-avec une augmentation assez significative au début des années 90 concernant la mortalité par cancer, avec a contrario, une légère diminution de la mortalité par cancer chez la femme.
-
-Alors un des grands... alors beaucoup de données que je vais vous donner là ce matin proviennent des données de l'Institut national du cancer qui fête cette année ses 20 ans. Et donc ils... plusieurs fois tous les deux-trois ans, ils mettent à jour un petit peu les chiffres sur le cancer et la dernière grande édition date de l'édition 2023. Il y a une nouvelle édition qui est parue cette année mais avec moins de chiffres pour fêter les 20 ans de l'INCa. Donc elle a été créée il y a 20 ans initialement par le professeur Khayat qui était l'ancien chef de service d'oncologie ici à la Pitié. Ça a été créé sous l'égide du président Chirac et donc il s'agit d'une agence d'expertise sanitaire et scientifique en cancérologie qui coordonne toutes les actions de lutte contre le cancer sur le territoire français. Elle est placée sous la tutelle conjointe du ministère de la Santé et du ministère de l'Enseignement supérieur, également du ministère de la Recherche.
-
-Alors donc voici les données issues donc de la publication de l'INCa en 2023. Vous allez voir, il y a quelques chiffres, ce qui date un petit peu. Concernant le cancer en 2023, il y avait 433 000 nouveaux cas de cancer en France. Près de 245 000 chez l'homme, donc environ 57 % et les 43 % restants chez la femme avec environ 187 000.
+La loi n° 2025-596 du 30 juin 2025 vise à créer un registre national des cancers. 
+Depuis une quinzaine-vingtaine d'années le cancer est la première cause de décès, devant les maladies cardiovasculaires. Jusqu'au début des années 2000, c'était les maladies cardiovasculaires qui primaient et désormais grâce à l'augmentation des traitements en cardiologie, des interventions en cardiologie et l'augmentation de l'espérance de vie, c'est le cancer qui est devenu la première cause de mortalité en France.
+En 2023, il y avait 433 000 nouveaux cas de cancer en France. Près de 245 000 chez l'homme, donc environ 57 % et les 43 % chez la femme avec environ 187 000.
 
 Si on regarde l'évolution annuelle du taux standardisé monde... alors le taux standardisé monde qu'est-ce que c'est ? C'est en fait, c'est un taux où ils vont le comparer sur une espérance de vie au niveau mondial. C'est-à-dire que... c'est un truc de statistique hein, je pourrai pas bien l'expliquer très très très bien, mais en fait si vous comparez une incidence en France versus une incidence en Afrique, elles vont être vraiment très différentes. Sauf que l'espérance de vie en Afrique est beaucoup plus faible. Et donc du coup pour avoir une incidence comparable, ils font des calculs en fonction en fait de l'espérance de vie et en fonction du monde. Donc ça fait ce qu'on appelle un taux standardisé monde, ce qui permet de mieux comparer les différents chiffres selon les différents pays et différentes régions mondiales. Et donc si on voit l'évolution annuelle du taux standardisé monde, elle est de + 0,3 % chez l'homme et de + 0,9 % chez la femme. On voit bien une augmentation de l'incidence du cancer, mais sur la slide précédente, je vous ai bien montré que heureusement en parallèle, nous voyons une diminution de la mortalité ces dernières années.
 
