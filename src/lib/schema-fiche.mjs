@@ -10,6 +10,17 @@ export const TYPES = ['anatomie', 'physiologie', 'pathologie', 'medicament', 'ph
 const enListe = (valeur) => (valeur === null || valeur === undefined ? [] : Array.isArray(valeur) ? valeur : [valeur]);
 const liste = (element, minimum = 0) => z.preprocess(enListe, z.array(element).min(minimum));
 
+// Le type est libre : un type connu est reconnu malgré majuscules et accents
+// (« Médicament » → medicament), un type nouveau (« processus tumoraux ») est
+// gardé tel quel, et une fiche sans type va dans « autre ». Un type inattendu
+// ne doit jamais bloquer la publication de tout le site (ticket #30).
+const sansAccents = (texte) => texte.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+function typeDeFiche(valeur) {
+  const texte = String(valeur ?? '').trim();
+  if (!texte) return 'autre';
+  return TYPES.find((t) => t === sansAccents(texte)) ?? texte;
+}
+
 // Un fichier de « fiches » sans aucune propriété est une note personnelle
 // d'Oksana, pas une fiche : on ne la publie pas, mais elle ne doit pas
 // empêcher la publication des autres fiches.
@@ -25,7 +36,7 @@ export function schemaFiche({ idsUe, idsOrganes }) {
     ue: liste(z.coerce.string().refine((id) => idsUe.includes(id), { message: 'UE inconnue (voir src/data/ue.json)' }), 1),
     semestres: liste(z.coerce.number().int().min(1).max(6), 1),
     organes: liste(z.string().refine((id) => idsOrganes.includes(id), { message: 'Organe inconnu (voir src/data/organes.json)' })),
-    type: z.enum(TYPES),
+    type: z.preprocess(typeDeFiche, z.string()),
     tags: liste(z.string()),
     brouillon: z.boolean().nullish().transform((v) => v ?? false),
   });
