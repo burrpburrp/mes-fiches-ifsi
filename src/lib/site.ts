@@ -27,6 +27,11 @@ export const libellesType: Record<string, string> = {
   autre: 'Autre',
 };
 
+/** Libellé d'un type ; un type nouveau écrit par Oksana s'affiche tel quel, avec une majuscule. */
+export function libelleType(type: string): string {
+  return libellesType[type] ?? type.charAt(0).toUpperCase() + type.slice(1);
+}
+
 type Fiche = Awaited<ReturnType<typeof fichesPubliees>>[number];
 
 /** Les fiches qui contiennent un lien [[...]] vers la fiche donnée (« rétroliens »). */

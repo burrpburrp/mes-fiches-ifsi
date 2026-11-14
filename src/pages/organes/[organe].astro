@@ -1,7 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ListeFiches from '../../components/ListeFiches.astro';
-import { organes, fichesPubliees, libellesType } from '../../lib/site';
+import { organes, fichesPubliees, libelleType } from '../../lib/site';
 import { TYPES } from '../../lib/schema-fiche.mjs';
 
 export function getStaticPaths() {
@@ -9,14 +9,16 @@ export function getStaticPaths() {
 }
 const { organe } = Astro.props;
 const fiches = (await fichesPubliees()).filter((f) => f.data.organes.includes(organe.id));
+// Types connus dans l'ordre de la réforme, puis les types nouveaux écrits par Oksana.
+const nouveaux = [...new Set(fiches.map((f) => f.data.type))].filter((t) => !TYPES.includes(t)).sort((a, b) => a.localeCompare(b, 'fr'));
 ---
 <Base titre={organe.nom}>
   <h1>{organe.nom}</h1>
-  {TYPES.map((type) => {
+  {[...TYPES, ...nouveaux].map((type) => {
     const duType = fiches.filter((f) => f.data.type === type);
     return duType.length > 0 && (
       <section>
-        <h2>{libellesType[type]}</h2>
+        <h2>{libelleType(type)}</h2>
         <ListeFiches fiches={duType} />
       </section>
     );
