@@ -34,6 +34,21 @@ test('accepte le type pharmacologie', () => {
   assert.equal(schema.parse({ ...base, type: 'pharmacologie' }).type, 'pharmacologie');
 });
 
+// Ticket #30 : un type nouveau (« processus tumoraux ») bloquait la publication de tout le site.
+test('accepte un type nouveau écrit librement par Oksana', () => {
+  assert.equal(schema.parse({ ...base, type: 'processus tumoraux' }).type, 'processus tumoraux');
+});
+
+test('reconnaît un type connu malgré majuscules et accents', () => {
+  assert.equal(schema.parse({ ...base, type: 'Médicament' }).type, 'medicament');
+  assert.equal(schema.parse({ ...base, type: ' Pathologie ' }).type, 'pathologie');
+});
+
+test('range une fiche sans type dans « autre »', () => {
+  assert.equal(schema.parse({ ...base, type: null }).type, 'autre');
+  assert.equal(schema.parse({ ...base, type: '' }).type, 'autre');
+});
+
 test('refuse toujours une UE inconnue ou un semestre hors 1 à 6', () => {
   assert.throws(() => schema.parse({ ...base, ue: '9.9' }));
   assert.throws(() => schema.parse({ ...base, semestres: 7 }));

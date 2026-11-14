@@ -2,7 +2,7 @@
 import { render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Qcm from '../../components/Qcm.astro';
-import { ues, organes, fichesPubliees, lien, libellesType, retroliens } from '../../lib/site';
+import { ues, organes, fichesPubliees, lien, libelleType, retroliens } from '../../lib/site';
 
 export async function getStaticPaths() {
   const fiches = await fichesPubliees();
@@ -17,7 +17,7 @@ const liesIci = retroliens(fiche, await fichesPubliees());
   <article>
     <h1>{d.titre}</h1>
     <p class="meta">
-      <span class="badge">{libellesType[d.type]}</span>
+      <span class="badge">{libelleType(d.type)}</span>
       {d.ue.map((id) => {
         const ue = ues.find((u) => u.id === id)!;
         return <a class="tag" href={lien(`ue/${id}/`)}>UE {id} · {ue.intitule}</a>;
