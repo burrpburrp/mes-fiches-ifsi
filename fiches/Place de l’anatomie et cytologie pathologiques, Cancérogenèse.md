@@ -38,7 +38,7 @@ Les carcinomes forment la famille de cancers la plus fréquente. Ils se dévelop
 Un épithélium glandulaire est un tissu composé de cellules dont la fonction principale est de produire et de sécréter des substances, comme du mucus, des sucs digestifs ou des hormones. Ce tissu forme les organes sécréteurs (comme le sein, la prostate ou le pancréas) et tapisse la paroi interne d'organes tels que l'estomac, l'intestin ou les bronches. *(clarifié par moi)*
 À côté des adénocarcinomes, il existe un autre grand groupe de carcinomes : les carcinomes épidermoïdes. Ils se développent à partir d'un épithélium malpighien. 
 Contrairement à l'épithélium glandulaire qui sécrète des substances, l'épithélium malpighien (ou pavimenteux stratifié) est un tissu de revêtement dont le rôle principal est la protection mécanique. Composé de plusieurs couches de cellules superposées pour résister aux frottements, il forme l'épiderme de la peau, mais tapisse aussi les muqueuses soumises à des contraintes physiques, comme celles de la cavité buccale, du pharynx, du larynx, de l'œsophage, du col de l'utérus et du vagin. *(clarifié par moi)* 
-Il faut donc retenir les deux grands types de carcinomes : l'adénocarcinome qui dérive des épithéliums glandulaires, et le carcinome épidermoïde qui dérive des épithéliums malpighiens. Les épithéliums malpighiens se trouvent sur la peau, mais aussi sur les muqueuses des voies aérodigestives supérieures (bouche, pharynx, larynx, œsophage) ainsi que sur les muqueuses des organes génitaux externes.
+Il faut donc retenir les deux grands types de carcinomes : l'adénocarcinome qui dérive des épithéliums glandulaires, et le carcinome épidermoïde qui dérive des épithéliums malpighiens.  
 Les tumeurs bénignes d'origine glandulaire s'appellent des adénomes. 
 Le papillome est une tumeur bénigne d'origine épithéliale malpighienne : c'est l'équivalent bénin du carcinome épidermoïde. 
 Le léiomyome est une tumeur bénigne d'origine musculaire lisse. L'équivalent malin du léiomyome est le léiomyosarcome. Les sarcomes sont des cancers qui se développent à partir du tissu conjonctif, et non à partir des épithéliums comme les carcinomes. 
@@ -84,116 +84,83 @@ Depuis quelques années, on peut sur une prise de sang rechercher l'ADN des cell
 
 ## QCM
 
-### Le cancer est-il la deuxième cause de mortalité en France ?
-- [ ] Oui, il se situe après les maladies cardiovasculaires.
-- [x] Non, le cancer est la première cause de décès depuis le début des années 2000.
+### Qu'est-ce qu'une métastase ?
+- [x] Un foyer tumoral secondaire qui se développe à distance de la tumeur primitive, formé par des cellules cancéreuses ayant disséminé via la circulation sanguine ou lymphatique.
+- [ ] L'apparition d'une nouvelle tumeur maligne dans un autre organe, se développant de manière indépendante en raison de l'exposition aux mêmes facteurs environnementaux ou génétiques.
+- [ ] Une masse tumorale qui se développe par infiltration directe et destruction locale des tissus sains situés au contact immédiat de la lésion primitive.
 
-### Qu'est-ce que le taux d'incidence en épidémiologie ?
-- [ ] Le nombre total de personnes atteintes par une pathologie à un moment précis dans une population.
-- [x] Le rapport entre le nombre de nouveaux cas survenus dans l'année et la taille de la population observée, exprimé pour 100 000 habitants.
-- [ ] Le nombre de nouveaux cas d'une maladie apparus pendant une période donnée.
-
-### L'incidence du cancer a-t-elle augmenté ces dernières années ?
-- [x] Oui, le nombre de nouveaux cas a doublé entre 1990 et 2023.
-- [ ] Non, l'incidence est restée totalement stable depuis les années 1990.
-- [ ] Non, l'incidence a diminué.
-
-### Quels éléments expliquent l'augmentation de l'incidence du cancer en France ?
-- [x] La croissance de la population, le vieillissement et l'augmentation des facteurs de risque comme le tabac.
-- [ ] L'amélioration des techniques de dépistage et l'augmentation de la pollution environnementale.
-- [ ] La hausse importante des facteurs de risque, qui explique aujourd'hui près de la moitié de cette augmentation de l'incidence pour l'ensemble des patients.
-
-### Quel cancer représente la première cause de mortalité chez l'homme en France ?
-- [ ] Le cancer de la prostate.
-- [x] Le cancer du poumon.
-- [ ] Le cancer du côlon-rectum.
-
-### Quel cancer représente la première cause de mortalité chez la femme en France ?
-- [ ] Le cancer du poumon.
-- [ ] Le cancer du col de l'utérus.
-- [x] Le cancer du sein.
-
-### Tous sexes confondus, quel cancer représente la première cause de mortalité en France ?
-- [ ] Le cancer colorectal.
-- [x] Le cancer pulmonaire.
-- [ ] Le cancer du pancréas.
-
-### Parmi les propositions suivantes, quels cancers présentent actuellement une baisse à la fois de leur incidence et de leur mortalité en France ?
-- [ ] Le cancer du col de l'utérus et le cancer colorectal.
-- [x] Le cancer de l'estomac et le cancer du col de l'utérus.
-- [ ] Les cancers des voies aéro-digestives supérieures (VADS) et le cancer du poumon.
-
-### Pour quels cancers observe-t-on actuellement une augmentation à la fois de l'incidence et de la mortalité ?
-- [ ] Le cancer du poumon chez l'homme et la femme, ainsi que le mélanome cutané.
-- [x] Le mélanome cutané, les cancers du système nerveux central et le cancer du poumon chez la femme.
-- [ ] Le cancer du poumon chez la femme, le mélanome cutané et le cancer colorectal.
-
-### Pour quels cancers observe-t-on actuellement une augmentation de l'incidence associée à une baisse de la mortalité ?
-- [ ] Le cancer du sein et le cancer du poumon chez la femme.
-- [x] Le cancer du sein et le cancer de la prostate.
-- [ ] Le cancer de la prostate et le cancer de l'estomac.
-
-### Quels sont les quatre cancers les plus fréquents en France (en nombre de nouveaux cas par an), classés dans l'ordre décroissant ?
-- [ ] Le poumon, le sein, le côlon-rectum, la prostate.
-- [x] Le sein, la prostate, le poumon, le côlon-rectum.
-- [ ] Le sein, la prostate, le col de l'utérus, le côlon-rectum.
-- [ ] La prostate, le poumon, le côlon-rectum, l'estomac.
-
-### Quels sont les quatre cancers les plus meurtriers (provoquant le plus de décès) en France ?
-- [ ] Le sein, la prostate, le poumon et le côlon-rectum.
-- [x] Le poumon, le côlon-rectum, le sein et le foie.
-- [ ] Le poumon, le pancréas, le côlon-rectum et le sein.
-
-### En épidémiologie, comment expliquer le fait que le cancer du sein soit l'un des cancers les plus meurtriers en France, alors que le cancer du pancréas ne figure pas dans ce top 4 malgré son pronostic catastrophique (survie de 9 % à 5 ans) ?
-- [ ] Le classement de mortalité mesure la dangerosité intrinsèque de la tumeur. Le cancer du pancréas a un très mauvais pronostic, mais il évolue trop rapidement pour être intégré aux statistiques de mortalité globale, contrairement au cancer du sein.
-- [x] Le classement de mortalité compte le nombre absolu de morts dans le pays. Le cancer du sein a un bon pronostic (survie élevée), mais son incidence très forte génère mathématiquement beaucoup de décès. Le cancer du pancréas a un très mauvais pronostic, mais il touche beaucoup moins de personnes.
-- [ ] Le cancer du sein provoque beaucoup de décès car son pronostic global s'est fortement dégradé. Le cancer du pancréas, bien qu'ayant une survie de 9 % au stade métastatique, présente une très bonne survie s'il est pris à un stade localisé, ce qui abaisse sa mortalité globale.
-
-### Parmi les groupes de cancers suivants, lequel présente le plus mauvais pronostic ?
-- [ ] Le cancer du sein, le cancer du poumon, le cancer colorectal et le cancer de la prostate.
-- [ ] Le cancer du foie, le cancer de l'œsophage, le mélanome et le cancer du rein.
-- [x] Le cancer du poumon, le cancer du pancréas, le cancer du foie et le cancer de l'œsophage.
-
-### Parmi les propositions suivantes, quels cancers sont considérés de bon pronostic ?
-- [ ] Le cancer du testicule (uniquement au stade localisé), le cancer de la prostate et le cancer de l'œsophage.
-- [x] Le cancer de la prostate, le cancer du testicule, le cancer de la thyroïde et le cancer du sein.
-- [ ] Le cancer du pancréas et le cancer du poumon, uniquement s'ils sont dépistés avant le stade métastatique.
-
-### Quel est l'ordre décroissant des quatre principaux facteurs de risque impliqués dans l'apparition d'un cancer ?
-- [ ] Le tabac, l'obésité et l'inactivité physique, l'alcool, puis l'exposition professionnelle.
-- [x] Le tabac, l'alcool, les infections, puis l'obésité et l'inactivité physique.
-- [ ] Le tabac, l'alcool, l'exposition aux rayons UV et au soleil, puis la prise de traitements hormonaux. 
-
-### Quel pourcentage de cas de cancer en France estime-t-on pouvoir éviter en agissant sur les facteurs de risque ?
-- [ ] Environ 15 %.
-- [ ] Près de 40 %.
-- [ ] Plus de 70 %.
-
-### Parmi les organes suivants, lesquels font partie des localisations où le tabagisme est reconnu comme un facteur de risque de cancer ?
-- [x] Le col de l'utérus.
-- [ ] La prostate.
-- [x] Le rein.
-- [ ] La thyroïde.
-- [x] L'estomac.
-- [x] La sphère ORL.
-- [x] Les  voies urinaires.
-- [x] L'ovaire.
-- [x] Le côlon-rectum.
-- [x] Certaines hémopathies.
-- [x] Le sein.
-### À partir de quelle quantité d'alcool consommée par jour le risque de développer un cancer augmente-t-il de façon importante ?
-- [ ] À partir de 3 verres par jour pour un homme et 2 verres par jour pour une femme, seuils au-delà desquels le foie ne peut plus métaboliser l'éthanol.
-- [x] Dès la consommation d'un seul verre d'alcool par jour.
-- [ ] Uniquement en cas d'alcoolisme chronique ou de consommation excessive ponctuelle (binge drinking) le week-end.
-
-### Selon les données scientifiques actuelles, les ondes électromagnétiques (comme celles des téléphones portables) constituent-elles un facteur de risque de cancer prouvé ?
+### Les tumeurs bénignes sont-elles capables de donner des métastases ?
 - [ ] Oui.
-- [x] Non. 
+- [x] Non.
 
-### Quels programmes de dépistage organisé existent en France à ce jour ? 
-- [x] Le sein. 
-- [ ] Le poumon.
-- [x] Le côlon-rectum.
-- [ ] Le pancréas.
-- [x] Le col de l'utérus.
+### En anatomie pathologique, comment définit-on le concept de théranostique ?
+- [x] L'identification de caractéristiques moléculaires spécifiques au sein des cellules tumorales permettant simultanément d'évaluer le pronostic et d'orienter vers une thérapie ciblée.
+- [ ] L'évaluation macroscopique et microscopique de la pièce opératoire visant exclusivement à établir le stade d'extension anatomique de la lésion.
+- [ ] L'analyse génétique constitutionnelle réalisée sur une prise de sang pour déterminer si un patient a hérité d'un gène de prédisposition au cancer.
 
+### En cancérologie, à quoi correspond précisément la classification TNM ?
+- [x] Un système d'évaluation du stade d'extension anatomique d'un cancer, basé sur les caractéristiques de la tumeur primitive (T), l'atteinte des ganglions lymphatiques (N) et la présence de métastases (M).
+- [ ] Un système de gradation microscopique servant à évaluer le degré de différenciation des cellules tumorales et le nombre d'anomalies mitotiques pour définir l'agressivité de la lésion.
+- [ ] Une classification moléculaire qui permet d'identifier l'origine génétique d'une tumeur et de mettre en évidence des cibles thérapeutiques spécifiques pour un traitement ciblé.
+
+### En anatomie pathologique, sur quel principe repose la technique de l'immunohistochimie ?
+- [x] L'utilisation d'anticorps spécifiques couplés à un révélateur coloré pour identifier visuellement la présence de protéines particulières (antigènes) au sein des cellules tissulaires.
+- [ ] L'application de colorants  visant  à mettre en évidence la morphologie globale du tissu et la forme des noyaux cellulaires.
+- [ ] L'extraction et l'amplification des acides nucléiques de la tumeur afin de détecter directement des mutations dans la séquence de l'ADN.
+
+### Qu'est-ce qu'un adénocarcinome ?
+- [x] Une tumeur maligne de la famille des carcinomes qui se développe spécifiquement à partir d'un épithélium glandulaire.
+- [ ] Une tumeur bénigne issue d'un épithélium glandulaire.
+- [ ] Une tumeur maligne qui prend naissance à partir d'un épithélium malpighien.
+
+### Comment définit-on précisément un papillome ?
+- [x] Une tumeur bénigne qui se développe à partir d'un épithélium malpighien, représentant ainsi l'équivalent bénin du carcinome épidermoïde.
+- [ ] Une tumeur maligne issue d'un épithélium malpighie.
+- [ ] Une tumeur bénigne d'origine épithéliale glandulaire.
+
+### Comment définit-on un sarcome ?
+- [ ] Une tumeur bénigne issue du tissu conjonctif.
+- [x] Un cancer qui se développe à partir du tissu conjonctif, par opposition aux tumeurs issues des épithéliums.
+- [ ] Une tumeur maligne qui prend naissance spécifiquement à partir des cellules de revêtement d'un épithélium, qu'il soit glandulaire ou malpighien.
+
+### Comment définit-on un léiomyome ?
+- [ ] Une tumeur bénigne qui se développe à partir d'un épithélium malpighien.
+- [ ] Une tumeur maligne d'origine musculaire lisse.
+- [x] Une tumeur bénigne qui prend naissance à partir du tissu musculaire lisse.
+
+### Comment définit-on un mélanome ?
+- [ ] Une tumeur bénigne d'origine mélanocytaire, se présentant généralement sous la forme d'une lésion circonscrite qui ne donne pas de métastases.
+- [x] Un cancer qui se développe spécifiquement à partir des mélanocytes.
+- [ ] Un cancer de la peau qui prend naissance à partir des cellules protectrices de l'épithélium malpighien.
+
+### Qu'est-ce qu'un examen extemporané ?
+- [ ] Une analyse classique nécessitant une fixation préalable dans le formol pendant au moins 6 à 48 heures pour évaluer la totalité de la pièce opératoire.
+- [x] Un examen tissulaire rapide réalisé directement au cours d'une intervention chirurgicale, permettant de fournir un résultat diagnostique immédiat au chirurgien.
+- [ ] Une technique d'exploration radiologique réalisée juste avant l'opération pour repérer visuellement la localisation exacte de la tumeur.
+
+### Comment définit-on le phénomène d'expansion clonale ?
+- [x] La croissance tumorale résultant de la multiplication d'une seule cellule initiale mutée, générant ainsi une vaste population de cellules qui partagent au départ la même caractéristique génétique.
+- [ ] Le mécanisme biologique par lequel les cellules lésées échappent spécifiquement à la mort cellulaire programmée afin de prolonger artificiellement leur durée de vie.
+- [ ] La prolifération simultanée de multiples cellules saines d'origines génétiques différentes au sein d'un tissu, intervenant généralement en réponse à une inflammation ou une agression environnementale.
+
+### En tant que critère cytologique de malignité, qu'est-ce que l'augmentation du rapport nucléocytoplasmique ?
+- [ ] L'augmentation globale du nombre de noyaux (et donc du nombre de cellules) observée dans un tissu donné en raison d'une prolifération tumorale excessive.
+- [x] Le fait que, au sein d'une même cellule, le noyau devienne anormalement volumineux et occupe une place disproportionnée par rapport au volume du cytoplasme.
+- [ ] L'élargissement important du cytoplasme de la cellule.
+
+### Comment définit-on précisément le stroma tumoral ?
+- [x] Le tissu conjonctif de soutien qui accompagne la tumeur, composé de vaisseaux sanguins, de collagène et de cellules inflammatoires, à l'exclusion des cellules cancéreuses elles-mêmes.
+- [ ] La population spécifique de cellules cancéreuses mutées qui prolifère activement et qui est responsable de l'infiltration des tissus adjacent.
+- [ ] Une zone centrale de destruction tissulaire qui apparaît dans la tumeur lorsque la prolifération cellulaire devient trop rapide par rapport aux apports nutritifs.
+
+### Comment définit-on une dysplasie ?
+- [ ] Un stade tumoral précoce où les cellules ont déjà acquis toutes les caractéristiques d'un véritable cancer, mais restent strictement limitées à l'épithélium sans franchir la membrane basale.
+- [x] Une lésion tissulaire précancéreuse caractérisée par les premières anomalies cellulaires visibles, qui possède le potentiel d'évoluer vers un cancer si elle n'est pas traitée.
+- [ ] Une augmentation bénigne et réversible du nombre de cellules parfaitement normales au sein d'un tissu, survenant généralement en réponse à une inflammation chronique ou un stimulus hormonal.
+
+### Comment définit-on un cancer in situ ?
+- [ ] Un foyer tumoral malin qui a commencé à infiltrer la couche de tissu conjonctif sous-jacent (le chorion).
+- [ ] Une lésion épithéliale caractérisée par une dérégulation de la prolifération, mais dont les anomalies cytologiques n'ont pas encore atteint le degré de malignité d'un véritable cancer.
+- [x] Un cancer dont les cellules présentent toutes les anomalies cytologiques de malignité, mais qui reste strictement confiné à l'épithélium d'origine sans avoir franchi la membrane basale. 
+
+ 
