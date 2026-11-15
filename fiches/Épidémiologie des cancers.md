@@ -13,13 +13,13 @@ source: Dr. Mathieu JAMELOT, Service d’Oncologie médicale et Thérapie cellul
 
 La loi n° 2025-596 du 30 juin 2025 vise à créer un registre national des cancers. 
 Depuis une quinzaine-vingtaine d'années le cancer est la première cause de décès, devant les maladies cardiovasculaires. Jusqu'au début des années 2000, c'était les maladies cardiovasculaires qui primaient et désormais grâce à l'augmentation des traitements en cardiologie, des interventions en cardiologie et l'augmentation de l'espérance de vie, c'est le cancer qui est devenu la première cause de mortalité en France.
-En 2023, il y avait 433 000 nouveaux cas de cancer en France. Près de 245 000 chez l'homme, donc environ 57 % et les 43 % chez la femme avec environ 187 000.
+En 2023, il y avait 433 000 nouveaux cas de cancer en France. Près de 245 000 chez l'homme, donc environ 57 %, et 43 % chez la femme avec environ 187 000.
 Le taux standardisé monde est un outil statistique qui permet de comparer l'incidence des cancers entre différents pays ou régions du monde. L'espérance de vie varie d'un endroit à l'autre : elle est par exemple plus faible en Afrique qu'en France. Comme l'âge influence l'apparition des cancers, comparer directement les chiffres bruts entre deux pays n'est pas fiable. Les statisticiens ajustent donc les données selon une population mondiale de référence et son espérance de vie. Ce calcul rend les taux d'incidence comparables d'un pays à l'autre. En observant l'évolution annuelle de ce taux standardisé monde, on constate une augmentation de l'incidence des cancers : + 0,3 % par an chez l'homme et + 0,9 % par an chez la femme. Cette hausse de l'incidence s'accompagne toutefois d'une diminution de la mortalité ces dernières années.
 Entre 1990 et 2023, le nombre de nouveaux cas de cancer a doublé, toutes localisations confondues. Cette augmentation atteint près de 90 % chez l'homme et 104 % chez la femme. L'évolution démographique explique en partie cette hausse : une population plus nombreuse entraîne mécaniquement plus de cas de cancer. L'augmentation des facteurs de risque joue également un rôle important. Le principal facteur de risque du cancer est le tabac.
-L'incidence correspond au nombre de nouveaux cas d'une pathologie qui apparaissent dans une population pendant une période donnée, généralement une année civile. Le taux d'incidence rapporte ce nombre de nouveaux cas à la population d'où ils proviennent sur la même période. Pour le calculer, il faut diviser le nombre de cas survenus dans l'année par la taille de la population observée au milieu de cette année. Ce taux s'exprime en nombre de cas pour 100 000 habitants.
+L'incidence correspond au nombre de **nouveaux** cas d'une pathologie pendant une période donnée, généralement une année. *(Moi : La prévalence représente le nombre total de personnes atteintes par cette pathologie à un moment précis dans une population.)* Le taux d'incidence rapporte ce nombre de nouveaux cas à la population d'où ils proviennent sur la même période. Pour le calculer, il faut diviser le nombre de cas survenus dans l'année par la taille de la population observée au milieu de cette année. Ce taux s'exprime en nombre de cas pour 100 000 habitants.
 En 2012, l'incidence chez l'homme est d'environ 362 cas de cancer pour 100 000 habitants, et chez la femme elle est d'environ 252 cas de cancer pour 100 000 habitants.
 Plusieurs éléments expliquent l'augmentation de l'incidence du cancer. Chez l'homme, la croissance de la population représente environ 30 % de cette hausse. Le vieillissement de la population en explique 48 %. Les facteurs de risque du cancer comptent pour 20 %. Chez la femme, la situation est différente : les facteurs de risque représentent près de 47 % de l'augmentation de l'incidence. Ce chiffre élevé s'explique par d'importants changements dans le comportement des femmes au cours des 50 dernières années : l'augmentation du tabagisme. Jusqu'à les années 1950 le tabagisme était quasi inexistant chez les femmes. 
-En 2017, on estime à environ 150 000 le nombre total de décès par cancer en France métropolitaine. Chez l'homme, on compte 84 000 décès, avec un âge médian au décès de 73 ans et un taux de mortalité standardisé monde de 119,2 pour 100 000 personnes. Le cancer du poumon est la première cause de décès par cancer chez l'homme, devant les cancers du côlon-rectum et de la prostate. Chez la femme, on dénombre 66 000 décès, avec un âge médian de 77 ans et un taux de mortalité standardisé de 71,7 pour 100 000 personnes. Le cancer du sein arrive en tête de la mortalité féminine, suivi de près par le cancer du poumon, puis par le cancer du côlon-rectum. Le taux de mortalité standardisé monde mesure le nombre de décès pour 100 000 habitants par an en l'ajustant selon l'âge d'une population mondiale de référence.
+En 2017, on estime à environ 150 000 le nombre total de décès par cancer en France métropolitaine. Chez l'homme, on compte 84 000 décès, avec un âge médian au décès de 73 ans et un taux de mortalité standardisé monde de 119,2 pour 100 000 personnes. Le cancer du poumon est la première cause de décès par cancer chez l'homme, devant les cancers du côlon-rectum et de la prostate. Chez la femme, on dénombre 66 000 décès, avec un âge médian de 77 ans et un taux de mortalité standardisé de 71,7 pour 100 000 personnes. Le cancer du sein arrive en tête de la mortalité féminine, suivi de près par le cancer du poumon, puis par le cancer du côlon-rectum. (Le taux de mortalité standardisé monde mesure le nombre de décès pour 100 000 habitants par an en l'ajustant selon l'âge d'une population mondiale de référence).
 En 2017, on estimait le nombre total de décès à 150 000, puis ce chiffre est passé à 157 400 décès estimés en 2018. 2022 : 164 000 décès. Cette hausse du nombre brut s'explique par la croissance et le vieillissement de la population française. La répartition entre les sexes reste stable. L'âge médian au décès est de 73 ans chez l'homme et de 75 ans chez la femme. Malgré l'augmentation du nombre total de morts, le taux de mortalité par cancer poursuit sa baisse. Le taux standardisé monde pour la mortalité diminue pour atteindre près de 110 décès pour 100 000 personnes chez l'homme (contre 119,2 en 2017) et 69 chez la femme (contre 71,7 en 2017). Cette baisse du taux standardisé prouve que le risque individuel de mourir d'un cancer recule, grâce aux progrès du dépistage et des traitements.
 Les 5 localisations cancéreuses les plus mortelles diffèrent selon le sexe. Chez l'homme, le cancer du poumon est la première cause de mortalité. Le cancer colorectal arrive en deuxième position, suivi du cancer de la prostate. Les cancers du pancréas et les cancers hépatiques complètent ce classement. 
 Chez la femme, le cancer du sein est la première cause de décès par cancer. Il est suivi du cancer du poumon, du cancer colorectal, du cancer du pancréas et du cancer de l'ovaire.
@@ -27,12 +27,12 @@ Tous sexes confondus, le cancer pulmonaire reste la première cause de mortalit�
 Chaque année, on diagnostique environ 450 000 cas de cancer. Près de la moitié de ces cas, soit environ 200 000, sont des cancers cutanés. Il s'agit des carcinomes basocellulaires et des carcinomes épidermoïdes. Ces cancers de la peau se guérissent bien. Une petite intervention chirurgicale suffit en cas de détection précoce. Les décès liés à ce type de cancer restent très rares. Ils surviennent uniquement en cas de consultation tardive avec un envahissement locorégional important.
 La mortalité par cancer n'est pas la même partout en France. On meurt plus du cancer dans le nord de la France que dans le sud. Il existe aussi une différence entre l'ouest et l'est du pays. Ces écarts s'expliquent en grande partie par le niveau socio-économique. Dans les régions défavorisées les habitants font moins de prévention et consultent moins souvent le médecin. Ces zones cumulent aussi plus de facteurs de risque liés au mode de vie, en particulier le tabagisme et l'alcoolisme. Ce phénomène touche aussi la région parisienne. Malgré une concentration de structures médicales, la Seine-Saint-Denis et Paris affichent un taux de mortalité légèrement supérieur à la moyenne, aussi bien chez les hommes que chez les femmes.
 L'évolution de l'incidence des cancers présente trois profils. 
-Le premier profil regroupe les cancers dont l'incidence et la mortalité baissent. C'est le cas du cancer de l'estomac chez l'homme et chez la femme. Cette baisse s'explique par l'amélioration de l'hygiène et de la conservation des aliments. Autrefois, les aliments mal conservés augmentaient le risque de cancer de l'estomac. Le cancer du col de l'utérus diminue également. Ce recul s'explique par la prévention et l'accès aux soins gynécologiques. Le port du préservatif et surtout la vaccination contre le papillomavirus (HPV) jouent un rôle majeur dans cette diminution. Les cancers de l'œsophage et des voies aéro-digestives supérieures (VADS) baissent aussi chez l'homme. Cette baisse est liée à la chute de la consommation d'alcool en France. Les différentes politiques publiques de lutte contre l'alcoolisme expliquent ce recul au cours des dernières années.
-Le deuxième profil correspond aux cancers dont l'incidence et la mortalité augmentent. C'est le cas du cancer du poumon uniquement chez la femme. Cette hausse est liée au tabagisme féminin apparu dans les années 1960. Le mélanome cutané est aussi en augmentation. Les personnes s'exposent beaucoup plus au soleil pendant leurs vacances par rapport aux années 1950 et 1960. L'incidence et la mortalité des cancers du système nerveux central augmentent de la même façon chez l'homme et chez la femme. Cette évolution reste inexpliquée. L'effet des ondes électromagnétiques et des téléphones portables est parfois évoqué. Il n'y a aucune preuve solide à ce sujet aujourd'hui. Il ne faut pas retenir cette hypothèse pour le moment. 
+Le premier profil regroupe les cancers dont l'incidence et la mortalité baissent. C'est le cas du **cancer de l'estomac chez l'homme et chez la femme**. Cette baisse s'explique par l'amélioration de l'hygiène et de la conservation des aliments. Autrefois, les aliments mal conservés augmentaient le risque de cancer de l'estomac. **Le cancer du col de l'utérus diminue également**. Ce recul s'explique par la prévention et l'accès aux soins gynécologiques. Le port du préservatif et surtout la vaccination contre le papillomavirus (HPV) jouent un rôle majeur dans cette diminution. **Les cancers de l'œsophage et des voies aéro-digestives supérieures (VADS) baissent aussi chez l'homme**. Cette baisse est liée à la chute de la consommation d'alcool en France. Les différentes politiques publiques de lutte contre l'alcoolisme expliquent ce recul au cours des dernières années.
+Le deuxième profil correspond aux cancers dont l'incidence et la mortalité augmentent. **C'est le cas du cancer du poumon uniquement chez la femme**. Cette hausse est liée au tabagisme féminin apparu dans les années 1960. **Le mélanome cutané est aussi en augmentation**. Les personnes s'exposent beaucoup plus au soleil pendant leurs vacances par rapport aux années 1950 et 1960. L'incidence et la mortalité des **cancers du système nerveux central augmentent** de la même façon chez l'homme et chez la femme. Cette évolution reste inexpliquée. L'effet des ondes électromagnétiques et des téléphones portables est parfois évoqué. Il n'y a aucune preuve solide à ce sujet aujourd'hui. Il ne faut pas retenir cette hypothèse pour le moment. 
 Le troisième profil regroupe les cancers dont l'incidence augmente et la mortalité baisse. Cela concerne beaucoup de tumeurs solides, notamment le cancer du sein chez la femme et le cancer de la prostate chez l'homme. L'incidence de ces cancers augmente à cause de la croissance et du vieillissement de la population. On estime par exemple que 80 % des hommes âgés de 90 ans ont un cancer de la prostate. Ils ne décèdent pas obligatoirement de cette maladie. La baisse de la mortalité s'explique par une amélioration importante des traitements thérapeutiques. Ces avancées médicales sont particulièrement marquées pour le cancer du sein au cours des dernières années.
 La prévalence désigne le nombre de personnes qui ont ou qui ont eu un cancer. On estime que près de 3 millions de Français ont survécu à cette maladie. Ce total comprend 1 500 000 hommes et 1 400 000 femmes. C'est un chiffre très important sur une population totale de presque 68 millions d'habitants. Le cancer touche beaucoup de monde. Cette maladie entraîne des conséquences lourdes sur la vie familiale, la vie sociale et le maintien dans l'emploi.
-Quatre localisations cancéreuses se détachent nettement. Chacune d'entre elles provoque plus de 30 000 nouveaux cas par an en France. Il faut retenir ces quatre principaux cancers : le sein (61 214 cas), la prostate (59 885 cas), le poumon (52 777 cas) et le côlon-rectum (47 582 cas). L'évolution du taux d'incidence entre 2010 et 2023 révèle des tendances opposées selon le sexe. Chez l'homme, on observe une tendance à la baisse. L'incidence du cancer de la prostate diminue de 1,1 %. Les cancers pulmonaire et colorectal baissent chacun de 0,5 %. Chez la femme, la tendance s'inverse avec une hausse globale. Le cancer du poumon connaît une forte augmentation de 4,3 %. Les cancers colorectal et du sein augmentent légèrement, respectivement de 0,4 % et de 0,3 %.
-Le classement des tumeurs selon la mortalité permet d'identifier les maladies les plus meurtrières en France métropolitaine. Il faut retenir quatre localisations principales. Le cancer du poumon est le plus mortel. Il est suivi par le cancer colorectal, le cancer du sein et le cancer du foie. Le cancer du poumon tue deux fois plus d'hommes que de femmes. Le cancer du foie tue beaucoup plus d'hommes.  
+Quatre localisations cancéreuses se détachent nettement. Chacune d'entre elles provoque plus de 30 000 nouveaux cas par an en France. **Il faut retenir ces quatre principaux cancers : le sein (61 214 cas), la prostate (59 885 cas), le poumon (52 777 cas) et le côlon-rectum (47 582 cas)**. L'évolution du taux d'incidence entre 2010 et 2023 révèle des tendances opposées selon le sexe. Chez l'homme, on observe une tendance à la baisse. L'incidence du cancer de la prostate diminue de 1,1 %. Les cancers pulmonaire et colorectal baissent chacun de 0,5 %. Chez la femme, la tendance s'inverse avec une hausse globale. Le cancer du poumon connaît une forte augmentation de 4,3 %. Les cancers colorectal et du sein augmentent légèrement, respectivement de 0,4 % et de 0,3 %.
+Le classement des tumeurs selon la mortalité permet d'identifier les maladies les plus meurtrières en France métropolitaine. Il faut retenir quatre localisations principales. **Le cancer du poumon est le plus mortel. Il est suivi par le cancer colorectal, le cancer du sein et le cancer du foie**. Le cancer du poumon tue deux fois plus d'hommes que de femmes. Le cancer du foie tue beaucoup plus d'hommes.  
 La survie correspond au temps écoulé après le diagnostic. On compte ce temps en années. Il faut regarder particulièrement la survie à 5 ans. Cette donnée permet d'estimer le pronostic d'un cancer. Les statistiques utilisent la survie nette à 5 ans standardisée sur l'âge. Ce taux varie beaucoup selon la maladie. Il est de 9 % pour le cancer du pancréas. Le taux de survie atteint 93 % pour le cancer de la prostate.
 Il faut savoir que le taux de survie nette englobe tous les stades de la maladie. Il inclut les cancers localisés et les cancers métastatiques. Pour un cancer du pancréas au stade métastatique, la survie à 5 ans est encore inférieure à 9 %. Le cancer de la prostate présente un taux de survie global de 93 %. Ce chiffre très élevé s'explique par le fait que la grande majorité des cas diagnostiqués en France sont localisés. La survie est alors bien meilleure et tire la moyenne vers le haut. En cas de cancer de la prostate métastatique, les nouveaux traitements permettent de vivre plusieurs années. Le taux de survie n'atteint cependant pas les 93 %. Chez la femme, le taux de survie est de 10 % pour le pancréas et grimpe à 97 % pour la thyroïde.
 Le temps de survie est aujourd'hui plus long pour tous les organes.
@@ -54,7 +54,7 @@ Le tabac représente la première cause de mortalité évitable. En 2016, 34 % d
 Et tout ça, quel que soit le mode de consommation : cigarette, tabac à rouler, chicha, cigarillo. Important : les cigarettes qui sont à moindre teneur de nicotine et de goudron ne sont pas pour autant moins cancérigènes que les autres.  
 L'arrêt du tabac diminue de façon importante le risque de développer un cancer. Cette décision augmente directement l'espérance de vie. Un fumeur qui arrête à 60 ans gagne 3 ans de vie. L'espérance de vie redevient presque équivalente à celle d'un non-fumeur si l'arrêt a lieu avant 35 ans. Il faut impérativement recommander l'arrêt du tabac avant l'âge de 40 ans.
 La durée de consommation du tabac représente le danger principal. Ce facteur compte plus que la quantité fumée dans le risque de développer un cancer. Il est moins dangereux de fumer deux paquets par jour pendant cinq ans en arrêtant à 25 ans, que de fumer une seule cigarette par jour pendant vingt ans en arrêtant à 45 ans.
-Les autorités de santé privilégient parfois l'utilisation de la cigarette électronique pour les gros fumeurs. Il est formellement déconseillé aux non-fumeurs de commencer à l'utiliser. Les risques liés à ce produit restent inconnus.
+Les autorités de santé privilégient parfois l'utilisation de la cigarette électronique pour les gros fumeurs. Il est formellement déconseillé aux non-fumeurs de commencer à l'utiliser. Les risques liés à ce produit restent inconnus. 
 L'alcool est la deuxième cause de mortalité évitable par cancer. L'association de l'alcool et du tabac crée une forte synergie. Ce mélange augmente considérablement le risque de développer la maladie. Près de la moitié des Français de 15 à 75 ans boivent de l'alcool chaque semaine. La consommation globale d'alcool a pourtant diminué de près de la moitié depuis les années 1980 et 1990. Cette baisse concerne surtout le vin. La consommation de bières et de spiritueux reste très stable. Le niveau de consommation national demeure parmi les plus élevés au monde. Il est nécessaire de poursuivre les efforts de prévention. L'éthylisme chronique représente le plus grand danger. Il faut surveiller attentivement les patients qui souffrent de cette dépendance sévère.
 La consommation d'alcool augmente directement le risque d'apparition du cancer du pancréas, du cancer colorectal, du cancer du sein et du cancer de l'œsophage. La consommation de tabac associée à l'alcool aggrave très fortement la situation. Ce mélange entraîne un risque majeur de développer un cancer des voies aérodigestives supérieures.
 La consommation d'alcool provoque 75 % des cancers de la cavité buccale, 86 % des cancers du pharynx, 84 % des cancers de l'œsophage, 60 % des cancers du larynx, 30 % des cancers colorectaux, 30 % des cancers hépatiques, près de 18 % des cancers du sein.  
@@ -67,10 +67,8 @@ Facteurs augmentant le risque de cancer : la consommation de boissons alcoolisé
 Facteurs réduisant le risque de cancers : l’activité physique, la consommation de fruits et légumes, la consommation de fibres alimentaires et l’allaitement
 Les particules fines provoquent 0,4 % des cas de cancer.
 En faisant de la radiothérapie il y a un surrisque de cancer à moyen et long terme. L'exposition à l'arsenic augmente directement le risque de cancer du poumon et de la vessie. La pilule contraceptive possède des effets variables selon les organes. Elle apporte une protection prouvée contre le cancer de l'endomètre. Elle augmente le risque de développer un cancer du col de l'utérus. Elle entraîne également une hausse du risque de cancer du sein pendant la pré-ménopause et la post-ménopause. 
-Cancérogènes avérés : le radon (serait responsable d’environ 13 % des cancers du
-poumon), les UV émis par les cabines de bronzage, l’arsenic, le tabagisme passif, etc.
-Cancérogènes suspectés : les pesticides, les fibres minérales artificielles, la pollution
-atmosphérique, les champs électromagnétiques.
+Cancérogènes avérés : le radon (serait responsable d’environ 13 % des cancers du poumon), les UV émis par les cabines de bronzage, l’arsenic, le tabagisme passif, etc.
+Cancérogènes suspectés : les pesticides, les fibres minérales artificielles, la pollution atmosphérique, les champs électromagnétiques.
 La médecine classe les peaux en six phototypes. Les patients de phototype 1 et de phototype 2 attrapent très facilement des coups de soleil. Ces personnes présentent un risque plus élevé de développer un mélanome. Les études médicales prouvent le rôle majeur des coups de soleil subis pendant l'enfance et la jeunesse. L'accumulation de coups de soleil pendant le jeune âge augmente directement le risque d'apparition d'un mélanome au cours de la vie. Il faut conseiller un examen régulier de la peau. Il est nécessaire de recommander une consultation de contrôle annuelle chez un dermatologue.
 Les données scientifiques actuelles ne prouvent aucun risque spécifique lié aux ondes électromagnétiques. Néanmoins, il y a quelques messages de prévention des fois qui sont édités soit par l'État soit par certaines communes. Il faut éviter les conversations téléphoniques trop longues. Il est recommandé de téléphoner dans les zones avec une réception maximale. Le téléphone mobile émet des ondes beaucoup plus intenses dans les endroits avec un faible réseau. Il faut éviter de téléphoner en se déplaçant. Cette précaution empêche l'appareil de chercher de nouveaux relais téléphoniques. Il est nécessaire d'éloigner le téléphone des zones sensibles du corps. L'utilisation d'un kit piéton limite directement l'exposition de la tête. Ces différentes règles relèvent uniquement du principe de précaution en l'absence de données médicales validées.
 Les 8 principaux produits chimiques cancérogènes, mutagènes et
@@ -91,8 +89,7 @@ Donc, les politiques de santé fixent le début du dépistage à 50 ans.  Ca fon
 Le dépistage organisé concerne les patientes asymptomatiques de 50 à 74 ans sans risque particulier. La présence de facteurs de risque, d'antécédents familiaux ou d'une anomalie entraîne un dépistage individualisé. Il ne faut pas attendre l'âge de 50 ans dans ces situations. Une mutation génétique comme le BRCA impose un dépistage beaucoup plus précoce.
 Il n'y a pas d'intérêt à organiser un dépistage pour le cancer du pancréas. L'incidence de cette maladie reste beaucoup plus faible que celle du cancer du sein.  Le pronostic de la maladie reste de toute façon très mauvais.
 Le cancer colorectal possède un programme de dépistage organisé. Le taux de participation reste très faible en France. Il atteint seulement 33 %. Il suffit de prélever un échantillon de selles (sang occulte), tous les 2 ans, entre 50 et 74 ans. Il faut l'envoyer par la poste. Très peu de patients utilisent ce test.
-Le cancer du col de l’utérus : dépistage : analyse cytologique après frottis cervico-utérin. Pour les femmes tous les 3 ans entre 25 et 29 ans, après 2 tests normaux
-réalisés à un an d’intervalle, puis tous les 5 ans entre 30 et 65 ans.
+Le cancer du col de l’utérus : dépistage : analyse cytologique après frottis cervico-utérin. Pour les femmes tous les 3 ans entre 25 et 29 ans, après 2 tests normaux réalisés à un an d’intervalle, puis tous les 5 ans entre 30 et 65 ans.
 Le parcours de soins coordonne les professionnels de la ville et de l'hôpital autour du patient en cancérologie. LLe parcours commence par le diagnostic de la maladie. Les médecins organisent une réunion de concertation pluridisciplinaire appelée RCP. Cette réunion rassemble les oncologues, les radiothérapeutes, les radiologues et les chirurgiens. Il faut mettre en place un dispositif d'annonce. Il est nécessaire d'expliquer au patient sa maladie, les traitements prévus, les effets secondaires et les séquelles. Il faut remettre au patient un document nommé programme personnalisé de soins. Ce document écrit résume le contenu de la consultation, le rythme des traitements et les conséquences à venir. Le patient vient à l'hôpital pour recevoir sa chimiothérapie, sa radiothérapie ou subir une chirurgie. Il faut également organiser les soins de support. Ces soins spécifiques permettent de traiter toutes les conséquences de la maladie et les effets secondaires des traitements.
 Il faut connaître l'existence de trois nouveaux métiers en cancérologie. L'infirmier d'annonce travaille comme le véritable bras droit de l'oncologue. Lors de la première consultation médicale, 80 % des patients connaissent déjà leur diagnostic de cancer. Dans 20 % des cas, les malades ignorent la présence de la maladie en arrivant au rendez-vous. Le médecin explique les traitements prévus et le protocole médical à suivre. Il détaille précisément les effets secondaires des thérapies. Cet entretien avec l'oncologue dure entre quarante-cinq minutes et une heure. Le patient ressent une grande terreur face au diagnostic de cancer. L'annonce de la maladie, des traitements et des effets secondaires le laisse totalement perdu. Le malade oublie la moitié des informations à la sortie de la consultation médicale. Les médecins utilisent souvent un vocabulaire scientifique complexe pour se protéger. Le patient ne comprend pas toujours ces termes difficiles. Il est nécessaire de proposer une deuxième rencontre avant le début du traitement. L'infirmière d'annonce joue un rôle essentiel à cette étape. Il faut recevoir le patient lors d'une consultation d'environ une heure. Il est indispensable de réexpliquer l'ensemble du protocole médical. Il faut répondre aux questions et apaiser les peurs. Il est nécessaire d'aborder des aspects très pratiques du quotidien. Le médecin manque de temps pour détailler ces aspects pratiques. Le poste d'infirmière d'annonce apporte une aide indispensable dans les services d'oncologie.
 Le deuxième métier important dans les services d'oncologie est l'infirmier coordinateur. Il faut assurer la coordination médicale entre la médecine de ville et l'hôpital. Planifier les rendez-vous du patient,  appeler le malade à son domicile pour surveiller son état de santé, proposer une prise de sang, contacter le médecin,  décaler les rendez-vous en cas de toxicité des traitements, alerter directement l'oncologue pour lui demander d'examiner le patient lors d'une complication, etc. Ce travail de coordination garde une très grande importance dans le suivi de la maladie.
@@ -100,8 +97,116 @@ Le troisième métier récent est l'infirmier clinicien ou infirmier en pratique
 
 ## QCM
 
-### Face à une demande de médecine alternative, le soignant :
-- [x]  inviter le patient à détailler sa démarche, la saisir comme opportunité de dialogue afin de comprendre ses besoins réels (psychologiques ou culturels) et d'évaluer l'intégration éventuelle de ces pratiques au plan de soins.
-- [ ] doit rejeter cette demande jugée inadaptée à la médecine conventionnelle et aux compétences du soignant.
-- [ ] peut appliquer une de ces deux approches en fonction de ses valeurs et ces croyances.
+### Le cancer est-il la deuxième cause de mortalité en France ?
+- [ ] Oui, il se situe après les maladies cardiovasculaires.
+- [x] Non, le cancer est la première cause de décès depuis le début des années 2000.
+
+### Qu'est-ce que le taux d'incidence en épidémiologie ?
+- [ ] Le nombre total de personnes atteintes par une pathologie à un moment précis dans une population.
+- [x] Le rapport entre le nombre de nouveaux cas survenus dans l'année et la taille de la population observée, exprimé pour 100 000 habitants.
+- [ ] Le nombre de nouveaux cas d'une maladie apparus pendant une période donnée.
+
+### L'incidence du cancer a-t-elle augmenté ces dernières années ?
+- [x] Oui, le nombre de nouveaux cas a doublé entre 1990 et 2023.
+- [ ] Non, l'incidence est restée totalement stable depuis les années 1990.
+- [ ] Non, l'incidence a diminué.
+
+### Quels éléments expliquent l'augmentation de l'incidence du cancer en France ?
+- [x] La croissance de la population, le vieillissement et l'augmentation des facteurs de risque comme le tabac.
+- [ ] L'amélioration des techniques de dépistage et l'augmentation de la pollution environnementale.
+- [ ] La hausse importante des facteurs de risque, qui explique aujourd'hui près de la moitié de cette augmentation de l'incidence pour l'ensemble des patients.
+
+### Quel cancer représente la première cause de mortalité chez l'homme en France ?
+- [ ] Le cancer de la prostate.
+- [x] Le cancer du poumon.
+- [ ] Le cancer du côlon-rectum.
+
+### Quel cancer représente la première cause de mortalité chez la femme en France ?
+- [ ] Le cancer du poumon.
+- [ ] Le cancer du col de l'utérus.
+- [x] Le cancer du sein.
+
+### Tous sexes confondus, quel cancer représente la première cause de mortalité en France ?
+- [ ] Le cancer colorectal.
+- [x] Le cancer pulmonaire.
+- [ ] Le cancer du pancréas.
+
+### Parmi les propositions suivantes, quels cancers présentent actuellement une baisse à la fois de leur incidence et de leur mortalité en France ?
+- [ ] Le cancer du col de l'utérus et le cancer colorectal.
+- [x] Le cancer de l'estomac et le cancer du col de l'utérus.
+- [ ] Les cancers des voies aéro-digestives supérieures (VADS) et le cancer du poumon.
+
+### Pour quels cancers observe-t-on actuellement une augmentation à la fois de l'incidence et de la mortalité ?
+- [ ] Le cancer du poumon chez l'homme et la femme, ainsi que le mélanome cutané.
+- [x] Le mélanome cutané, les cancers du système nerveux central et le cancer du poumon chez la femme.
+- [ ] Le cancer du poumon chez la femme, le mélanome cutané et le cancer colorectal.
+
+### Pour quels cancers observe-t-on actuellement une augmentation de l'incidence associée à une baisse de la mortalité ?
+- [ ] Le cancer du sein et le cancer du poumon chez la femme.
+- [x] Le cancer du sein et le cancer de la prostate.
+- [ ] Le cancer de la prostate et le cancer de l'estomac.
+
+### Quels sont les quatre cancers les plus fréquents en France (en nombre de nouveaux cas par an), classés dans l'ordre décroissant ?
+- [ ] Le poumon, le sein, le côlon-rectum, la prostate.
+- [x] Le sein, la prostate, le poumon, le côlon-rectum.
+- [ ] Le sein, la prostate, le col de l'utérus, le côlon-rectum.
+- [ ] La prostate, le poumon, le côlon-rectum, l'estomac.
+
+### Quels sont les quatre cancers les plus meurtriers (provoquant le plus de décès) en France ?
+- [ ] Le sein, la prostate, le poumon et le côlon-rectum.
+- [x] Le poumon, le côlon-rectum, le sein et le foie.
+- [ ] Le poumon, le pancréas, le côlon-rectum et le sein.
+
+### En épidémiologie, comment expliquer le fait que le cancer du sein soit l'un des cancers les plus meurtriers en France, alors que le cancer du pancréas ne figure pas dans ce top 4 malgré son pronostic catastrophique (survie de 9 % à 5 ans) ?
+- [ ] Le classement de mortalité mesure la dangerosité intrinsèque de la tumeur. Le cancer du pancréas a un très mauvais pronostic, mais il évolue trop rapidement pour être intégré aux statistiques de mortalité globale, contrairement au cancer du sein.
+- [x] Le classement de mortalité compte le nombre absolu de morts dans le pays. Le cancer du sein a un bon pronostic (survie élevée), mais son incidence très forte génère mathématiquement beaucoup de décès. Le cancer du pancréas a un très mauvais pronostic, mais il touche beaucoup moins de personnes.
+- [ ] Le cancer du sein provoque beaucoup de décès car son pronostic global s'est fortement dégradé. Le cancer du pancréas, bien qu'ayant une survie de 9 % au stade métastatique, présente une très bonne survie s'il est pris à un stade localisé, ce qui abaisse sa mortalité globale.
+
+### Parmi les groupes de cancers suivants, lequel présente le plus mauvais pronostic ?
+- [ ] Le cancer du sein, le cancer du poumon, le cancer colorectal et le cancer de la prostate.
+- [ ] Le cancer du foie, le cancer de l'œsophage, le mélanome et le cancer du rein.
+- [x] Le cancer du poumon, le cancer du pancréas, le cancer du foie et le cancer de l'œsophage.
+
+### Parmi les propositions suivantes, quels cancers sont considérés de bon pronostic ?
+- [ ] Le cancer du testicule (uniquement au stade localisé), le cancer de la prostate et le cancer de l'œsophage.
+- [x] Le cancer de la prostate, le cancer du testicule, le cancer de la thyroïde et le cancer du sein.
+- [ ] Le cancer du pancréas et le cancer du poumon, uniquement s'ils sont dépistés avant le stade métastatique.
+
+### Quel est l'ordre décroissant des quatre principaux facteurs de risque impliqués dans l'apparition d'un cancer ?
+- [ ] Le tabac, l'obésité et l'inactivité physique, l'alcool, puis l'exposition professionnelle.
+- [x] Le tabac, l'alcool, les infections, puis l'obésité et l'inactivité physique.
+- [ ] Le tabac, l'alcool, l'exposition aux rayons UV et au soleil, puis la prise de traitements hormonaux. 
+
+### Quel pourcentage de cas de cancer en France estime-t-on pouvoir éviter en agissant sur les facteurs de risque ?
+- [ ] Environ 15 %.
+- [ ] Près de 40 %.
+- [ ] Plus de 70 %.
+
+### Parmi les organes suivants, lesquels font partie des localisations où le tabagisme est reconnu comme un facteur de risque de cancer ?
+- [x] Le col de l'utérus.
+- [ ] La prostate.
+- [x] Le rein.
+- [ ] La thyroïde.
+- [x] L'estomac.
+- [x] La sphère ORL.
+- [x] Les  voies urinaires.
+- [x] L'ovaire.
+- [x] Le côlon-rectum.
+- [x] Certaines hémopathies.
+- [x] Le sein.
+### À partir de quelle quantité d'alcool consommée par jour le risque de développer un cancer augmente-t-il de façon importante ?
+- [ ] À partir de 3 verres par jour pour un homme et 2 verres par jour pour une femme, seuils au-delà desquels le foie ne peut plus métaboliser l'éthanol.
+- [x] Dès la consommation d'un seul verre d'alcool par jour.
+- [ ] Uniquement en cas d'alcoolisme chronique ou de consommation excessive ponctuelle (binge drinking) le week-end.
+
+### Selon les données scientifiques actuelles, les ondes électromagnétiques (comme celles des téléphones portables) constituent-elles un facteur de risque de cancer prouvé ?
+- [ ] Oui.
+- [x] Non. 
+
+### Quels programmes de dépistage organisé existent en France à ce jour ? 
+- [x] Le sein. 
+- [ ] Le poumon.
+- [x] Le côlon-rectum.
+- [ ] Le pancréas.
+- [x] Le col de l'utérus.
 
