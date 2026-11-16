@@ -15,11 +15,12 @@ source: Dr Elise VANDRA, Service d’oncologie, Hôpital TENON, 05/11/2025
 ## Principes généraux
 En cancérologie, la prise en charge du patient est pluridisciplinaire. Tous les traitements sont décidés en réunion de concertation pluridisciplinaire. Des médecins de différentes spécialités, comme les chirurgiens, les radiothérapeutes et les oncologues médicaux, se réunissent pour discuter du traitement de chaque patient. Une fois le traitement décidé, un plan personnalisé de soins est élaboré. Ce document explique clairement au patient son protocole exact et la durée de son traitement.
 En cancérologie, il existe plusieurs types de traitements : la chirurgie, la radiothérapie, la curiethérapie et les traitements systémiques. Il est possible de combiner ces différents traitements entre eux pour obtenir une meilleure efficacité.
-Les traitements en oncologie peuvent avoir plusieurs objectifs. Les traitements curatifs ont pour but de guérir le cancer, ce qui concerne surtout la chirurgie. Les traitements **néoadjuvants sont réalisés avant la chirurgie** pour faciliter l'acte chirurgical et éradiquer d'éventuelles micrométastases. Les traitements **adjuvants ont lieu après la chirurgie** pour éliminer les petites cellules ou micrométastases qui pourraient rester. Les traitements métastatiques, aussi appelés palliatifs, ne visent plus la guérison mais servent surtout à améliorer la qualité de vie du patient. La majorité des traitements médicamenteux en oncologie sont prescrits à ce stade.
+Les traitements en oncologie peuvent avoir plusieurs objectifs. Les traitements curatifs ont pour but de guérir le cancer, ce qui concerne surtout la chirurgie. Les traitements **néoadjuvants sont réalisés avant la chirurgie** pour faciliter l'acte chirurgical et éradiquer d'éventuelles micrométastases. Les traitements **adjuvants ont lieu après la chirurgie** pour éliminer les petites cellules ou micrométastases qui pourraient rester. Les traitements métastatiques, aussi appelés palliatifs, ne visent plus la guérison mais servent surtout à améliorer la qualité de vie du patient.  
 La cellule cancéreuse acquiert plusieurs caractéristiques. lle devient auto-suffisante pour les facteurs de croissance. Elle devient insensible à l'apoptose. Elle se réplique de façon illimitée. Elle fabrique ses propres vaisseaux sanguins, c'est la promotion de la néoangiogenèse. Elle envahit les tissus locaux et à distance pour former des métastases. Son génome devient instable. Son métabolisme cellulaire se dérègle. Elle provoque un environnement inflammatoire. Elle échappe au système immunitaire. Toutes ces propriétés s'appellent les **« hallmarks of cancer »**. Ces anomalies sont des cibles thérapeutiques possibles en oncologie.
 ## Chimiothérapies
-Le cancer commence par une seule cellule. Cette cellule se multiplie. La tumeur devient détectable quand elle atteint environ 1 centimètre (= 1 gramme). Cela représente un milliard de cellules cancéreuses. C'est la croissance de la tumeur primitive. Les métastases suivent la même courbe de développement avec un décalage dans le temps. Quand la tumeur primitive devient détectable, des micrométastases sont probablement déjà présentes dans le corps. Elles restent invisibles à l'examen clinique et à l'imagerie. C'est pour cette raison qu'on utilise un traitement adjuvant.
-Il faut comprendre le cycle cellulaire pour comprendre la chimiothérapie. Une cellule hors du cycle se trouve en phase G0. Elle passe par plusieurs phases pour arriver à la mitose. La mitose est la division cellulaire. La phase G1 prépare la duplication de l'ADN. La phase S est la duplication de l'ADN. La phase G2 prépare la mitose. Lors de la mitose, une cellule mère donne deux cellules filles.
+Le cancer commence par une seule cellule. Cette cellule se multiplie. La tumeur devient détectable quand elle atteint environ 1 centimètre (= 1 gramme). Cela représente un milliard de cellules cancéreuses. C'est la croissance de la tumeur primitive. 
+Les métastases suivent la même courbe de développement avec un décalage dans le temps. Quand la tumeur primitive devient détectable, des micrométastases sont probablement déjà présentes dans le corps. Elles restent invisibles à l'examen clinique et à l'imagerie. C'est pour cette raison qu'on utilise un traitement adjuvant.
+Il faut comprendre le cycle cellulaire pour comprendre la chimiothérapie. Une cellule hors du cycle se trouve en phase G0. Elle passe par plusieurs phases pour arriver à la mitose ; la mitose est la division cellulaire. La phase G1 prépare la duplication de l'ADN. La phase S est la duplication de l'ADN. La phase G2 prépare la mitose. Lors de la mitose, une cellule mère donne deux cellules filles.
 Dans une tumeur, la durée du cycle cellulaire est la même que dans un tissu sain. En revanche, la proportion de cellules en cycle cellulaire est beaucoup plus importante dans une tumeur que dans un tissu sain. Cette proportion varie selon le type de tumeur. Plus le nombre de cellules en cycle est grand, plus la tumeur se développe vite. Ce phénomène influence le choix du traitement. La chimiothérapie agit directement sur le cycle cellulaire. Elle est utilisée en priorité pour les tumeurs qui se développent rapidement.  
 Il existe différentes classes d'agents cytotoxiques en chimiothérapie, et chacune agit sur une partie précise du cycle cellulaire. Les agents alkylants agissent pendant tout le cycle cellulaire. Les autres classes ont des cibles spécifiques : les antimétabolites agissent en phase S, les inhibiteurs de topoisomérase interviennent de la phase G1 à la phase G2, et les vinca-alcaloïdes ainsi que les taxoïdes ciblent la phase M (mitose). Il n'est pas nécessaire de retenir le moment exact d'action de chaque médicament. Il faut surtout connaître la classe de la chimiothérapie, son mode d'action et ses effets secondaires, car ces éléments sont essentiels pour la pratique clinique.
 Les différentes classes de chimiothérapie n'agissent pas toutes au même endroit de la cellule. Certaines ont une action directe sur l'ADN, comme les inhibiteurs de topoisomérase, les agents alkylants et platinants. Les antimétabolites agissent sur la réplication de l'ADN. Les poisons du fuseau agissent sur la structure de la cellule.
@@ -31,10 +32,7 @@ Le cyclophosphamide (Endoxan®, classe des moutardes azotées) provoque aussi un
 L'ifosfamide est indiqué dans les sarcomes et les tumeurs germinales (cancers des ovaires et des testicules) ; il peut entraîner une encéphalopathie, ce qui contre-indique l'utilisation des aprépitants *(des antiémétiques qui modifient la dégradation de l'ifosfamide dans le foie et augmentent sa toxicité pour le cerveau - moi)*. 
 Le témozolomide est principalement utilisé pour les tumeurs cérébrales, surtout le glioblastome, et provoque fréquemment une thrombopénie et des vomissements.
 Les sels de platine font partie des agents alkylants et sont très souvent utilisés en oncologie. Les trois principaux médicaments de cette famille sont **le carboplatine, le cisplatine et l'oxaliplatine**. 
-Le carboplatine est surtout utilisé pour le cancer de l'ovaire. 
-Le cisplatine sert principalement pour les tumeurs germinales, ainsi que pour les cancers ORL. 
-L'oxaliplatine est utilisé surtout pour le cancer du côlon et du tube digestif. 
-Ces trois traitements s'utilisent aussi pour le cancer du poumon.
+Le carboplatine est surtout utilisé pour le cancer de l'ovaire. Le cisplatine sert principalement pour les tumeurs germinales, ainsi que pour les cancers ORL. L'oxaliplatine est utilisé surtout pour le cancer du côlon et du tube digestif. Ces trois traitements s'utilisent aussi pour le cancer du poumon.
 Les sels de platine ont des toxicités communes et des toxicités propres à chaque molécule. 
 Le cisplatine (CDDP) présente une forte néphrotoxicité. Il est contre-indiqué si la clairance rénale est inférieure à 60 ml/min. Pour prévenir l'atteinte rénale, il faut réaliser une hyperhydratation de 2 à 3 litres sur 24 heures avant l'injection. 
 Il est indispensable de faire une échographie transthoracique (ETT) avant le traitement pour éviter une décompensation cardiaque. Pour cette raison, on évite le cisplatine chez les patients âgés. 
@@ -45,7 +43,7 @@ L'oxaliplatine a une forte toxicité neurologique périphérique. Il provoque de
 L'oxaliplatine est aussi toxique pour les plaquettes, mais moins que le carboplatine. 
 **En résumé, il faut retenir la toxicité rénale et auditive pour le cisplatine, la toxicité sur les plaquettes pour le carboplatine, et la toxicité neurologique pour l'oxaliplatine**.
 ### Inhibiteurs de topoisomérases
-Les inhibiteurs de topoisomérase agissent eux aussi sur l'ADN. L'ADN ressemble à un fil de téléphone emmêlé qui pose un problème topologique. Il existe deux types de topoisomérases : les topoisomérases de type 1 et de type 2. Leur rôle est de démêler cette pelote d'ADN et de séparer ses brins pour permettre à la transcription de se faire. **Les inhibiteurs de topoisomérase bloquent ce mécanisme**.
+Les inhibiteurs de topoisomérase agissent eux aussi sur l'ADN. L'ADN ressemble à un fil de téléphone emmêlé. Il existe deux types de topoisomérases : les topoisomérases de type 1 et de type 2. Leur rôle est de démêler cette pelote d'ADN et de séparer ses brins pour permettre à la transcription de se faire. **Les inhibiteurs de topoisomérase bloquent ce mécanisme**.
 Parmi les inhibiteurs de topoisomérases de type 1, il faut surtout retenir l'irinotécan. Ce médicament est très utilisé dans les cancers digestifs, notamment le cancer colorectal. Il provoque de fortes diarrhées et une neutropénie. Il peut aussi déclencher un syndrome cholinergique au moment de l'injection, un point important à surveiller en hôpital de jour.
 L'autre médicament de cette classe est le topotécan, qui est moins utilisé. Il est prescrit après plusieurs lignes de traitement pour des cancers gynécologiques localement avancés ou métastatiques. Le topotécan provoque une myélosuppression et des colites neutropéniques.
 Les inhibiteurs de topoisomérases de type 2 comprennent l'étoposide et les anthracyclines. 
@@ -53,13 +51,12 @@ L'étoposide (un agent non intercalant) est très utilisé pour le cancer du tes
 Les anthracyclines (agents intercalants), comme la doxorubicine et l'épirubicine, sont très fréquemment utilisées dans le cancer du sein, ainsi que dans les cancers de l'ovaire, de la vessie et les sarcomes. Ces médicaments provoquent une alopécie, une hématotoxicité et surtout une forte cardiotoxicité. Il faut bien surveiller le patient et réaliser une échographie cardiaque avant chaque injection.
 ### Antimétabolites
 Les antimétabolites bloquent ou détournent la synthèse de l'ADN, ce qui empêche l'entrée de la cellule en mitose. Ils se divisent en trois groupes : les modulateurs de l'activité des antimétabolites (acide folinique, acide folique), les antipyrimidiques et les antifoliques. Il faut surtout retenir les antipyrimidiques, qui comprennent le 5-fluoro-uracile (5-FU), la capécitabine et la gemcitabine. Parmi les antifoliques, qui incluent le méthotrexate et le pémétrexed (Alimta®), il est important de connaître le méthotrexate car il est régulièrement utilisé en pratique.
-Le 5-fluoro-uracile (5-FU) est administré en perfusion intraveineuse et s'utilise surtout pour les tumeurs digestives (notamment dans le protocole FOLFOX) ainsi que pour le cancer du sein. Ses principaux effets secondaires hématologiques sont la thrombopénie, l'anémie et la neutropénie. Il provoque aussi de fortes diarrhées, une toxicité cutanée et une importante toxicité cardiaque, comme des arythmies, des spasmes coronaires, des douleurs angineuses ou un infarctus du myocarde. Il faut être très vigilant et s'inquiéter devant toute douleur thoracique chez un patient sous 5-FU pour éliminer un infarctus. 
+Le 5-fluoro-uracile (5-FU) est administré en perfusion intraveineuse et s'utilise surtout pour les tumeurs digestives ainsi que pour le cancer du sein. Ses principaux effets secondaires hématologiques sont la thrombopénie, l'anémie et la neutropénie. Il provoque aussi de fortes diarrhées, une toxicité cutanée et une importante toxicité cardiaque, comme des arythmies, des spasmes coronaires, des douleurs angineuses ou un infarctus du myocarde. Il faut être très vigilant et s'inquiéter devant toute douleur thoracique chez un patient sous 5-FU pour éliminer un infarctus. 
 La capécitabine est la prodrogue du 5-FU : elle s'administre par voie orale et possède les mêmes indications. Elle entraîne les mêmes effets secondaires que le 5-FU, avec des diarrhées encore plus fréquentes et un syndrome mains-pieds. Ce syndrome se manifeste par des gerçures et des lésions sur les doigts et les pieds qui peuvent devenir très handicapantes et gêner la marche du patient.
 Avant tout traitement par 5-FU ou par ses analogues oraux (la capécitabine et le tégafur), il est obligatoire de rechercher un déficit en dihydropyrimidine déshydrogénase (DPD). La DPD assure la principale voie d'élimination (catabolisme) du 5-FU et des pyrimidines. En cas de déficit, le 5-FU s'accumule dans l'organisme et provoque une toxicité grave pouvant entraîner le décès du patient. Dans la population, 5 % des personnes ont un déficit partiel et 0,2 % ont un déficit total. Cette vérification est médico-légale : il faut absolument s'assurer que le dosage de la DPD a été fait avant d'injecter le 5-FU.
 La gemcitabine est un antimétabolite spécifique de la phase S du cycle cellulaire. Elle bloque donc cette phase de synthèse. Ses principaux effets secondaires sont une toxicité digestive et surtout une toxicité hématologique marquée par une forte thrombopénie. Ce traitement est utilisé dans les cancers du sein, du pancréas, de la vessie, du poumon.
 ### Poisons du fuseau
 Les poisons du fuseau inhibent la dynamique des microtubules. Les microtubules constituent le cytosquelette de la cellule, indispensable à la vie cellulaire : ils assurent le transport des organites et permettent l'entrée en mitose. Cette classe regroupe les vinca-alcaloïdes (vinblastine, vincristine, vinorelbine), l'éribuline et surtout les taxanes (docétaxel, paclitaxel, cabazitaxel), qu'il faut particulièrement retenir.
-
 Les taxanes sont très utilisés en oncologie. Le docétaxel est indiqué dans les cancers de la prostate, du sein, du poumon (CBNPC), de l'estomac et des voies aérodigestives supérieures (VADS). Le paclitaxel est utilisé dans le cancer du sein (en traitement néo-adjuvant ou adjuvant), les cancers gynécologiques, notamment de l'ovaire, et le CBNPC. Le cabazitaxel s'utilise pour le cancer de la prostate métastatique. 
 Les taxanes provoquent une hématotoxicité, une alopécie, des douleurs musculaires et des arthralgies. **Leur principal effet secondaire à retenir est la toxicité neurologique, surtout avec le paclitaxel** : ils entraînent des polynévrites sensitivo-motrices avec des fourmillements et parfois des douleurs dans les mains et les pieds. Ces neuropathies peuvent persister après la chimiothérapie et devenir très handicapantes. Il faut donc toujours surveiller l'apparition de neuropathies chez les patients sous taxanes afin de diminuer la dose ou d'arrêter le traitement si nécessaire.
 Il n'existe pas de toxicité commune à toutes les chimiothérapies. Les médecins gradent systématiquement les effets indésirables rapportés par les patients selon l'échelle CTCAE (Common Terminology Criteria for Adverse Events). Le grade 1 correspond à une toxicité légère, asymptomatique ou avec des symptômes légers découverts uniquement à l'examen clinique, qui ne nécessite pas de traitement. Le grade 2 est modéré : il interfère avec les activités instrumentales de la vie quotidienne (IADL) et demande un traitement minimal, local ou non invasif. Le grade 3 est sévère et invalidant, sans mise en jeu immédiate du pronostic vital, mais il impose une hospitalisation ou sa prolongation. Le grade 4 met en jeu le pronostic vital et nécessite une prise en charge en urgence. Le grade 5 correspond au décès lié à l'effet indésirable. Cette évaluation est essentielle : dès le grade 2, il est possible de modifier les doses, et aux grades 3 ou 4, il faut arrêter la chimiothérapie.
@@ -84,14 +81,15 @@ Les soins de support regroupent tout ce qui accompagne les traitements oncologiq
 On utilise le facteur de croissance granulocytaire en injection après les chimiothérapies très pourvoyeuses de neutropénie afin de stimuler la production de globules blancs. En cas d'anémies régulières, on a recours à l'érythropoïétine ou à des transfusions. 
 Pour les chimiothérapies hautement émétisantes, il faut donner un traitement antiémétique complet associant aprépitants (Emend®), sétrons (Zophren®), métoclopramide (Primpéran®) et corticoïdes, que l'on adapte si le traitement est moins émétisant. 
 Le casque réfrigéré peut être proposé pour limiter l'alopécie : il est très froid, désagréable et d'efficacité relative, mais certaines patientes le demandent. 
-Il est essentiel de surveiller l'état nutritionnel par des mesures hygiéno-diététiques et des compléments nutritionnels oraux si besoin, car un patient dénutri répond moins bien à la chimiothérapie. 
+Il est essentiel de surveiller l'état nutritionnel par des mesures hygiéno-diététiques et des compléments nutritionnels oraux si besoin. 
 Il faut également faire des bains de bouche réguliers au bicarbonate de sodium pour prévenir la mucite et les aphtes, même en l'absence de lésion. 
 Comme la chimiothérapie est le plus souvent vénotoxique, il est nécessaire de poser une chambre implantable permettant les injections.
 Il faut toujours informer le patient de la conduite à tenir en cas de fièvre, car la neutropénie augmente le risque d'infection sévère. 
 Enfin, le patient bénéficie d'une prise en charge à 100 % en affection de longue durée (ALD).
 Il faut surtout retenir les catégories de chimiothérapies les plus importantes : les sels de platine, les taxanes et les anthracyclines. Les effets secondaires sont systématiquement gradés. Il faut aussi bien connaître les éléments à vérifier avant chaque cure de chimiothérapie ainsi que les soins de support.
 ## Thérapies ciblées
-Contrairement à la chimiothérapie qui attaque toutes les cellules de l'organisme (tumorales et saines) et entraîne beaucoup d'effets secondaires, les thérapies ciblées visent directement les cellules tumorales. Ce traitement cherche à bloquer la croissance tumorale en agissant sur une cible moléculaire spécifique, comme un élément précis d'une voie de signalisation dans la cellule. Agir sur une cible précise permet d'avoir une plus grande efficacité à des doses pharmacologiques faibles et une toxicité limitée. Ces traitements, apparus à la fin des années 1990 et au début des années 2000, connaissent une croissance exponentielle. Ils s'inscrivent dans la médecine personnalisée, qui permet d'adapter et d'individualiser le traitement selon le profil pathologique et moléculaire du patient et de sa tumeur.
+Contrairement à la chimiothérapie qui attaque toutes les cellules de l'organisme (tumorales et saines) et entraîne beaucoup d'effets secondaires, les thérapies ciblées visent directement les cellules tumorales. Ce traitement cherche à bloquer la croissance tumorale en agissant sur une cible moléculaire spécifique, comme un élément précis d'une voie de signalisation dans la cellule. Agir sur une cible précise permet d'avoir une plus grande efficacité à des doses pharmacologiques faibles et une toxicité limitée. 
+Ces traitements, apparus à la fin des années 1990 et au début des années 2000, connaissent une croissance exponentielle. Ils s'inscrivent dans la médecine personnalisée, qui permet d'adapter et d'individualiser le traitement selon le profil pathologique et moléculaire du patient et de sa tumeur.
 Les thérapies ciblées se divisent en deux grandes classes : les anticorps monoclonaux et les inhibiteurs pharmacologiques. 
 ### Anticorps monoclonaux
 Les anticorps monoclonaux sont de grosses molécules dont le nom se termine par « -mab ». Comme ces molécules sont trop grosses pour agir par voie orale, il faut les injecter par voie intraveineuse (IV). Ce traitement s'administre généralement par cycles espacés de 14 à 21 jours.
@@ -107,7 +105,8 @@ Les traitements antihormonaux, ou hormonothérapie, sont le traitement spécifiq
 ### Cancer du sein
 Il existe trois types de cancers du sein : les cancers exprimant les récepteurs hormonaux (RH positifs), les cancers exprimant HER2 (HER2 positifs) et les cancers triples négatifs qui n'expriment ni les récepteurs hormonaux ni HER2. Les traitements antihormonaux sont utilisés uniquement pour les cancers du sein avec récepteurs hormonaux positifs (RH+). Dans ces cancers, les œstrogènes se fixent sur la cellule cancéreuse pour permettre sa multiplication. 
 Le traitement antihormonal a deux objectifs : bloquer les effets des œstrogènes sur les cellules cancéreuses et réduire la production des œstrogènes. Ce traitement s'utilise en adjuvant (après la chirurgie pour éviter les récidives), en néoadjuvant dans certains cas (avant la chirurgie), et en première ligne dans les cancers du sein métastatiques. Dans le cancer du sein métastatique RH+, on n'utilise plus de chimiothérapie mais une association de thérapie ciblée et d'hormonothérapie.
-Avant la ménopause, la synthèse des œstrogènes dépend d'un mécanisme hormonal précis : l'hypophyse sécrète la LH-RH qui agit sur l'hypothalamus, entraînant la sécrétion de LH et de FSH. Ces hormones stimulent les ovaires qui produisent alors les œstrogènes. Les œstrogènes se fixent sur leurs récepteurs situés sur la cellule tumorale, ce qui déclenche la prolifération tumorale. Après la ménopause, les ovaires ne sécrètent plus d'œstrogènes, mais les glandes surrénales produisent des androgènes qui sont transformés en œstrogènes grâce à une enzyme appelée aromatase. Ces œstrogènes vont aussi stimuler la cellule tumorale. Il est essentiel de comprendre cette différence, car il existe deux types d'hormonothérapie que l'on choisit selon que la patiente est préménopausée ou ménopausée.
+Avant la ménopause, la synthèse des œstrogènes dépend d'un mécanisme hormonal précis : l'hypophyse sécrète la LH-RH qui agit sur l'hypothalamus, entraînant la sécrétion de LH et de FSH. Ces hormones stimulent les ovaires qui produisent alors les œstrogènes. Les œstrogènes se fixent sur leurs récepteurs situés sur la cellule tumorale, ce qui déclenche la prolifération tumorale. 
+Après la ménopause, les ovaires ne sécrètent plus d'œstrogènes, mais les glandes surrénales produisent des androgènes qui sont transformés en œstrogènes grâce à une enzyme appelée aromatase. Ces œstrogènes vont aussi stimuler la cellule tumorale. Il est essentiel de comprendre cette différence, car il existe deux types d'hormonothérapie que l'on choisit selon que la patiente est préménopausée ou ménopausée.
 Les anti-œstrogènes s'utilisent plutôt avant la ménopause. Il en existe deux types : les SERM (Selective Estrogen Receptor Modulators) qui entrent en compétition avec les œstrogènes en prenant leur place sur les récepteurs hormonaux pour les empêcher d'agir sur les cellules cancéreuses, et les SERD (Selective Estrogen Receptor Degradation) qui abîment ou détruisent les récepteurs hormonaux pour bloquer l'action des œstrogènes. 
 La molécule principale à retenir est le tamoxifène (SERM), donné par voie orale chez la patiente non ménopausée. Comme ce traitement induit une ménopause, il provoque des bouffées de chaleur, une prise de poids et une sécheresse vaginale. Il faut être très vigilant face au risque accru de thrombose et au risque d'anomalies ou de cancer de l'endomètre, ce qui impose une échographie endovaginale de surveillance une fois par an.
 Le fulvestrant appartient à la classe des SERD. Ce médicament s'administre par injection intramusculaire. Il provoque principalement des infections urinaires, des troubles hématologiques (anémie, leucopénie, thrombopénie), des bouffées de chaleur, une asthénie et des douleurs au niveau du site d'injection.
@@ -138,10 +137,140 @@ Une surveillance rapprochée est nécessaire avec un bilan sanguin avant chaque 
 
 ## QCM
 
-### Qu'est-ce qu'une métastase ?
-- [x] Un foyer tumoral secondaire qui se développe à distance de la tumeur primitive, formé par des cellules cancéreuses ayant disséminé via la circulation sanguine ou lymphatique.
-- [ ] L'apparition d'une nouvelle tumeur maligne dans un autre organe, se développant de manière indépendante en raison de l'exposition aux mêmes facteurs environnementaux ou génétiques.
-- [ ] Une masse tumorale qui se développe par infiltration directe et destruction locale des tissus sains situés au contact immédiat de la lésion primitive.
+###  Les traitements néoadjuvants sont réalisés avant la chirurgie.
+- [x] Vrai.
+- [ ] Faux.
+
+### Les traitements adjuvants ont lieu avant la chirurgie.
+- [ ] Vrai
+- [x] Faux
+
+### Les agents alkylants agissent directement sur l'ADN cellulaire
+- [x] Vrai
+- [ ] Faux
+
+### Le cyclophosphamide, l'ifosfamide et le témozolomide sont :
+- [x] Alkylants
+- [ ] Les sels de platine
+- [ ] Inhibiteurs de topoisomérases
+
+### Le cyclophosphamide, l'ifosfamide et le témozolomide provoquent souvent :
+- [x] Nausées, vomissements
+- [x] Cystite hémarragique
+- [x] Cancer secondaire
+
+### Le cyclophosphamide peut provoquer une myélosuppression.
+- [x]  Vrai
+- [ ] Faux
+
+### L'ifosfamide peut provoquer une encéphalopathie.
+- [x] Vrai
+- [ ] Faux
+
+### Le cisplatine : 
+- [x] Présente une forte néphrotoxicité
+- [ ] Provoque une cystite hémorragique
+- [x] Présente une ototoxicité
+- [ ] Provoque une forte myélosuppression
+- [x] Provoque une décompensation cardiaque
+- [ ] Provoque des thrombopénies
+- [x] Entraîne une légère toxicité neurologique périphérique
+- [x] Provoque des nausées et des vomissements
+
+### Le carboplatine :
+- [ ] Présente une forte néphrotoxicité
+- [ ] Provoque une cystite hémorragique
+- [x] Présente une ototoxicité
+- [ ] Provoque une forte myélosuppression
+- [ ] Provoque une décompensation cardiaque
+- [x] Provoque des thrombopénies
+- [ ] Entraîne une légère toxicité neurologique périphérique
+- [x] Provoque des nausées et des vomissements
+
+### L'oxaliplatine a une forte toxicité neurologique périphérique.
+- [x] Vrai
+- [ ] Faux
+
+### Un inhibiteur de topoisomérases de type 1 l'irinotécan provoque de fortes diarrhées et peut aussi déclencher un syndrome cholinergique au moment de l'injection.
+- [x] Vrai
+- [ ] Faux
+
+### Les anthracyclines (agents intercalants) la doxorubicine et l'épirubicine présentent une forte cardiotoxicité.
+- [x] Vrai
+- [ ] Faux
+### Les antipyrimidiques (le 5-fluoro-uracile (5-FU), la capécitabine, la gemcitabine) sont :
+- [x] Des antimétabolites
+- [ ] Des sels de platine
+- [ ] Des anthracyclines
+
+### Le méthotrexate est : 
+- [x] Un antimétabolite
+- [x] Un antifolique
+- [ ] Un agents intercalant
+
+### Le 5-fluoro-uracile (5-FU) :
+- [x] Provoque une thrombopénie, une neutropénie et l'anémie
+- [x] Provoque des fortes diarrhées
+- [x] A une toxicité cardiaque importante
+- [x] A une toxicité cutanée
+- [ ] Provoque un syndrome mains-pieds
+
+###  Il est obligatoire de rechercher un déficit en dihydropyrimidine déshydrogénase avant tout traitement par :
+- [x] 5-FU ou par ses analogues oraux 
+- [ ] Les anthracyclines
+- [ ] Les alkylants
+
+### Les taxanes sont des poisons du fuseau.
+- [x] Vrai
+- [ ] Faux
+
+### Le principal effet secondaire des taxanes est :
+- [x] Une toxicité neurologique
+- [ ] Une toxicité cardiaque importante
+- [ ] Une forte néphrotoxicité
+
+### Avant chaque cure de chimiothérapie :
+- [x] Vérifier la tolérance de la précédente cure . Grader les toxicités.
+- [x] Vérifier la prise de prémédication
+- [x] Vérifier l’absence de syndrome infectieux
+- [x] Vérifier PNN > 1500 (1000 pour certaines chimiothérapies) 
+- [ ] Vérifier le dosage de la TSH
+- [ ] Vérifier le dosage de la troponine
+- [x] Vérifier plaquettes > 100 000 (50 000 pour certaines chimiothérapies)
+- [x] Vérifier clairance créatinine (sels de platine
+- [x] Vérifier bilan hépatique
+- [ ] Réaliser systématiquement une ostéodensitométrie
+- [x] Variable selon les différents chimiothérapies
+
+### Les anticorps monoclonaux sont de grosses molécules dont le nom se termine par « -mab ».
+- [ ] Vrai
+- [ ] Faux
+
+### Le bévacizumab provoque une protéinurie et des troubles de la cicatrisation.
+- [x] Vrai
+- [ ] Faux
+
+### Le pertuzumab et le trastuzumab ont une forte toxicité cardiaque.
+- [ ] Vrai
+- [ ] Faux
+
+### Le tamoxifène :
+- [x] Est un Selective Estrogen Receptor Modulator
+- [ ] Est un inhibiteur pharmacologique
+- [ ] Est un sel de platine
+
+### Les inhibiteurs de l'aromatase sont utilisés plutôt chez la patiente non ménopausée. 
+- [ ] Vrai
+- [x] Faux
+
+### L'hormonothérapie du cancer de la prostate peut provoquer une hyperglycémie, un diabète.
+- [x] Vrai
+- [ ] Faux
+
+### Les anti-CTLA-4 peuvent provoquer :
+- [x] Une diarrhée (colite)
+- [x] Une hépatite
+- [x] Une pneumopathie
 
 
  
