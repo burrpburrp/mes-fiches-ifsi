@@ -1,7 +1,5 @@
 ---
-titre: |-
-  Traitements systémiques en
-  oncologie médicale
+titre: Traitements systémiques en oncologie médicale
 resume:
 ue:
   - "2.9"
