@@ -27,17 +27,21 @@ const { questions = [], titre = 'Teste-toi', melanger = false } = Astro.props;
             {q.explication && <span> {q.explication}</span>}
             {q.fiche && <span class="origine">Pour réviser : <a href={lien(`fiches/${q.fiche.id}/`)}>{q.fiche.titre}</a></span>}
           </p>
+          <button type="button" class="verifier" disabled>Valider</button>
         </fieldset>
       );
     })}
-    <button type="button" class="verifier">Vérifier mes réponses</button>
     <p class="score" hidden></p>
   </section>
 )}
 
 <script>
   // Correction du QCM directement dans le navigateur : rien n'est enregistré.
+  // Chaque question se corrige dès qu'on clique sur son bouton « Valider ».
+  import { corriger, texteScore } from '../lib/correction-qcm.mjs';
+
   document.querySelectorAll<HTMLElement>('.qcm').forEach((qcm) => {
+    const score = qcm.querySelector<HTMLElement>('.score')!;
     // QCM général : nouvel ordre des questions à chaque ouverture de la page.
     if (qcm.hasAttribute('data-melanger')) {
       const questions = [...qcm.querySelectorAll<HTMLElement>('.question')];
@@ -45,31 +49,41 @@ const { questions = [], titre = 'Teste-toi', melanger = false } = Astro.props;
         const j = Math.floor(Math.random() * (i + 1));
         [questions[i], questions[j]] = [questions[j], questions[i]];
       }
-      const bouton = qcm.querySelector('.verifier');
       questions.forEach((q, i) => {
-        qcm.insertBefore(q, bouton);
+        qcm.insertBefore(q, score);
         q.querySelector('.numero')!.textContent = String(i + 1);
       });
     }
-    qcm.querySelector('.verifier')?.addEventListener('click', () => {
-      let bonnes = 0;
-      const questions = qcm.querySelectorAll<HTMLElement>('.question');
-      questions.forEach((q) => {
-        const attendues = (q.dataset.reponses ?? '').split(',').filter(Boolean).map(Number).sort();
-        const cochees = [...q.querySelectorAll<HTMLInputElement>('input:checked')].map((c) => Number(c.value)).sort();
-        const juste = attendues.length > 0 && attendues.join() === cochees.join();
-        if (juste) bonnes++;
-        const libelles = [...q.querySelectorAll('label')].map((l) => l.textContent?.trim());
+
+    const questions = [...qcm.querySelectorAll<HTMLElement>('.question')];
+    let validees = 0;
+    let bonnes = 0;
+    questions.forEach((q) => {
+      const bouton = q.querySelector<HTMLButtonElement>('.verifier')!;
+      const cases = [...q.querySelectorAll<HTMLInputElement>('input')];
+      // Le bouton s'active dès qu'une réponse est cochée.
+      q.addEventListener('change', () => {
+        bouton.disabled = !cases.some((c) => c.checked);
+      });
+      bouton.addEventListener('click', () => {
+        const attendues = (q.dataset.reponses ?? '').split(',').filter(Boolean).map(Number);
+        const cochees = cases.filter((c) => c.checked).map((c) => Number(c.value));
+        const libelles = [...q.querySelectorAll('label')].map((l) => l.textContent?.trim() ?? '');
+        const { juste, verdict } = corriger(attendues, cochees, libelles);
         const correction = q.querySelector<HTMLElement>('.correction')!;
         correction.hidden = false;
         correction.className = `correction ${juste ? 'juste' : 'faux'}`;
-        correction.querySelector('.verdict')!.textContent = juste
-          ? '✅ Bonne réponse.'
-          : `❌ ${attendues.length > 1 ? 'Les bonnes réponses étaient' : 'La bonne réponse était'} : ${attendues.map((a) => libelles[a]).join(' ; ')}.`;
+        correction.querySelector('.verdict')!.textContent = verdict;
+        // Réponse verrouillée une fois la correction vue.
+        cases.forEach((c) => { c.disabled = true; });
+        bouton.hidden = true;
+        validees++;
+        if (juste) bonnes++;
+        if (validees === questions.length) {
+          score.hidden = false;
+          score.textContent = texteScore(bonnes, questions.length);
+        }
       });
-      const score = qcm.querySelector<HTMLElement>('.score')!;
-      score.hidden = false;
-      score.textContent = `Score : ${bonnes} / ${questions.length}`;
     });
   });
 </script>
