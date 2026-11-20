@@ -7,7 +7,7 @@ semestres: 5
 organes:
 type: processus tumoraux
 tags: []
-brouillon: true
+brouillon: false
 source: Leverger Guy 2025, service d'hématologie, cancérologie pédiatrique, hôpital Trousseau
 ---
 
