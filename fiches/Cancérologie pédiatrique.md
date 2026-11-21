@@ -90,7 +90,19 @@ L'immunothérapie fait aussi son chemin dans les cancers de l'enfant, comme dans
  - [x] Les neuroblastomes
  - [x] Les tumeurs cérébrales 
 
- ### 
+ ### Dans la population pédiatrique de 0 à 15 ans, à quel âge survient la plus grande proportion des cancers de l'enfant ?
+ - [x] Avant l'âge de 5 ans (presque 50 % des cas)
+ - [ ] Entre 5 et 10 ans (presque 50 % des cas)
+ - [ ] Entre 10 et 15 ans (presque 50 % des cas)
+ - [ ] La répartition est égale entre 0-5 ans, 5-10 ans et 10-15 ans (un tiers par tranche)
+
+### Au-delà de 15 ans, quel est le type de cancer le plus fréquent ? 
+ - [ ] Les leucémies aiguës
+ - [x] Les lymphomes 
+ - [ ] Les mélanomes
+ - [ ] Les cancers de la thyroïde
+
+###  
  - [ ] 
  
 
