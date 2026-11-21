@@ -73,6 +73,24 @@ Les leucémies aiguës lymphoblastiques qui surviennent chez le nourrisson de mo
 Il existe une forme très spécifique de leucémie, appelée LAM3, qui se traite sans chimiothérapie. On la soigne avec de l'acide rétinoïque et de l'arsenic. L'acide rétinoïque est un dérivé de la vitamine A, proche des médicaments anti-acné. L'arsenic était déjà utilisé à la fin du XIXe et au début du XXe siècle pour traiter ces patients. Aujourd'hui, cette combinaison donne 95 % de guérison dans les formes LAM3. Traiter les enfants sans chimiothérapie reste un rêve qui ne se réalise aujourd'hui que pour un très petit nombre de leucémies aiguës spécifiques.
 L'immunothérapie fait aussi son chemin dans les cancers de l'enfant, comme dans les cancers de l'adulte. Contrairement à la chimiothérapie qui attaque toutes les cellules qui se divisent vite, l'immunothérapie utilise les défenses naturelles du patient pour détruire la tumeur. Elle utilise notamment des anticorps monoclonaux, des protéines fabriquées en laboratoire pour reconnaître une cible précise, appelée antigène, à la surface des cellules tumorales, comme les anticorps anti-GD2 dans le neuroblastome. D'autres anticorps monoclonaux sont capables d'attacher ensemble une cellule cancéreuse et un lymphocyte. C'est une grande découverte pour les leucémies aiguës lymphoblastiques de la lignée B grâce à un médicament appelé le blinatumomab. Ce médicament possède deux bras : un bras se fixe sur le lymphoblaste B malade et l'autre bras s'accroche sur le lymphocyte T. Normalement, le rôle des lymphocytes T est de détruire les cellules cancéreuses, mais les cellules leucémiques les bloquent et les empêchent d'agir. Grâce à cet anticorps qui fait le pont entre les deux cellules, le lymphocyte T est mis en contact forcé avec le lymphoblaste B, se réveille et le détruit. Ce médicament est encore en cours d'étude, mais il semble apporter un bénéfice majeur à la survie des enfants et des adultes. Il existe aussi un traitement moderne appelé les CAR-T cells, également beaucoup utilisé chez l'adulte. On prélève les lymphocytes T dans le sang du patient, on modifie leurs gènes en laboratoire pour leur ajouter un récepteur artificiel capable de reconnaître les cellules B, on les multiplie par millions et on les réinjecte au patient par perfusion. Cette attaque massive des cellules malades peut déclencher un orage cytokinique, une forte réaction inflammatoire avec de la fièvre et une baisse de la tension artérielle qu'il faut surveiller de près. Ces CAR-T cells détruisent non seulement les lymphoblastes B malades, mais aussi les lymphocytes B sains, car tous deux portent le même marqueur à leur surface. Comme les lymphocytes B sains fabriquent normalement les anticorps contre les infections, il faut souvent perfuser régulièrement des immunoglobulines au patient après ce traitement pour le protéger. Ce traitement personnalisé coûte 300 000 €. С'est cher à produire. Ce traitement s'adresse aux enfants qui échappent au traitement conventionnel.
  
+ ## QCM
  
+ ### Quelle est la fréquence des cancers de l'enfant dans la population générale ?
+ - [ ] Ils représentent 5 % de l'ensemble des cancers et touchent 1 enfant sur 500.
+ - [x] Ils représentent 0,5 % de l'ensemble des cancers et touchent 1 enfant sur 500.
+ - [ ] Ils représentent 0,5 % de l'ensemble des cancers et touchent 1 enfant sur 5 000.
+ - [ ] Ils représentent 1 % de l'ensemble des cancers et touchent 1 enfant sur 100000.
+
+### Quels sont les principaux types de cancers observés chez l'enfant ? 
+ - [ ] Les cancers du poumon
+ - [x] Les leucémies
+ - [x] Les lymphomes
+ - [ ] Les cancers du côlon
+ - [x] Les néphroblastomes
+ - [x] Les neuroblastomes
+ - [x] Les tumeurs cérébrales 
+
+ ### 
+ - [ ] 
  
 
