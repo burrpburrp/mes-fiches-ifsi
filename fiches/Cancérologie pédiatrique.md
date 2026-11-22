@@ -33,8 +33,10 @@ Neuf fois sur dix, les néphroblastomes surviennent chez des enfants sans anomal
 Les circonstances de découverte sont en général un gros ventre. Ce sont souvent de très grosses tumeurs. Un parent remarque souvent un ventre gonflé et dur à la palpation abdominale, pendant la toilette de l'enfant. Le médecin peut aussi découvrir cette masse. Parfois, il y a une hématurie macroscopique ou de la fièvre.
 Сe sont des tumeurs qui évoluent souvent très vite. Et puis c'est une tumeur qui peut donner des métastases et en particulier des métastases pulmonaires.  
 Le traitement de ces maladies commence par une chimiothérapie préopératoire. La plupart du temps, on ne fait pas de biopsie. C'est l'un des rares cancers où l'imagerie suffit pour évoquer le diagnostic sans se tromper dans 99 % des cas. La chimiothérapie préopératoire associe la vincristine et l'actinomycine pendant un mois. Lorsqu'il y a une atteinte métastatique, on utilise une anthracycline. L'objectif de cette chimiothérapie est de réduire la masse pour faciliter le travail du chirurgien, qui va enlever la tumeur et le plus souvent le rein. Elle permet aussi d'évaluer la sensibilité à la chimiothérapie et de traiter les métastases, ou les micrométastases si on ne voit pas de métastases.
-Dans certains cas, en particulier lorsqu'il y a des tumeurs bilatérales, le chirurgien en fonction de la localisation de la tumeur peut proposer une néphrectomie partielle et éventuellement une intervention par cœlioscopie. Mais aujourd'hui, le traitement classique, c'est la néphrectomie totale.  
-Quel traitement après la néphrectomie ? Le traitement postopératoire dépend de deux critères : l'histologie et l'extension de la tumeur. Après l'opération, l'anatomopathologiste examine la tumeur retirée au microscope pour voir comment elle a réagi à la chimiothérapie préopératoire. Si les cellules cancéreuses sont mortes, le patient est classé en bas risque. Si des cellules vivantes et agressives restent présentes, le patient est classé en risque intermédiaire ou en haut risque. L'anatomopathologiste mesure aussi l'extension locale de la tumeur, divisée en trois stades. Au stade 1, la tumeur est restée à l'intérieur du rein et le chirurgien l'a retirée en totalité. Au stade 2, la tumeur est sortie du rein ou a touché les vaisseaux voisins, mais le chirurgien a quand même tout enlevé. Au stade 3, la tumeur a franchi sa capsule (rupture tumorale), n'a pas pu être enlevée complètement ou a atteint les ganglions voisins. Ces deux critères décident de la suite. Si la tumeur est au stade 1 et à bas risque, l'enfant est considéré comme guéri : on décide une abstention thérapeutique et on arrête les médicaments. Si le risque histologique est élevé ou si la tumeur est au stade 3, des cellules cancéreuses microscopiques peuvent rester dans le corps. Il faut un traitement très intensif avec une polychimiothérapie pour traiter tout l'organisme, et parfois une radiothérapie de l'hémi-abdomen pour détruire les cellules restantes dans la zone du rein retiré.
+Dans certains cas, en particulier lorsqu'il y a des tumeurs bilatérales, le chirurgien en fonction de la localisation de la tumeur peut proposer une néphrectomie partielle. Mais aujourd'hui, le traitement classique, c'est la néphrectomie totale.  
+Quel traitement après la néphrectomie ? Le traitement postopératoire dépend de deux critères : l'histologie et l'extension de la tumeur. Après l'opération, l'anatomopathologiste examine la tumeur retirée au microscope pour voir comment elle a réagi à la chimiothérapie préopératoire. Si les cellules cancéreuses sont mortes, le patient est classé en bas risque. Si des cellules vivantes et agressives restent présentes, le patient est classé en risque intermédiaire ou en haut risque.
+L'anatomopathologiste mesure aussi l'extension locale de la tumeur, divisée en trois stades. Au stade 1, la tumeur est restée à l'intérieur du rein et le chirurgien l'a retirée en totalité. Au stade 2, la tumeur est sortie du rein ou a touché les vaisseaux voisins, mais le chirurgien a quand même tout enlevé. Au stade 3, la tumeur a franchi sa capsule (rupture tumorale), n'a pas pu être enlevée complètement ou a atteint les ganglions voisins. Ces deux critères décident de la suite. 
+Si la tumeur est au stade 1 et à bas risque, l'enfant est considéré comme guéri : on décide une abstention thérapeutique et on arrête les médicaments. Si le risque histologique est élevé ou si la tumeur est au stade 3, des cellules cancéreuses microscopiques peuvent rester dans le corps. Il faut un traitement très intensif avec une polychimiothérapie pour traiter tout l'organisme, et parfois une radiothérapie de l'hémi-abdomen pour détruire les cellules restantes dans la zone du rein retiré.
 Les formes de bas risque ont une survie de 100 %. Les formes défavorables, sur le plan histologique ou d'extension métastatique, guérissent sans rechuter deux fois sur trois et guérissent définitivement trois fois sur quatre. Heureusement, ces formes sont rares, mais 20 à 25 % de ces enfants meurent encore de leur maladie. C'est un cancer de bon pronostic, mais il y a encore des formes de pronostic réservé.
 Le suivi à long terme concerne le rein unique. Lorsqu'une récidive survient, elle apparaît en général dans les 3 ans. Lorsque ces petits enfants ont reçu de la doxorubicine, ils s'exposent aux complications de la chimiothérapie : les anthracyclines ont une toxicité cardiaque cumulative. Il faut surveiller la fonction cardiaque de ces enfants par des échographies.  
 ## Neuroblastome
@@ -117,15 +119,28 @@ L'immunothérapie fait aussi son chemin dans les cancers de l'enfant, comme dans
  - [ ] Non
  - [x] Oui
 
-Bonne réponse : Oui - C'est une tumeur embryonnaire dont les cellules ont une forte activité proliférative. Le temps de doublement du volume de cette tumeur est ainsi d'environ deux semaines en moyenne.
+C'est une tumeur embryonnaire dont les cellules ont une forte activité proliférative. Le temps de doublement du volume de cette tumeur est ainsi d'environ deux semaines en moyenne.
 ### Où le néphroblastome donne-t-il principalement des métastases ? 
  - [ ] Dans les os
  - [x] Dans les poumons
  - [ ] Dans le cerveau
  - [ ] Dans la moelle osseuse
 
-Bonne réponse : Dans les poumons - Cette localisation préférentielle s'explique par le trajet du drainage veineux du rein : les cellules tumorales pénètrent dans la veine rénale, rejoignent la veine cave inférieure avec le flux sanguin, traversent les cavités droites du cœur et arrivent directement dans la circulation pulmonaire, qui constitue le premier filtre capillaire sur leur passage.
+Les poumons - Cette localisation préférentielle s'explique par le trajet du drainage veineux du rein : les cellules tumorales pénètrent dans la veine rénale, rejoignent la veine cave inférieure avec le flux sanguin, traversent les cavités droites du cœur et arrivent directement dans la circulation pulmonaire, qui constitue le premier filtre capillaire sur leur passage.
+###  Quelle tumeur pédiatrique représente l'un des rares cas où l'imagerie suffit le plus souvent à évoquer le diagnostic avec une certitude de 99 %, sans réaliser de biopsie préalable ?
+ - [ ] Le neuroblastome
+ - [x] Le néphroblastome
+ - [ ] La leucémie aiguë lymphoblastique
+ - [ ] Le lymphome de Hodgkin
+
+Pour le néphroblastome, on ne fait pas de biopsie à cause du risque de rupture de la capsule tumorale et de dissémination des cellules tumorales dans le péritoine. On réalise une biopsie uniquement dans les cas atypiques.
+### Chez les enfants atteints d'un néphroblastome de forme défavorable et traités par la doxorubicine après la chirurgie, quel organe nécessite une surveillance spécifique à long terme en raison de la toxicité du traitement ? 
+ - [ ]  Le foie
+ - [ ] Les poumons
+ - [ ] Le cœur
+ - [ ] Le cerveau
+
+Les anthracyclines (telles que la doxorubicine) présentent une toxicité cardiaque cumulative, ce qui impose de surveiller régulièrement la fonction cardiaque de ces enfants à long terme par des échographies cardiaques.
 ###  
  - [ ] 
- 
 
