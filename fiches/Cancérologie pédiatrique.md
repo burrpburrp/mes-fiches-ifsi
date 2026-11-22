@@ -25,8 +25,11 @@ Au-delà de 15 ans , les lymphomes sont les cancers les plus fréquents, dont le
 Dans les pays socio-économiquement développés, les chances de guérison dépassent 80 % depuis les années 2000 et atteignent aujourd'hui 80 à 85 %. Derrière ce pourcentage de 85 %, 15 % des enfants meurent de leur cancer. 
 Certains cancers guérissent dans 99 ou 100 % des cas. D'autres, en particulier certains cancers métastatiques, guérissent dans moins de 20 % des cas avec les moyens thérapeutiques actuels.
 Avant 1970, les chances de guérison étaient largement en dessous de 30 %. La révolution dans la prise en charge des cancers, surtout chez l'enfant mais aussi chez l'adulte, a lieu dans la décennie 1960-1970. Durant cette période, on découvre beaucoup de médicaments anticancéreux. Les cancers de l'enfant ont une particularité : ils sont globalement très chimiosensibles, beaucoup plus que ceux de l'adulte. On obtient alors des guérisons qui n'existaient pas avant. 
-## Neuroblastome
-Le néphroblastome est une tumeur du rein. On l'appelle aussi tumeur de Wilms. Elle survient chez les enfants entre 1 et 5 ans, et la quasi-totalité des patients ont moins de 7 ans, voire moins de 6 ans. En France, il y a 120 nouveaux cas par an, et la survie globale est de 85 %. Neuf fois sur dix, les néphroblastomes surviennent chez des enfants sans anomalie génétique prédisposante. Une fois sur dix, un syndrome génétique prédispose à cette tumeur.
+## Néphroblastome
+Le néphroblastome est une tumeur du rein. On l'appelle aussi tumeur de Wilms. 
+Elle survient chez les enfants entre 1 et 5 ans, et la quasi-totalité des patients ont moins de 7 ans, voire moins de 6 ans. E
+En France, il y a 120 nouveaux cas par an, et la survie globale est de 85 %.
+Neuf fois sur dix, les néphroblastomes surviennent chez des enfants sans anomalie génétique prédisposante. Une fois sur dix, un syndrome génétique prédispose à cette tumeur.
 Les circonstances de découverte sont en général un gros ventre. Ce sont souvent de très grosses tumeurs. Un parent remarque souvent un ventre gonflé et dur à la palpation abdominale, pendant la toilette de l'enfant. Le médecin peut aussi découvrir cette masse. Parfois, il y a une hématurie macroscopique ou de la fièvre.
 Сe sont des tumeurs qui évoluent souvent très vite. Et puis c'est une tumeur qui peut donner des métastases et en particulier des métastases pulmonaires.  
 Le traitement de ces maladies commence par une chimiothérapie préopératoire. La plupart du temps, on ne fait pas de biopsie. C'est l'un des rares cancers où l'imagerie suffit pour évoquer le diagnostic sans se tromper dans 99 % des cas. La chimiothérapie préopératoire associe la vincristine et l'actinomycine pendant un mois. Lorsqu'il y a une atteinte métastatique, on utilise une anthracycline. L'objectif de cette chimiothérapie est de réduire la masse pour faciliter le travail du chirurgien, qui va enlever la tumeur et le plus souvent le rein. Elle permet aussi d'évaluer la sensibilité à la chimiothérapie et de traiter les métastases, ou les micrométastases si on ne voit pas de métastases.
@@ -96,12 +99,32 @@ L'immunothérapie fait aussi son chemin dans les cancers de l'enfant, comme dans
  - [ ] Entre 10 et 15 ans (presque 50 % des cas)
  - [ ] La répartition est égale entre 0-5 ans, 5-10 ans et 10-15 ans (un tiers par tranche)
 
-### Au-delà de 15 ans, quel est le type de cancer le plus fréquent ? 
+### Au-delà de 15 ans, quel est le type de cancer le plus fréquent chez les adolescents ?
  - [ ] Les leucémies aiguës
  - [x] Les lymphomes 
  - [ ] Les mélanomes
  - [ ] Les cancers de la thyroïde
 
+###  Les cancers de l'enfant sont-ils globalement beaucoup plus chimiosensibles que ceux de l'adulte ?
+ - [x] Oui
+ - [ ] Non
+
+###  À quelle pathologie correspond la tumeur de Wilms ?
+ - [x] Un néphroblastome
+ - [ ] Un neuroblastome
+
+### Le néphroblastome est-il une tumeur qui évolue souvent très vite ? 
+ - [ ] Non
+ - [x] Oui
+
+Bonne réponse : Oui - C'est une tumeur embryonnaire dont les cellules ont une forte activité proliférative. Le temps de doublement du volume de cette tumeur est ainsi d'environ deux semaines en moyenne.
+### Où le néphroblastome donne-t-il principalement des métastases ? 
+ - [ ] Dans les os
+ - [x] Dans les poumons
+ - [ ] Dans le cerveau
+ - [ ] Dans la moelle osseuse
+
+Bonne réponse : Dans les poumons - Cette localisation préférentielle s'explique par le trajet du drainage veineux du rein : les cellules tumorales pénètrent dans la veine rénale, rejoignent la veine cave inférieure avec le flux sanguin, traversent les cavités droites du cœur et arrivent directement dans la circulation pulmonaire, qui constitue le premier filtre capillaire sur leur passage.
 ###  
  - [ ] 
  
