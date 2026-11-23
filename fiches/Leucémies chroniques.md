@@ -7,7 +7,7 @@ semestres: 5
 organes:
 type: processus tumoraux
 tags: []
-brouillon: true
+brouillon: false
 source: Ludovic Jondreville, Centre Hospitalo-Universitaire Pitié-Salpêtrière, AP-HP Paris
 ---
 ## Hémopathies malignes
