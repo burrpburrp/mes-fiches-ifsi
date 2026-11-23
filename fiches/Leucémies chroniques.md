@@ -11,7 +11,9 @@ brouillon: false
 source: Ludovic Jondreville, Centre Hospitalo-Universitaire Pitié-Salpêtrière, AP-HP Paris
 ---
 ## Hémopathies malignes
-Le sang contient des globules rouges, des globules blancs et des plaquettes. Il existe plusieurs types de globules blancs. Les deux principaux sont les polynucléaires neutrophiles, suivis par les lymphocytes, qui ont des fonctions très différentes. Les autres globules blancs sont plus mineurs : les polynucléaires éosinophiles, les polynucléaires basophiles et les monocytes.
+Le sang contient des globules rouges, des globules blancs et des plaquettes. 
+Il existe plusieurs types de globules blancs. Les deux principaux sont les polynucléaires neutrophiles, suivis par les lymphocytes, qui ont des fonctions très différentes. 
+Les autres globules blancs sont plus mineurs : les polynucléaires éosinophiles, les polynucléaires basophiles et les monocytes.
 L'analyse des cellules du sang est réalisée très régulièrement, presque à chaque prise de sang. Elle consiste à compter les différents globules : c'est la numération formule sanguine (NFS). La formule sanguine, aussi appelée formule leucocytaire, donne le détail des sous-types de globules blancs.  
 Quand l'automate compte des cellules pathologiques, il indique souvent « cellules atypiques » et il faut qu'un technicien ou un biologiste regarde directement au microscope. On réalise un frottis sanguin : une goutte de sang est étalée sur une lame et regardée au microscope pour voir les différents types de globules.
 En combinant les résultats de l'automate et l'éventuel contrôle du frottis sanguin au microscope, on obtient le compte-rendu de la formule sanguine.
@@ -22,13 +24,15 @@ La production des cellules sanguines par la moelle osseuse s'appelle l'hématopo
 La moelle osseuse produit les globules rouges, les globules blancs et les plaquettes. Chaque cellule a une durée de vie limitée : les globules rouges vivent environ trois à quatre mois et les plaquettes environ sept à huit jours. Au bout d'un moment, ces cellules vieillissent et meurent. Le rôle de la moelle osseuse est de renouveler ce stock.
 L'hématopoïèse part de la cellule souche hématopoïétique, aussi appelée blaste. Cette cellule est capable de se différencier en différents types de cellules : les globules rouges, les globules blancs et les plaquettes. À partir de ce blaste, il existe deux voies de différenciation possibles : la voie myéloïde et la voie lymphoïde.
 La voie myéloïde se différencie en globules rouges, en plaquettes et en tous les globules blancs sauf les lymphocytes. Les globules blancs de cette voie sont les polynucléaires neutrophiles, les polynucléaires éosinophiles, les polynucléaires basophiles et les monocytes. Tout cela se passe dans la moelle osseuse. Une fois matures, les cellules sortent de la moelle et se retrouvent dans le sang.
-Dans la voie lymphoïde, la cellule souche lymphoïde donne le lymphoblaste. La différenciation se fait soit vers le lymphocyte T, soit vers le lymphocyte B. Une fois matures, les lymphocytes B et T passent dans le sang. D'autres processus peuvent encore leur arriver lorsqu'ils rencontrent l'antigène correspondant.
+Dans la voie lymphoïde, la cellule souche lymphoïde donne le lymphoblaste. La différenciation se fait soit vers le lymphocyte T, soit vers le lymphocyte B. Une fois matures, les lymphocytes B et T passent dans le sang. D'autres processus peuvent encore leur arriver lorsqu'ils rencontrent l'antigène correspondant (une substance reconnue comme étrangère par l'organisme, qui déclenche une réaction immunitaire).
 Il faut garder en tête que la cellule souche, les progéniteurs et les précurseurs se trouvent dans la moelle osseuse.
 La circulation lymphatique est tout aussi importante que la circulation sanguine. En général, elle suit à peu près le trajet des vaisseaux sanguins et elle est connectée à la circulation sanguine. Cette circulation implique des organes lymphoïdes primaires et secondaires. 
 Les lymphocytes B sont produits dans la moelle osseuse et y mûrissent jusqu'à donner des lymphocytes B matures. 
 Les lymphocytes T sont aussi produits dans la moelle osseuse, mais ils en sortent pour finir leur maturation dans le thymus. 
 La moelle osseuse et le thymus sont appelés les organes lymphoïdes primaires : c'est là que se font la production et la maturation des lymphocytes.
-Une fois matures, les lymphocytes B et T sont encore naïfs. Ils n'ont pas rencontré l'antigène qui va les activer. Ces lymphocytes circulent dans le sang et dans la lymphe. Quand les lymphocytes B et T sont activés par l'antigène correspondant, une réaction immunologique se produit essentiellement dans les ganglions. Elle peut aussi avoir lieu dans la rate ou dans le tissu lymphoïde associé aux muqueuses, aussi appelé MALT (Mucosa-Associated Lymphoid Tissue). Les ganglions, la rate et le MALT sont les organes lymphoïdes secondaires. Dans les organes lymphoïdes primaires se font la production et la maturation, alors que dans les organes lymphoïdes secondaires se fait l'activation.
+*Moi : Au cours de la maturation, le lymphocyte crée sur sa membrane un récepteur unique par un assemblage génétique aléatoire. Ce récepteur est capable de reconnaître un seul antigène précis. En même temps, l'organisme effectue une sélection : les cellules dont le récepteur n'est pas fonctionnel ou réagit contre les propres tissus sains du corps sont détruites. Des organes primaires sortent dans le sang et la lymphe des lymphocytes totalement prêts à fonctionner et sans danger pour l'organisme, mais encore naïfs, c'est-à-dire des cellules qui n'ont jamais rencontré leur cible.*
+Ces lymphocytes naïfs circulent dans le sang et dans la lymphe. Quand les lymphocytes B et T sont activés par l'antigène correspondant, une réaction immunologique se produit essentiellement dans les ganglions. Elle peut aussi avoir lieu dans la rate ou dans le tissu lymphoïde associé aux muqueuses, aussi appelé MALT (Mucosa-Associated Lymphoid Tissue). Les ganglions, la rate et le MALT sont les organes lymphoïdes secondaires. Dans les organes lymphoïdes primaires se font la production et la maturation, alors que dans les organes lymphoïdes secondaires se fait l'activation.
+*Moi : Lorsqu'un virus, une bactérie ou une autre particule étrangère pénètre dans les tissus de l'organisme, des cellules immunitaires sentinelles capturent ses fragments (les antigènes) et les transportent vers le ganglion lymphatique le plus proche ou vers la rate. Parmi les nombreux lymphocytes naïfs qui passent par là, celui dont le récepteur de surface correspond exactement à l'antigène apporté reçoit un signal et s'active. L'activation signifie que le lymphocyte sort de son état de repos : il commence à se diviser activement pour créer un grand nombre de copies identiques et devient une cellule active de la réponse immunitaire, qui produit des anticorps (s'il s'agit d'un lymphocyte B) ou participe directement à la destruction de la source de l'antigène et à la coordination de la défense (s'il s'agit d'un lymphocyte T).*
 Chaque année en France, il y a environ 400 000 à 450 000 nouveaux cancers pour une population d'environ 70 millions de personnes. Parmi ces 450 000 nouveaux cancers, on compte environ 45 000 nouveaux diagnostics de cancers du sang, aussi appelés hémopathies malignes. Les cancers du sang représentent environ 10 % de tous les cancers.
 Parmi les différents types de cancers hématologiques, les plus fréquents sont les lymphomes, surtout les lymphomes non hodgkiniens et un peu le lymphome de Hodgkin. Il existe aussi d'autres cancers qui ne sont pas des lymphomes, comme les leucémies aiguës et les leucémies chroniques.
 #### Hémopathies myéloïdes
@@ -155,8 +159,67 @@ Les LMC et LLC sont globalement de bons pronostics.
  
  ## QCM
  
- ### Quelle est la fréquence des cancers de l'enfant dans la population générale ?
- - [ ] Ils représentent 5 % de l'ensemble des cancers et touchent 1 enfant sur 500.
- - [x] Ils représentent 0,5 % de l'ensemble des cancers et touchent 1 enfant sur 500.
- - [ ] Ils représentent 0,5 % de l'ensemble des cancers et touchent 1 enfant sur 5 000.
- - [ ] Ils représentent 1 % de l'ensemble des cancers et touchent 1 enfant sur 100000.
+ ### Quelles sont les valeurs normales de l'hémoglobine chez l'adulte selon le sexe, exprimées en unité internationale (g/L) et en unité courante (g/dL) ?
+ - [x] Chez l'homme adulte, les valeurs normales se situent entre 130 et 180 g/L (13 à 18 g/dL).
+ - [x] Chez la femme adulte, la concentration normale d'hémoglobine est comprise entre 120 et 160 g/L (soit 12 à 16 g/dL).
+ - [ ] Chez l'homme adulte, les valeurs normales se situent entre 140 et 190 g/L, soit entre 14 et 19 g/dL.
+ - [ ] Chez la femme adulte, les valeurs normales sont comprises entre 110 et 150 g/L, soit entre 11 et 15 g/dL.
+ - [ ] Chez l'homme adulte, la norme se situe entre 120 et 170 g/L (12 à 17 g/dL), et chez la femme adulte entre 105 et 145 g/L (10,5 à 14,5 g/dL).
+
+### Parmi les propositions suivantes concernant les valeurs normales des plaquettes chez l'adulte, laquelle  est  exacte ? 
+ - [ ] Les valeurs normales des plaquettes se situent entre 100 et 300 giga par litre, soit entre 100 000 et 300 000 /mm³.
+ - [x] Les valeurs normales des plaquettes sont comprises entre 150 et 400 giga par litre, soit entre 150 000 et 400 000 /mm³.
+ - [ ] Les valeurs normales des plaquettes s'étendent de 200 à 500 giga par litre, soit de 200 000 à 500 000 /mm³.
+ - [ ] Les valeurs normales des plaquettes se situent entre 250 et 450 giga par litre, soit entre 250 000 et 450 000 /mm³.
+
+ ### Parmi les propositions suivantes concernant les valeurs normales des leucocytes chez l'adulte, laquelle est  exacte ?
+ - [ ] Les valeurs normales des leucocytes se situent entre 2 et 8 giga par litre, soit entre 2 000 et 8 000 /mm³.
+ - [ ] Les valeurs normales des leucocytes s'étendent de 6 à 14 giga par litre, soit de 6 000 à 14 000 /mm³.
+ - [x] Les valeurs normales des leucocytes sont comprises entre 4 et 10 giga par litre, soit entre 4 000 et 10 000 /mm³.
+ - [ ] Les valeurs normales des leucocytes sont comprises entre 1 et 5 giga par litre, soit entre 1 000 et 5 000 /mm³.
+
+### Parmi les propositions suivantes concernant les valeurs normales des lymphocytes chez l'adulte, laquelle est exacte ? 
+ - [ ] Les valeurs normales des lymphocytes se situent entre 0,5 et 2 giga par litre, soit entre 500 et 2 000 /mm³.
+ - [ ] Les valeurs normales des lymphocytes s'étendent de 2 à 6 giga par litre, soit de 2 000 à 6 000 /mm³.
+ - [ ] Les valeurs normales des lymphocytes sont comprises entre 3 et 7 giga par litre, soit entre 3 000 et 7 000 /mm³.
+ - [x] Les valeurs normales des lymphocytes sont comprises entre 1 et 4 giga par litre, soit entre 1 000 et 4 000 /mm³.
+
+### Parmi les propositions suivantes concernant les valeurs normales des polynucléaires neutrophiles chez l'adulte, laquelle est exacte ? 
+ - [ ] Les valeurs normales des polynucléaires neutrophiles se situent entre 1,0 et 5,0 giga par litre, soit entre 1 000 et 5 000 /mm³.
+ - [ ] Les valeurs normales des polynucléaires neutrophiles s'étendent de 2,5 à 9,0 giga par litre, soit de 2 500 à 9 000 /mm³.
+ - [x] Les valeurs normales des polynucléaires neutrophiles sont comprises entre 1,5 et 7,5 giga par litre, soit entre 1 500 et 7 500 /mm³.
+ - [ ] Les valeurs normales des polynucléaires neutrophiles sont comprises entre 0,5 et 3,5 giga par litre, soit entre 500 et 3 500 /mm³.
+
+### Parmi les propositions suivantes concernant les principaux sites anatomiques de l'hématopoïèse chez l'adulte, laquelles sont exactes ?
+- [x] Le sternum
+- [x] les épiphyses proximales des humérus et des fémurs
+- [ ] Le tibia et la fibula
+- [x] La colonne vertébrale
+- [x] Les hanches
+- [x] Le crâne
+
+### Parmi les propositions suivantes concernant la durée de vie moyenne des plaquettes dans la circulation sanguine, laquelle est exacte ?
+- [ ] Environ 24 à 48 heures
+- [x] Environ sept à huit jours
+- [ ] Environ trois à quatre semaines
+- [ ] Environ trois à quatre mois
+
+### Concernant la production et la maturation des lymphocytes B et T, quelle est la proposition exacte ?
+- [ ] Les lymphocytes B sont produits dans le thymus et mûrissent dans la moelle osseuse.
+- [ ] Les lymphocytes T sont produits dans le thymus et y achèvent leur maturation.
+- [x] Les lymphocytes B et T sont tous les deux produits dans la moelle osseuse, mais les lymphocytes T terminent leur maturation dans le thymus.
+- [ ] Les lymphocytes B quittent la moelle osseuse avant d'être matures pour finir leur maturation dans le thymus.
+
+### Concernant les organes lymphoïdes primaires et secondaires, quelles sont les propositions exactes ?
+- [x] La moelle osseuse et le thymus sont des organes lymphoïdes primaires.
+- [ ] La rate fait partie des organes lymphoïdes primaires.
+- [x] Les ganglions, la rate et le tissu lymphoïde associé aux muqueuses (MALT) sont les organes lymphoïdes secondaires.
+
+### En France, quel pourcentage de l'ensemble des nouveaux cancers représentent les cancers du sang ?
+- [ ] Environ 1 %
+- [ ] Environ 5 %
+- [x] Environ 10 %
+- [ ] Environ 25 %
+
+### 
+- [ ] 
