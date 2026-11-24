@@ -345,5 +345,3 @@ Les LMC et LLC sont globalement de bons pronostics.
 - [ ] Ce traitement se prend par la bouche et cible le défaut d'apoptose.
 - [ ] Dans la leucémie lymphoïde chronique, la protéine BCL2 (B-cell lymphoma 2) est fortement diminuée, et le vénétoclax permet de stimuler son action protectrice.
 
-### 
-- [ ] 
