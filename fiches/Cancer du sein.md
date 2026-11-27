@@ -12,7 +12,6 @@ source: |-
   Dr FOKA TICHOUE Hervé, Service oncologie médicale, 
   PR SPANO
 ---
-
 ## Epidémiologie
 En France, le cancer du sein est le premier cancer en termes d'incidence, de prévalence et de mortalité, surtout chez la femme. 
 En 2023, il y a 61 214 nouveaux cas en France métropolitaine. Sa prévalence est estimée à 913 089 personnes en 2017. 
